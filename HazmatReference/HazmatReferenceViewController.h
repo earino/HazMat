@@ -8,6 +8,11 @@
 
 #import <UIKit/UIKit.h>
 
-@interface HazmatReferenceViewController : UIViewController
+@interface HazmatReferenceViewController : UIViewController<UITextFieldDelegate>
+
+
+@property (weak, nonatomic) IBOutlet UITextField *hazmatCode;
+@property (weak, nonatomic) IBOutlet UITextView *hazmatCodeDescription;
+
 
 @end

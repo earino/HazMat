@@ -1,0 +1,4818 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NA0027</key>
+	<string>Black powder for small arms</string>
+	<key>NA0124</key>
+	<string>"Jet perforating guns, charged oil well, with detonator"</string>
+	<key>NA0276</key>
+	<string>Model rocket motor</string>
+	<key>NA0323</key>
+	<string>Model rocket motor</string>
+	<key>NA0331</key>
+	<string>Ammonium nitrate-fuel oil mixture containing only prilled ammonium nitrate and fuel oil</string>
+	<key>NA0337</key>
+	<string>Toy Caps</string>
+	<key>NA0494</key>
+	<string>"Jet perforating guns, charged oil well, with detonator"</string>
+	<key>NA1057</key>
+	<string>"Lighters, non-pressurized, containing flammable liquid"</string>
+	<key>NA1203</key>
+	<string>"Gasohol gasoline mixed with ethyl alcohol, with not more than 10% alcohol"</string>
+	<key>NA1270</key>
+	<string>Petroleum oil</string>
+	<key>NA1325</key>
+	<string>Fusee (railway or highway)</string>
+	<key>NA1350</key>
+	<string>Sulfur</string>
+	<key>NA1361</key>
+	<string>"Charcoal briquettes, shell, screenings, wood, etc."</string>
+	<key>NA1365</key>
+	<string>Cotton</string>
+	<key>NA1556</key>
+	<string>Methyldichloroarsine</string>
+	<key>NA1613</key>
+	<string>"Hydrocyanic acid, aqueous solutions with less than 5 percent hydrogen cyanide"</string>
+	<key>NA1693</key>
+	<string>"Tear gas devices with more than 2 percent tear gas substances, by mass"</string>
+	<key>NA1759</key>
+	<string>"Ferrous chloride, solid"</string>
+	<key>NA1760</key>
+	<string>"Compounds, cleaning liquid"</string>
+	<key>NA1760</key>
+	<string>"Compounds, tree killing, liquid or Compounds, weed killing, liquid"</string>
+	<key>NA1760</key>
+	<string>"Ferrous chloride, solution"</string>
+	<key>NA1760</key>
+	<string>Chemical kit</string>
+	<key>NA1911</key>
+	<string>Diborane mixtures</string>
+	<key>NA1954</key>
+	<string>"Refrigerant gases, n.o.s. or Dispersant gases, n.o.s."</string>
+	<key>NA1955</key>
+	<string>"Organic phosphate, mixed with compressed gas or Organic phosphate compound, mixed with compressed gas or Organic phosphorus compound, mixed with compressed gas"</string>
+	<key>NA1961</key>
+	<string>"Ethane-Propane mixture, refrigerated liquid"</string>
+	<key>NA1967</key>
+	<string>Parathion and compressed gas mixture</string>
+	<key>NA1987</key>
+	<string>Denatured alcohol</string>
+	<key>NA1993</key>
+	<string>"Combustible liquid, n.o.s."</string>
+	<key>NA1993</key>
+	<string>"Compounds, cleaning liquid"</string>
+	<key>NA1993</key>
+	<string>"Compounds, tree killing, liquid or Compounds, weed killing, liquid"</string>
+	<key>NA1993</key>
+	<string>"Fuel oil (No. 1, 2, 4, 5, or 6)"</string>
+	<key>NA1993</key>
+	<string>Diesel fuel</string>
+	<key>NA1999</key>
+	<string>"Asphalt, at or above its flash point"</string>
+	<key>NA2212</key>
+	<string>Asbestos</string>
+	<key>NA2448</key>
+	<string>"Sulfur, molten"</string>
+	<key>NA2742</key>
+	<string>Isobutyl chloroformate</string>
+	<key>NA2742</key>
+	<string>sec-Butyl chloroformate</string>
+	<key>NA2810</key>
+	<string>"Compounds, tree killing, liquid or Compounds, weed killing, liquid"</string>
+	<key>NA2845</key>
+	<string>"Ethyl phosphonous dichloride, anhydrous pyrophoric liquid"</string>
+	<key>NA2845</key>
+	<string>"Methyl phosphonous dichloride, pyrophoric liquid"</string>
+	<key>NA2927</key>
+	<string>"Ethyl phosphonothioic dichloride, anhydrous"</string>
+	<key>NA2927</key>
+	<string>Ethyl phosphorodichloridate</string>
+	<key>NA3077</key>
+	<string>"Hazardous waste, solid, n.o.s."</string>
+	<key>NA3077</key>
+	<string>"Other regulated substances, solid, n.o.s."</string>
+	<key>NA3082</key>
+	<string>"Hazardous waste, liquid, n.o.s."</string>
+	<key>NA3082</key>
+	<string>"Other regulated substances, liquid, n.o.s."</string>
+	<key>NA3178</key>
+	<string>Smokeless powder for small arms (100 pounds or less)</string>
+	<key>NA3334</key>
+	<string>"Self-defense spray, non-pressurized"</string>
+	<key>NA3356</key>
+	<string>"Oxygen generator, chemical, spent"</string>
+	<key>NA9035</key>
+	<string>Gas identification set</string>
+	<key>NA9191</key>
+	<string>"Chlorine dioxide, hydrate, frozen"</string>
+	<key>NA9202</key>
+	<string>"Carbon monoxide, refrigerated liquid (cryogenic liquid)"</string>
+	<key>NA9206</key>
+	<string>Methyl phosphonic dichloride</string>
+	<key>NA9260</key>
+	<string>"Aluminum, molten"</string>
+	<key>NA9263</key>
+	<string>Chloropivaloyl chloride</string>
+	<key>NA9264</key>
+	<string>"3,5-Dichloro-2,4,6-trifluoropyridine"</string>
+	<key>NA9269</key>
+	<string>Trimethoxysilane</string>
+	<key>UN0004</key>
+	<string>"Ammonium picrate, dry or wetted with less than 10 percent water, by mass"</string>
+	<key>UN0005</key>
+	<string>"Cartridges for weapons, with bursting charge"</string>
+	<key>UN0006</key>
+	<string>"Cartridges for weapons, with bursting charge"</string>
+	<key>UN0007</key>
+	<string>"Cartridges for weapons, with bursting charge"</string>
+	<key>UN0009</key>
+	<string>"Ammunition, incendiary with or without burster, expelling charge, or propelling charge"</string>
+	<key>UN0010</key>
+	<string>"Ammunition, incendiary with or without burster, expelling charge, or propelling charge"</string>
+	<key>UN0012</key>
+	<string>"Cartridges for weapons, inert projectile or Cartridges, small arms"</string>
+	<key>UN0014</key>
+	<string>"Cartridges for weapons, blank or Cartridges, small arms, blank"</string>
+	<key>UN0015</key>
+	<string>"Ammunition, smoke with or without burster, expelling charge or propelling charge"</string>
+	<key>UN0016</key>
+	<string>"Ammunition, smoke with or without burster, expelling charge or propelling charge"</string>
+	<key>UN0018</key>
+	<string>"Ammunition, tear-producing with burster, expelling charge or propelling charge"</string>
+	<key>UN0019</key>
+	<string>"Ammunition, tear-producing with burster, expelling charge or propelling charge"</string>
+	<key>UN0020</key>
+	<string>"Ammunition, toxic with burster, expelling charge, or propelling charge"</string>
+	<key>UN0021</key>
+	<string>"Ammunition, toxic with burster, expelling charge, or propelling charge"</string>
+	<key>UN0027</key>
+	<string>"Black powder or Gunpowder, granular or as a meal"</string>
+	<key>UN0028</key>
+	<string>"Black powder, compressed or Gunpowder, compressed or Black powder, in pellets or Gunpowder, in pellets"</string>
+	<key>UN0029</key>
+	<string>"Detonators, non-electric, for blasting"</string>
+	<key>UN0030</key>
+	<string>"Detonators, electric, for blasting"</string>
+	<key>UN0033</key>
+	<string>"Bombs, with bursting charge"</string>
+	<key>UN0034</key>
+	<string>"Bombs, with bursting charge"</string>
+	<key>UN0035</key>
+	<string>"Bombs, with bursting charge"</string>
+	<key>UN0037</key>
+	<string>"Bombs, photo-flash"</string>
+	<key>UN0038</key>
+	<string>"Bombs, photo-flash"</string>
+	<key>UN0039</key>
+	<string>"Bombs, photo-flash"</string>
+	<key>UN0042</key>
+	<string>"Boosters, without detonator"</string>
+	<key>UN0043</key>
+	<string>"Bursters, explosive"</string>
+	<key>UN0044</key>
+	<string>"Primers, cap type"</string>
+	<key>UN0048</key>
+	<string>"Charges, demolition"</string>
+	<key>UN0049</key>
+	<string>"Cartridges, flash"</string>
+	<key>UN0050</key>
+	<string>"Cartridges, flash"</string>
+	<key>UN0054</key>
+	<string>"Cartridges, signal"</string>
+	<key>UN0055</key>
+	<string>"Cases, cartridge, empty with primer"</string>
+	<key>UN0056</key>
+	<string>"Charges, depth"</string>
+	<key>UN0059</key>
+	<string>"Charges, shaped, without detonator"</string>
+	<key>UN0060</key>
+	<string>"Charges, supplementary explosive"</string>
+	<key>UN0065</key>
+	<string>"Cord, detonating, flexible"</string>
+	<key>UN0066</key>
+	<string>"Cord, igniter"</string>
+	<key>UN0070</key>
+	<string>"Cutters, cable, explosive"</string>
+	<key>UN0072</key>
+	<string>"Cyclotrimethylenetrinitramine, wetted or Cyclonite, wetted or Hexogen, wetted or RDX, wetted with not less than 15 percent water by mass"</string>
+	<key>UN0073</key>
+	<string>Detonators for ammunition</string>
+	<key>UN0074</key>
+	<string>"Diazodinitrophenol, wetted with not less than 40 percent water or mixture of alcohol and water, by mass"</string>
+	<key>UN0075</key>
+	<string>"Diethyleneglycol dinitrate, desensitized with not less than 25 percent non-volatile water-insoluble phlegmatizer, by mass"</string>
+	<key>UN0076</key>
+	<string>"Dinitrophenol, dry or wetted with less than 15 percent water, by mass"</string>
+	<key>UN0077</key>
+	<string>"Dinitrophenolates alkali metals, dry or wetted with less than 15 percent water, by mass"</string>
+	<key>UN0078</key>
+	<string>"Dinitroresorcinol, dry or wetted with less than 15 percent water, by mass"</string>
+	<key>UN0079</key>
+	<string>Hexanitrodiphenylamine or Dipicrylamine or Hexyl</string>
+	<key>UN0081</key>
+	<string>"Explosive, blasting, type A"</string>
+	<key>UN0082</key>
+	<string>"Explosive, blasting, type B"</string>
+	<key>UN0083</key>
+	<string>"Explosive, blasting, type C"</string>
+	<key>UN0084</key>
+	<string>"Explosive, blasting, type D"</string>
+	<key>UN0092</key>
+	<string>"Flares, surface"</string>
+	<key>UN0093</key>
+	<string>"Flares, aerial"</string>
+	<key>UN0094</key>
+	<string>Flash powder</string>
+	<key>UN0099</key>
+	<string>"Fracturing devices, explosive, without detonators for oil wells"</string>
+	<key>UN0101</key>
+	<string>"Fuse, non-detonating instantaneous or quickmatch"</string>
+	<key>UN0102</key>
+	<string>Cord detonating or Fuse detonating metal clad</string>
+	<key>UN0103</key>
+	<string>"Fuse, igniter tubular metal clad"</string>
+	<key>UN0104</key>
+	<string>"Cord, detonating, mild effect or Fuse, detonating, mild effect metal clad"</string>
+	<key>UN0105</key>
+	<string>"Fuse, safety"</string>
+	<key>UN0106</key>
+	<string>"Fuzes, detonating"</string>
+	<key>UN0107</key>
+	<string>"Fuzes, detonating"</string>
+	<key>UN0110</key>
+	<string>"Grenades, practice, hand or rifle"</string>
+	<key>UN0113</key>
+	<string>"Guanyl nitrosaminoguanylidene hydrazine, wetted with not less than 30 percent water, by mass"</string>
+	<key>UN0114</key>
+	<string>"Guanyl nitrosaminoguanyltetrazene, wetted or Tetrazene, wetted with not less than 30 percent water or mixture of alcohol and water, by mass"</string>
+	<key>UN0118</key>
+	<string>"Hexolite, or Hexotol dry or wetted with less than 15 percent water, by mass"</string>
+	<key>UN0121</key>
+	<string>Igniters</string>
+	<key>UN0124</key>
+	<string>"Jet perforating guns, charged oil well, without detonator"</string>
+	<key>UN0129</key>
+	<string>"Lead azide, wetted with not less than 20 percent water or mixture of alcohol and water, by mass"</string>
+	<key>UN0130</key>
+	<string>"Lead styphnate, wetted or Lead trinitroresorcinate, wetted with not less than 20 percent water or mixture of alcohol and water, by mass"</string>
+	<key>UN0131</key>
+	<string>"Lighters, fuse"</string>
+	<key>UN0132</key>
+	<string>"Deflagrating metal salts of aromatic nitroderivatives, n.o.s."</string>
+	<key>UN0133</key>
+	<string>"Mannitol hexanitrate, wetted or Nitromannite, wetted with not less than 40 percent water, or mixture of alcohol and water, by mass"</string>
+	<key>UN0135</key>
+	<string>"Mercury fulminate, wetted with not less than 20 percent water, or mixture of alcohol and water, by mass"</string>
+	<key>UN0136</key>
+	<string>Mines with bursting charge</string>
+	<key>UN0137</key>
+	<string>Mines with bursting charge</string>
+	<key>UN0138</key>
+	<string>Mines with bursting charge</string>
+	<key>UN0143</key>
+	<string>"Nitroglycerin, desensitized with not less than 40 percent non-volatile water insoluble phlegmatizer, by mass"</string>
+	<key>UN0144</key>
+	<string>"Nitroglycerin, solution in alcohol, with more than 1 percent but not more than 10 percent nitrogylcerin"</string>
+	<key>UN0146</key>
+	<string>"Nitrostarch, dry or wetted with less than 20 percent water, by mass"</string>
+	<key>UN0147</key>
+	<string>Nitro urea</string>
+	<key>UN0150</key>
+	<string>"Pentaerythrite tetranitrate, wetted or Pentaerythritol tetranitrate, wetted, or PETN, wetted with not less than 25 percent water, by mass, or Pentaerythrite tetranitrate, or Pentaerythritol tetranitrate or PETN, desensitized with not less than 15 percent phlegmatizer by mass"</string>
+	<key>UN0151</key>
+	<string>"Pentolite, dry or wetted with less than 15 percent water, by mass"</string>
+	<key>UN0153</key>
+	<string>Trinitroaniline or Picramide</string>
+	<key>UN0154</key>
+	<string>"Trinitrophenol or Picric acid, dry or wetted with less than 30 percent water, by mass"</string>
+	<key>UN0155</key>
+	<string>Trinitrochlorobenzene or Picryl chloride</string>
+	<key>UN0159</key>
+	<string>"Powder cake, wetted or Powder paste, wetted with not less than 25 percent water, by mass"</string>
+	<key>UN0160</key>
+	<string>"Powder, smokeless"</string>
+	<key>UN0161</key>
+	<string>"Powder, smokeless"</string>
+	<key>UN0167</key>
+	<string>"Projectiles, with bursting charge"</string>
+	<key>UN0168</key>
+	<string>"Projectiles, with bursting charge"</string>
+	<key>UN0169</key>
+	<string>"Projectiles, with bursting charge"</string>
+	<key>UN0171</key>
+	<string>"Ammunition, illuminating with or without burster, expelling charge or propelling charge"</string>
+	<key>UN0173</key>
+	<string>"Release devices, explosive"</string>
+	<key>UN0174</key>
+	<string>"Rivets, explosive"</string>
+	<key>UN0180</key>
+	<string>"Rockets, with bursting charge"</string>
+	<key>UN0181</key>
+	<string>"Rockets, with bursting charge"</string>
+	<key>UN0182</key>
+	<string>"Rockets, with bursting charge"</string>
+	<key>UN0183</key>
+	<string>"Rockets, with inert head"</string>
+	<key>UN0186</key>
+	<string>Rocket motors</string>
+	<key>UN0190</key>
+	<string>"Samples, explosive, other than initiating explosives "</string>
+	<key>UN0191</key>
+	<string>"Signal devices, hand"</string>
+	<key>UN0192</key>
+	<string>"Signals, railway track, explosive"</string>
+	<key>UN0193</key>
+	<string>"Signals, railway track, explosive"</string>
+	<key>UN0194</key>
+	<string>"Signals, distress, ship"</string>
+	<key>UN0195</key>
+	<string>"Signals, distress, ship"</string>
+	<key>UN0196</key>
+	<string>"Signals, smoke"</string>
+	<key>UN0197</key>
+	<string>"Signals, smoke"</string>
+	<key>UN0204</key>
+	<string>"Sounding devices, explosive"</string>
+	<key>UN0207</key>
+	<string>Tetranitroaniline</string>
+	<key>UN0208</key>
+	<string>Trinitrophenylmethylnitramine or Tetryl</string>
+	<key>UN0209</key>
+	<string>"Trinitrotoluene or TNT, dry or wetted with less than 30 percent water, by mass"</string>
+	<key>UN0212</key>
+	<string>Tracers for ammunition</string>
+	<key>UN0213</key>
+	<string>Trinitroanisole</string>
+	<key>UN0214</key>
+	<string>"Trinitrobenzene, dry or wetted with less than 30 percent water, by mass"</string>
+	<key>UN0215</key>
+	<string>"Trinitrobenzoic acid, dry or wetted with less than 30 percent water, by mass"</string>
+	<key>UN0216</key>
+	<string>Trinitro-meta-cresol</string>
+	<key>UN0217</key>
+	<string>Trinitronaphthalene</string>
+	<key>UN0218</key>
+	<string>Trinitrophenetole</string>
+	<key>UN0219</key>
+	<string>"Trinitroresorcinol or Styphnic acid, dry or wetted with less than 20 percent water, or mixture of alcohol and water, by mass"</string>
+	<key>UN0220</key>
+	<string>"Urea nitrate, dry or wetted with less than 20 percent water, by mass"</string>
+	<key>UN0221</key>
+	<string>"Warheads, torpedo with bursting charge"</string>
+	<key>UN0222</key>
+	<string>"Ammonium nitrate, with more than 0.2 percent combustible substances, including any organic substance calculated as carbon, to the exclusion of any other added substance"</string>
+	<key>UN0224</key>
+	<string>"Barium azide, dry or wetted with less than 50 percent water, by mass"</string>
+	<key>UN0225</key>
+	<string>Boosters with detonator</string>
+	<key>UN0226</key>
+	<string>"Cyclotetramethylenetetranitramine, wetted or HMX, wetted or Octogen, wetted with not less than 15 percent water, by mass"</string>
+	<key>UN0234</key>
+	<string>"Sodium dinitro-o-cresolate, dry or wetted with less than 15 percent water, by mass"</string>
+	<key>UN0235</key>
+	<string>"Sodium picramate, dry or wetted with less than 20 percent water, by mass"</string>
+	<key>UN0236</key>
+	<string>"Zirconium picramate, dry or wetted with less than 20 percent water, by mass"</string>
+	<key>UN0237</key>
+	<string>"Charges, shaped, flexible, linear"</string>
+	<key>UN0238</key>
+	<string>"Rockets, line-throwing"</string>
+	<key>UN0240</key>
+	<string>"Rockets, line-throwing"</string>
+	<key>UN0241</key>
+	<string>"Explosive, blasting, type E"</string>
+	<key>UN0242</key>
+	<string>"Charges, propelling, for cannon"</string>
+	<key>UN0243</key>
+	<string>"Ammunition, incendiary, white phosphorus, with burster, expelling charge or propelling charge"</string>
+	<key>UN0244</key>
+	<string>"Ammunition, incendiary, white phosphorus, with burster, expelling charge or propelling charge"</string>
+	<key>UN0245</key>
+	<string>"Ammunition smoke, white phosphorus with burster,expelling charge, or propelling charge"</string>
+	<key>UN0246</key>
+	<string>"Ammunition, smoke, white phosphorus with burster, expelling charge, or propelling charge"</string>
+	<key>UN0247</key>
+	<string>"Ammunition, incendiary liquid or gel, with burster, expelling charge or propelling charge"</string>
+	<key>UN0248</key>
+	<string>"Contrivances, water-activated, with burster, expelling charge or propelling charge"</string>
+	<key>UN0249</key>
+	<string>"Contrivances, water-activated, with burster, expelling charge or propelling charge"</string>
+	<key>UN0250</key>
+	<string>Rocket motors with hypergolic liquids with or without an expelling charge</string>
+	<key>UN0254</key>
+	<string>"Ammunition, illuminating with or without burster, expelling charge or propelling charge"</string>
+	<key>UN0255</key>
+	<string>"Detonators, electric, for blasting"</string>
+	<key>UN0257</key>
+	<string>"Fuzes, detonating"</string>
+	<key>UN0266</key>
+	<string>"Octolite or Octol, dry or wetted with less than 15 percent water, by mass"</string>
+	<key>UN0267</key>
+	<string>"Detonators, non-electric, for blasting"</string>
+	<key>UN0268</key>
+	<string>Boosters with detonator</string>
+	<key>UN0271</key>
+	<string>"Charges, propelling"</string>
+	<key>UN0272</key>
+	<string>"Charges, propelling"</string>
+	<key>UN0275</key>
+	<string>"Cartridges, power device"</string>
+	<key>UN0276</key>
+	<string>"Cartridges, power device"</string>
+	<key>UN0277</key>
+	<string>"Cartridges, oil well"</string>
+	<key>UN0278</key>
+	<string>"Cartridges, oil well"</string>
+	<key>UN0279</key>
+	<string>"Charges, propelling, for cannon"</string>
+	<key>UN0280</key>
+	<string>Rocket motors</string>
+	<key>UN0281</key>
+	<string>Rocket motors</string>
+	<key>UN0282</key>
+	<string>"Nitroguanidine or Picrite, dry or wetted with less than 20 percent water, by mass"</string>
+	<key>UN0283</key>
+	<string>"Boosters, without detonator"</string>
+	<key>UN0284</key>
+	<string>"Grenades, hand or rifle, with bursting charge"</string>
+	<key>UN0285</key>
+	<string>"Grenades, hand or rifle, with bursting charge"</string>
+	<key>UN0286</key>
+	<string>"Warheads, rocket with bursting charge"</string>
+	<key>UN0287</key>
+	<string>"Warheads, rocket with bursting charge"</string>
+	<key>UN0288</key>
+	<string>"Charges, shaped, flexible, linear"</string>
+	<key>UN0289</key>
+	<string>"Cord, detonating, flexible"</string>
+	<key>UN0290</key>
+	<string>"Cord, detonating or Fuse, detonating metal clad"</string>
+	<key>UN0291</key>
+	<string>"Bombs, with bursting charge"</string>
+	<key>UN0292</key>
+	<string>"Grenades, hand or rifle, with bursting charge"</string>
+	<key>UN0293</key>
+	<string>"Grenades, hand or rifle, with bursting charge"</string>
+	<key>UN0294</key>
+	<string>Mines with bursting charge</string>
+	<key>UN0295</key>
+	<string>"Rockets, with bursting charge"</string>
+	<key>UN0296</key>
+	<string>"Sounding devices, explosive"</string>
+	<key>UN0297</key>
+	<string>"Ammunition, illuminating with or without burster, expelling charge or propelling charge"</string>
+	<key>UN0299</key>
+	<string>"Bombs, photo-flash"</string>
+	<key>UN0300</key>
+	<string>"Ammunition, incendiary with or without burster, expelling charge or propelling charge"</string>
+	<key>UN0301</key>
+	<string>"Ammunition, tear-producing with burster, expelling charge or propelling charge"</string>
+	<key>UN0303</key>
+	<string>"Ammunition, smoke with or without burster, expelling charge or propelling charge"</string>
+	<key>UN0305</key>
+	<string>Flash powder</string>
+	<key>UN0306</key>
+	<string>Tracers for ammunition</string>
+	<key>UN0312</key>
+	<string>"Cartridges, signal"</string>
+	<key>UN0313</key>
+	<string>"Signals, smoke"</string>
+	<key>UN0314</key>
+	<string>Igniters</string>
+	<key>UN0315</key>
+	<string>Igniters</string>
+	<key>UN0316</key>
+	<string>"Fuzes, igniting"</string>
+	<key>UN0317</key>
+	<string>"Fuzes, igniting"</string>
+	<key>UN0318</key>
+	<string>"Grenades, practice, Hand or rifle"</string>
+	<key>UN0319</key>
+	<string>"Primers, tubular"</string>
+	<key>UN0320</key>
+	<string>"Primers, tubular"</string>
+	<key>UN0321</key>
+	<string>"Cartridges for weapons, with bursting charge"</string>
+	<key>UN0322</key>
+	<string>Rocket motors with hypergolic liquids with or without an expelling charge</string>
+	<key>UN0323</key>
+	<string>"Cartridges, power device"</string>
+	<key>UN0324</key>
+	<string>"Projectiles, with bursting charge"</string>
+	<key>UN0325</key>
+	<string>Igniters</string>
+	<key>UN0326</key>
+	<string>"Cartridges for weapons, blank"</string>
+	<key>UN0327</key>
+	<string>"Cartridges for weapons, blank or Cartridges, small arms, blank"</string>
+	<key>UN0328</key>
+	<string>"Cartridges for weapons, inert projectile"</string>
+	<key>UN0329</key>
+	<string>Torpedoes with bursting charge</string>
+	<key>UN0330</key>
+	<string>Torpedoes with bursting charge</string>
+	<key>UN0331</key>
+	<string>"Explosive, blasting, type B or Agent blasting, Type B"</string>
+	<key>UN0332</key>
+	<string>"Explosive, blasting, type E or Agent blasting, Type E"</string>
+	<key>UN0333</key>
+	<string>Fireworks</string>
+	<key>UN0334</key>
+	<string>Fireworks</string>
+	<key>UN0335</key>
+	<string>Fireworks</string>
+	<key>UN0336</key>
+	<string>Fireworks</string>
+	<key>UN0337</key>
+	<string>Fireworks</string>
+	<key>UN0338</key>
+	<string>"Cartridges for weapons, blank or Cartridges, small arms, blank"</string>
+	<key>UN0339</key>
+	<string>"Cartridges for weapons, inert projectile or Cartridges, small arms"</string>
+	<key>UN0340</key>
+	<string>"Nitrocellulose, dry or wetted with less than 25 percent water (or alcohol), by mass"</string>
+	<key>UN0341</key>
+	<string>"Nitrocellulose, unmodified or plasticized with less than 18 percent plasticizing substance, by mass"</string>
+	<key>UN0342</key>
+	<string>"Nitrocellulose, wetted with not less than 25 percent alcohol, by mass"</string>
+	<key>UN0343</key>
+	<string>"Nitrocellulose, plasticized with not less than 18 percent plasticizing substance, by mass"</string>
+	<key>UN0344</key>
+	<string>"Projectiles, with bursting charge"</string>
+	<key>UN0345</key>
+	<string>"Projectiles, inert with tracer"</string>
+	<key>UN0346</key>
+	<string>"Projectiles, with burster or expelling charge"</string>
+	<key>UN0347</key>
+	<string>"Projectiles, with burster or expelling charge"</string>
+	<key>UN0348</key>
+	<string>"Cartridges for weapons, with bursting charge"</string>
+	<key>UN0349</key>
+	<string>"Articles, explosive, n.o.s."</string>
+	<key>UN0350</key>
+	<string>"Articles, explosive, n.o.s."</string>
+	<key>UN0351</key>
+	<string>"Articles, explosive, n.o.s."</string>
+	<key>UN0352</key>
+	<string>"Articles, explosive, n.o.s."</string>
+	<key>UN0353</key>
+	<string>"Articles, explosive, n.o.s."</string>
+	<key>UN0354</key>
+	<string>"Articles, explosive, n.o.s."</string>
+	<key>UN0355</key>
+	<string>"Articles, explosive, n.o.s."</string>
+	<key>UN0356</key>
+	<string>"Articles, explosive, n.o.s."</string>
+	<key>UN0357</key>
+	<string>"Substances, explosive, n.o.s."</string>
+	<key>UN0358</key>
+	<string>"Substances, explosive, n.o.s."</string>
+	<key>UN0359</key>
+	<string>"Substances, explosive, n.o.s."</string>
+	<key>UN0360</key>
+	<string>"Detonator assemblies, non-electric for blasting"</string>
+	<key>UN0361</key>
+	<string>"Detonator assemblies, non-electric, for blasting"</string>
+	<key>UN0362</key>
+	<string>"Ammunition, practice"</string>
+	<key>UN0363</key>
+	<string>"Ammunition, proof"</string>
+	<key>UN0364</key>
+	<string>Detonators for ammunition</string>
+	<key>UN0365</key>
+	<string>Detonators for ammunition</string>
+	<key>UN0366</key>
+	<string>Detonators for ammunition</string>
+	<key>UN0367</key>
+	<string>"Fuzes, detonating"</string>
+	<key>UN0368</key>
+	<string>"Fuzes, igniting"</string>
+	<key>UN0369</key>
+	<string>"Warheads, rocket with bursting charge"</string>
+	<key>UN0370</key>
+	<string>"Warheads, rocket with burster or expelling charge"</string>
+	<key>UN0371</key>
+	<string>"Warheads, rocket with burster or expelling charge"</string>
+	<key>UN0372</key>
+	<string>"Grenades, practice, Hand or rifle"</string>
+	<key>UN0373</key>
+	<string>"Signal devices, hand"</string>
+	<key>UN0374</key>
+	<string>"Sounding devices, explosive"</string>
+	<key>UN0375</key>
+	<string>"Sounding devices, explosive"</string>
+	<key>UN0376</key>
+	<string>"Primers, tubular"</string>
+	<key>UN0377</key>
+	<string>"Primers, cap type"</string>
+	<key>UN0378</key>
+	<string>"Primers, cap type"</string>
+	<key>UN0379</key>
+	<string>"Cases, cartridges, empty with primer"</string>
+	<key>UN0380</key>
+	<string>"Articles, pyrophoric"</string>
+	<key>UN0381</key>
+	<string>"Cartridges, power device"</string>
+	<key>UN0382</key>
+	<string>"Components, explosive train, n.o.s."</string>
+	<key>UN0383</key>
+	<string>"Components, explosive train, n.o.s."</string>
+	<key>UN0384</key>
+	<string>"Components, explosive train, n.o.s."</string>
+	<key>UN0385</key>
+	<string>5-Nitrobenzotriazol</string>
+	<key>UN0386</key>
+	<string>Trinitrobenzenesulfonic acid</string>
+	<key>UN0387</key>
+	<string>Trinitrofluorenone</string>
+	<key>UN0388</key>
+	<string>Trinitrotoluene and Trinitrobenzene mixtures or TNT and trinitrobenzene mixtures or TNT and hexanitrostilbene mixtures or Trinitrotoluene and hexanitrostilnene mixtures</string>
+	<key>UN0389</key>
+	<string>Trinitrotoluene mixtures containing Trinitrobenzene and Hexanitrostilbene or TNT mixtures containing trinitrobenzene and hexanitrostilbene</string>
+	<key>UN0390</key>
+	<string>Tritonal</string>
+	<key>UN0391</key>
+	<string>"RDX and HMX mixtures, wetted with not less than 15 percent water by mass or RDX and HMX mixtures, desensitized with not less than 10 percent phlegmatizer by mass"</string>
+	<key>UN0392</key>
+	<string>Hexanitrostilbene</string>
+	<key>UN0393</key>
+	<string>Hexotonal</string>
+	<key>UN0394</key>
+	<string>"Trinitroresorcinol, wetted or Styphnic acid, wetted with not less than 20 percent water, or mixture of alcohol and water by mass"</string>
+	<key>UN0395</key>
+	<string>"Rocket motors, liquid fueled"</string>
+	<key>UN0396</key>
+	<string>"Rocket motors, liquid fueled"</string>
+	<key>UN0397</key>
+	<string>"Rockets, liquid fueled with bursting charge"</string>
+	<key>UN0398</key>
+	<string>"Rockets, liquid fueled with bursting charge"</string>
+	<key>UN0399</key>
+	<string>"Bombs with flammable liquid, with bursting charge"</string>
+	<key>UN0400</key>
+	<string>"Bombs with flammable liquid, with bursting charge"</string>
+	<key>UN0401</key>
+	<string>"Dipicryl sulfide, dry or wetted with less than 10 percent water, by mass"</string>
+	<key>UN0402</key>
+	<string>Ammonium perchlorate</string>
+	<key>UN0403</key>
+	<string>"Flares, aerial"</string>
+	<key>UN0404</key>
+	<string>"Flares, aerial"</string>
+	<key>UN0405</key>
+	<string>"Cartridges, signal"</string>
+	<key>UN0406</key>
+	<string>Dinitrosobenzene</string>
+	<key>UN0407</key>
+	<string>Tetrazol-1-acetic acid</string>
+	<key>UN0408</key>
+	<string>"Fuzes, detonating, with protective features"</string>
+	<key>UN0409</key>
+	<string>"Fuzes, detonating, with protective features"</string>
+	<key>UN0410</key>
+	<string>"Fuzes, detonating, with protective features"</string>
+	<key>UN0411</key>
+	<string>"Pentaerythrite tetranitrate or Pentaerythritol tetranitrate or PETN, with not less than 7 percent wax by mass"</string>
+	<key>UN0412</key>
+	<string>"Cartridges for weapons, with bursting charge"</string>
+	<key>UN0413</key>
+	<string>"Cartridges for weapons, blank"</string>
+	<key>UN0414</key>
+	<string>"Charges, propelling, for cannon"</string>
+	<key>UN0415</key>
+	<string>"Charges, propelling"</string>
+	<key>UN0417</key>
+	<string>"Cartridges for weapons, inert projectile or Cartridges, small arms"</string>
+	<key>UN0418</key>
+	<string>"Flares, surface"</string>
+	<key>UN0419</key>
+	<string>"Flares, surface"</string>
+	<key>UN0420</key>
+	<string>"Flares, aerial"</string>
+	<key>UN0421</key>
+	<string>"Flares, aerial"</string>
+	<key>UN0424</key>
+	<string>"Projectiles, inert, with tracer"</string>
+	<key>UN0425</key>
+	<string>"Projectiles, inert, with tracer"</string>
+	<key>UN0426</key>
+	<string>"Projectiles, with burster or expelling charge"</string>
+	<key>UN0427</key>
+	<string>"Projectiles, with burster or expelling charge"</string>
+	<key>UN0428</key>
+	<string>"Articles, pyrotechnic for technical purposes"</string>
+	<key>UN0429</key>
+	<string>"Articles, pyrotechnic for technical purposes"</string>
+	<key>UN0430</key>
+	<string>"Articles, pyrotechnic for technical purposes"</string>
+	<key>UN0431</key>
+	<string>"Articles, pyrotechnic for technical purposes"</string>
+	<key>UN0432</key>
+	<string>"Articles, pyrotechnic for technical purposes"</string>
+	<key>UN0433</key>
+	<string>"Powder cake, wetted or Powder paste, wetted with not less than 17 percent alcohol by mass"</string>
+	<key>UN0434</key>
+	<string>"Projectiles, with burster or expelling charge"</string>
+	<key>UN0435</key>
+	<string>"Projectiles, with burster or expelling charge"</string>
+	<key>UN0436</key>
+	<string>"Rockets, with expelling charge"</string>
+	<key>UN0437</key>
+	<string>"Rockets, with expelling charge"</string>
+	<key>UN0438</key>
+	<string>"Rockets, with expelling charge"</string>
+	<key>UN0439</key>
+	<string>"Charges, shaped, without detonator"</string>
+	<key>UN0440</key>
+	<string>"Charges, shaped, without detonator"</string>
+	<key>UN0441</key>
+	<string>"Charges, shaped, without detonator"</string>
+	<key>UN0442</key>
+	<string>"Charges, explosive, commercial without detonator"</string>
+	<key>UN0443</key>
+	<string>"Charges, explosive, commercial without detonator"</string>
+	<key>UN0444</key>
+	<string>"Charges, explosive, commercial without detonator"</string>
+	<key>UN0445</key>
+	<string>"Charges, explosive, commercial without detonator"</string>
+	<key>UN0446</key>
+	<string>"Cases, combustible, empty, without primer"</string>
+	<key>UN0447</key>
+	<string>"Cases, combustible, empty, without primer"</string>
+	<key>UN0448</key>
+	<string>5-Mercaptotetrazol-1-acetic acid</string>
+	<key>UN0449</key>
+	<string>"Torpedoes, liquid fueled, with or without bursting charge"</string>
+	<key>UN0450</key>
+	<string>"Torpedoes, liquid fueled, with inert head"</string>
+	<key>UN0451</key>
+	<string>Torpedoes with bursting charge</string>
+	<key>UN0452</key>
+	<string>Grenades practice Hand or rifle</string>
+	<key>UN0453</key>
+	<string>"Rockets, line-throwing"</string>
+	<key>UN0454</key>
+	<string>Igniters</string>
+	<key>UN0455</key>
+	<string>"Detonators, non-electric, for blasting"</string>
+	<key>UN0456</key>
+	<string>"Detonators, electric for blasting"</string>
+	<key>UN0457</key>
+	<string>"Charges, bursting, plastics bonded"</string>
+	<key>UN0458</key>
+	<string>"Charges, bursting, plastics bonded"</string>
+	<key>UN0459</key>
+	<string>"Charges, bursting, plastics bonded"</string>
+	<key>UN0460</key>
+	<string>"Charges, bursting, plastics bonded"</string>
+	<key>UN0461</key>
+	<string>"Components, explosive train, n.o.s."</string>
+	<key>UN0462</key>
+	<string>"Articles, explosive, n.o.s."</string>
+	<key>UN0463</key>
+	<string>"Articles, explosive, n.o.s."</string>
+	<key>UN0464</key>
+	<string>"Articles, explosive, n.o.s."</string>
+	<key>UN0465</key>
+	<string>"Articles, explosive, n.o.s."</string>
+	<key>UN0466</key>
+	<string>"Articles, explosive, n.o.s."</string>
+	<key>UN0467</key>
+	<string>"Articles, explosive, n.o.s."</string>
+	<key>UN0468</key>
+	<string>"Articles, explosive, n.o.s."</string>
+	<key>UN0469</key>
+	<string>"Articles, explosive, n.o.s."</string>
+	<key>UN0470</key>
+	<string>"Articles, explosive, n.o.s."</string>
+	<key>UN0471</key>
+	<string>"Articles, explosive, n.o.s."</string>
+	<key>UN0472</key>
+	<string>"Articles, explosive, n.o.s."</string>
+	<key>UN0473</key>
+	<string>"Substances, explosive, n.o.s."</string>
+	<key>UN0474</key>
+	<string>"Substances, explosive, n.o.s."</string>
+	<key>UN0475</key>
+	<string>"Substances, explosive, n.o.s."</string>
+	<key>UN0476</key>
+	<string>"Substances, explosive, n.o.s."</string>
+	<key>UN0477</key>
+	<string>"Substances, explosive, n.o.s."</string>
+	<key>UN0478</key>
+	<string>"Substances, explosive, n.o.s."</string>
+	<key>UN0479</key>
+	<string>"Substances, explosive, n.o.s."</string>
+	<key>UN0480</key>
+	<string>"Substances, explosive, n.o.s."</string>
+	<key>UN0481</key>
+	<string>"Substances, explosive, n.o.s."</string>
+	<key>UN0482</key>
+	<string>"Substances, explosive, very insensitive, n.o.s., or Substances, EVI, n.o.s."</string>
+	<key>UN0483</key>
+	<string>"Cyclotrimethylenetrinitramine, desensitized or Cyclonite, desensitized or Hexogen, desensitized or RDX, desensitized"</string>
+	<key>UN0484</key>
+	<string>"Cyclotetramethylenetetranitramine, desensitized or Octogen, desensitized or HMX, desensitized"</string>
+	<key>UN0485</key>
+	<string>"Substances, explosive, n.o.s."</string>
+	<key>UN0486</key>
+	<string>"Articles, explosive, extremely insensitive or Articles, EEI"</string>
+	<key>UN0487</key>
+	<string>"Signals, smoke"</string>
+	<key>UN0488</key>
+	<string>"Ammunition, practice"</string>
+	<key>UN0489</key>
+	<string>Dinitroglycoluril or Dingu</string>
+	<key>UN0490</key>
+	<string>Nitrotriazolone or NTO</string>
+	<key>UN0491</key>
+	<string>"Charges, propelling"</string>
+	<key>UN0492</key>
+	<string>"Signals, railway track, explosive"</string>
+	<key>UN0493</key>
+	<string>"Signals, railway track, explosive"</string>
+	<key>UN0494</key>
+	<string>"Jet perforating guns, charged, oil well, without detonator"</string>
+	<key>UN0495</key>
+	<string>"Propellant, liquid"</string>
+	<key>UN0496</key>
+	<string>Octonal</string>
+	<key>UN0497</key>
+	<string>"Propellant, liquid"</string>
+	<key>UN0498</key>
+	<string>"Propellant, solid"</string>
+	<key>UN0499</key>
+	<string>"Propellant, solid"</string>
+	<key>UN0500</key>
+	<string>"Detonator, assemblies, non-electric for blasting"</string>
+	<key>UN0501</key>
+	<string>"Propellant, solid"</string>
+	<key>UN0502</key>
+	<string>"Rockets, with inert head"</string>
+	<key>UN0503</key>
+	<string>"Air bag inflators, or Air bag modules, or Seat-belt pretensioners"</string>
+	<key>UN0504</key>
+	<string>1H-Tetrazole</string>
+	<key>UN0505</key>
+	<string>"Signals, distress, ship"</string>
+	<key>UN0506</key>
+	<string>"Signals, distress, ship"</string>
+	<key>UN0507</key>
+	<string>"Signals, smoke"</string>
+	<key>UN0508</key>
+	<string>"1-Hydroxybenzotriazole, anhydrous, dry or wetted with less than 20 percent water, by mass"</string>
+	<key>UN0509</key>
+	<string>"Powder, smokeless"</string>
+	<key>UN1001</key>
+	<string>"Acetylene, dissolved"</string>
+	<key>UN1002</key>
+	<string>"Air, compressed"</string>
+	<key>UN1003</key>
+	<string>"Air, refrigerated liquid, (cryogenic liquid) non-pressurized"</string>
+	<key>UN1003</key>
+	<string>"Air, refrigerated liquid, (cryogenic liquid)"</string>
+	<key>UN1005</key>
+	<string>"Ammonia, anhydrous"</string>
+	<key>UN1006</key>
+	<string>"Argon, compressed"</string>
+	<key>UN1008</key>
+	<string>Boron trifluoride</string>
+	<key>UN1009</key>
+	<string>"Bromotrifluoromethane or Refrigerant gas, R 13B1."</string>
+	<key>UN1010</key>
+	<string>"Butadienes, stabilized or Butadienes and Hydrocarbon mixture, stabilized, containing more than 40% butadienes"</string>
+	<key>UN1011</key>
+	<string>"Butane see also Petroleum gases, liquefied"</string>
+	<key>UN1012</key>
+	<string>"Butylene see also Petroleum gases, liquefied"</string>
+	<key>UN1013</key>
+	<string>Carbon dioxide</string>
+	<key>UN1016</key>
+	<string>"Carbon monoxide, compressed"</string>
+	<key>UN1017</key>
+	<string>Chlorine</string>
+	<key>UN1018</key>
+	<string>Chlorodifluoromethane or Refrigerant gas R 22</string>
+	<key>UN1020</key>
+	<string>Chloropentafluoroethane or Refrigerant gas R 115</string>
+	<key>UN1021</key>
+	<string>"1-Chloro-1,2,2,2-tetrafluoroethane or  Refrigerant gas R 124"</string>
+	<key>UN1022</key>
+	<string>Chlorotrifluoromethane or Refrigerant gas R 13</string>
+	<key>UN1023</key>
+	<string>"Coal gas, compressed"</string>
+	<key>UN1026</key>
+	<string>Cyanogen</string>
+	<key>UN1027</key>
+	<string>Cyclopropane</string>
+	<key>UN1028</key>
+	<string>Dichlorodifluoromethane or Refrigerant gas R 12</string>
+	<key>UN1029</key>
+	<string>Dichlorofluoromethane or Refrigerant gas R21</string>
+	<key>UN1030</key>
+	<string>"1,1-Difluoroethane or Refrigerant gas R 152a"</string>
+	<key>UN1032</key>
+	<string>"Dimethylamine, anhydrous"</string>
+	<key>UN1033</key>
+	<string>Dimethyl ether</string>
+	<key>UN1035</key>
+	<string>Ethane</string>
+	<key>UN1036</key>
+	<string>Ethylamine</string>
+	<key>UN1037</key>
+	<string>Ethyl chloride</string>
+	<key>UN1038</key>
+	<string>"Ethylene, refrigerated liquid (cryogenic liquid)"</string>
+	<key>UN1039</key>
+	<string>Ethyl methyl ether</string>
+	<key>UN1040</key>
+	<string>Ethylene oxide or Ethylene oxide with nitrogen up to a total pressure of 1MPa (10 bar) at 50 degrees C</string>
+	<key>UN1041</key>
+	<string>Ethylene oxide and carbon dioxide mixtures with more than 9 percent but not more than 87 percent ethylene oxide</string>
+	<key>UN1043</key>
+	<string>Fertilizer ammoniating solution with free ammonia</string>
+	<key>UN1044</key>
+	<string>Fire extinguishers containing compressed or liquefied gas</string>
+	<key>UN1045</key>
+	<string>"Fluorine, compressed"</string>
+	<key>UN1046</key>
+	<string>"Helium, compressed"</string>
+	<key>UN1048</key>
+	<string>"Hydrogen bromide, anhydrous"</string>
+	<key>UN1049</key>
+	<string>"Hydrogen, compressed"</string>
+	<key>UN1050</key>
+	<string>"Hydrogen chloride, anhydrous"</string>
+	<key>UN1051</key>
+	<string>"Hydrogen cyanide, stabilized with less than 3 percent water"</string>
+	<key>UN1052</key>
+	<string>"Hydrogen fluoride, anhydrous"</string>
+	<key>UN1053</key>
+	<string>Hydrogen sulfide</string>
+	<key>UN1055</key>
+	<string>"Isobutylene see also Petroleum gases, liquefied"</string>
+	<key>UN1056</key>
+	<string>"Krypton, compressed"</string>
+	<key>UN1057</key>
+	<string>Lighter refills containing flammable gas not exceeding 4 fluid ounces (7.22 cubic inches) and 65 grams of flammable gas</string>
+	<key>UN1057</key>
+	<string>Lighters containing flammable gas</string>
+	<key>UN1058</key>
+	<string>"Liquefied gases, non-flammable charged with nitrogen, carbon dioxide or air"</string>
+	<key>UN1060</key>
+	<string>"Methyl acetylene and propadiene mixtures, stabilized"</string>
+	<key>UN1061</key>
+	<string>"Methylamine, anhydrous"</string>
+	<key>UN1062</key>
+	<string>Methyl bromide</string>
+	<key>UN1063</key>
+	<string>"Methyl chloride, or Refrigerant gas R 40"</string>
+	<key>UN1064</key>
+	<string>Methyl mercaptan</string>
+	<key>UN1065</key>
+	<string>"Neon, compressed"</string>
+	<key>UN1066</key>
+	<string>"Nitrogen, compressed"</string>
+	<key>UN1067</key>
+	<string>Dinitrogen tetroxide</string>
+	<key>UN1069</key>
+	<string>Nitrosyl chloride</string>
+	<key>UN1070</key>
+	<string>Nitrous oxide</string>
+	<key>UN1071</key>
+	<string>"Oil gas, compressed"</string>
+	<key>UN1072</key>
+	<string>"Oxygen, compressed"</string>
+	<key>UN1073</key>
+	<string>"Oxygen, refrigerated liquid (cryogenic liquid)"</string>
+	<key>UN1075</key>
+	<string>"Petroleum gases, liquefied or Liquefied petroleum gas"</string>
+	<key>UN1076</key>
+	<string>Phosgene</string>
+	<key>UN1077</key>
+	<string>"Propylene see also Petroleum gases, liquefied"</string>
+	<key>UN1078</key>
+	<string>"Refrigerant gases, n.o.s."</string>
+	<key>UN1079</key>
+	<string>Sulfur dioxide</string>
+	<key>UN1080</key>
+	<string>Sulfur hexafluoride</string>
+	<key>UN1081</key>
+	<string>"Tetrafluoroethylene, stabilized"</string>
+	<key>UN1082</key>
+	<string>"Trifluorochloroethylene, stabilized"</string>
+	<key>UN1083</key>
+	<string>"Trimethylamine, anhydrous"</string>
+	<key>UN1085</key>
+	<string>"Vinyl bromide, stabilized"</string>
+	<key>UN1086</key>
+	<string>"Vinyl chloride, stabilized  "</string>
+	<key>UN1087</key>
+	<string>"Vinyl methyl ether, stabilized"</string>
+	<key>UN1088</key>
+	<string>Acetal</string>
+	<key>UN1089</key>
+	<string>Acetaldehyde</string>
+	<key>UN1090</key>
+	<string>Acetone</string>
+	<key>UN1091</key>
+	<string>Acetone oils</string>
+	<key>UN1092</key>
+	<string>"Acrolein, stabilized"</string>
+	<key>UN1093</key>
+	<string>"Acrylonitrile, stabilized"</string>
+	<key>UN1098</key>
+	<string>Allyl alcohol</string>
+	<key>UN1099</key>
+	<string>Allyl bromide</string>
+	<key>UN1100</key>
+	<string>Allyl chloride</string>
+	<key>UN1104</key>
+	<string>Amyl acetates</string>
+	<key>UN1105</key>
+	<string>Pentanols</string>
+	<key>UN1106</key>
+	<string>Amylamines</string>
+	<key>UN1107</key>
+	<string>Amyl chlorides</string>
+	<key>UN1108</key>
+	<string>1-Pentene (n-amylene)</string>
+	<key>UN1109</key>
+	<string>Amyl formates</string>
+	<key>UN1110</key>
+	<string>n-Amyl methyl ketone</string>
+	<key>UN1111</key>
+	<string>Amyl mercaptans</string>
+	<key>UN1112</key>
+	<string>Amyl nitrate</string>
+	<key>UN1113</key>
+	<string>Amyl nitrites</string>
+	<key>UN1114</key>
+	<string>Benzene</string>
+	<key>UN1120</key>
+	<string>Butanols</string>
+	<key>UN1123</key>
+	<string>Butyl acetates</string>
+	<key>UN1125</key>
+	<string>n-Butylamine</string>
+	<key>UN1126</key>
+	<string>1-Bromobutane</string>
+	<key>UN1127</key>
+	<string>Chlorobutanes</string>
+	<key>UN1128</key>
+	<string>n-Butyl formate</string>
+	<key>UN1129</key>
+	<string>Butyraldehyde</string>
+	<key>UN1130</key>
+	<string>Camphor oil</string>
+	<key>UN1131</key>
+	<string>Carbon disulfide</string>
+	<key>UN1133</key>
+	<string>"Adhesives, containing a flammable liquid"</string>
+	<key>UN1134</key>
+	<string>Chlorobenzene</string>
+	<key>UN1135</key>
+	<string>Ethylene chlorohydrin</string>
+	<key>UN1136</key>
+	<string>"Coal tar distillates, flammable"</string>
+	<key>UN1139</key>
+	<string>"Coating solution (includes surface treatments or coatings used for industrial or other purposes such as vehicle undercoating, drum or barrel lining)"</string>
+	<key>UN1143</key>
+	<string>"Crotonaldehyde or Crotonaldehyde, stabilized"</string>
+	<key>UN1144</key>
+	<string>Crotonylene</string>
+	<key>UN1145</key>
+	<string>Cyclohexane</string>
+	<key>UN1146</key>
+	<string>Cyclopentane</string>
+	<key>UN1147</key>
+	<string>Decahydronaphthalene</string>
+	<key>UN1148</key>
+	<string>Diacetone alcohol</string>
+	<key>UN1149</key>
+	<string>Dibutyl ethers</string>
+	<key>UN1150</key>
+	<string>"1,2-Dichloroethylene"</string>
+	<key>UN1152</key>
+	<string>Dichloropentanes</string>
+	<key>UN1153</key>
+	<string>Ethylene glycol diethyl ether</string>
+	<key>UN1154</key>
+	<string>Diethylamine</string>
+	<key>UN1155</key>
+	<string>Diethyl ether or Ethyl ether</string>
+	<key>UN1156</key>
+	<string>Diethyl ketone</string>
+	<key>UN1157</key>
+	<string>Diisobutyl ketone</string>
+	<key>UN1158</key>
+	<string>Diisopropylamine</string>
+	<key>UN1159</key>
+	<string>Diisopropyl ether</string>
+	<key>UN1160</key>
+	<string>Dimethylamine solution</string>
+	<key>UN1161</key>
+	<string>Dimethyl carbonate</string>
+	<key>UN1162</key>
+	<string>Dimethyldichlorosilane</string>
+	<key>UN1163</key>
+	<string>"Dimethylhydrazine, unsymmetrical"</string>
+	<key>UN1164</key>
+	<string>Dimethyl sulfide</string>
+	<key>UN1165</key>
+	<string>Dioxane</string>
+	<key>UN1166</key>
+	<string>Dioxolane</string>
+	<key>UN1167</key>
+	<string>"Divinyl ether, stabilized"</string>
+	<key>UN1169</key>
+	<string>"Extracts, aromatic, liquid"</string>
+	<key>UN1170</key>
+	<string>Ethanol or Ethyl alcohol or Ethanol solutions or Ethyl alcohol solutions</string>
+	<key>UN1171</key>
+	<string>Ethylene glycol monoethyl ether</string>
+	<key>UN1172</key>
+	<string>Ethylene glycol monoethyl ether acetate</string>
+	<key>UN1173</key>
+	<string>Ethyl acetate</string>
+	<key>UN1175</key>
+	<string>Ethylbenzene</string>
+	<key>UN1176</key>
+	<string>Ethyl borate</string>
+	<key>UN1177</key>
+	<string>2-Ethylbutyl acetate</string>
+	<key>UN1178</key>
+	<string>2-Ethylbutyraldehyde</string>
+	<key>UN1179</key>
+	<string>Ethyl butyl ether</string>
+	<key>UN1180</key>
+	<string>Ethyl butyrate</string>
+	<key>UN1181</key>
+	<string>Ethyl chloroacetate</string>
+	<key>UN1182</key>
+	<string>Ethyl chloroformate</string>
+	<key>UN1183</key>
+	<string>Ethyldichlorosilane</string>
+	<key>UN1184</key>
+	<string>Ethylene dichloride</string>
+	<key>UN1185</key>
+	<string>"Ethyleneimine, stabilized"</string>
+	<key>UN1188</key>
+	<string>Ethylene glycol monomethyl ether</string>
+	<key>UN1189</key>
+	<string>Ethylene glycol monomethyl ether acetate</string>
+	<key>UN1190</key>
+	<string>Ethyl formate</string>
+	<key>UN1191</key>
+	<string>Octyl aldehydes</string>
+	<key>UN1192</key>
+	<string>Ethyl lactate</string>
+	<key>UN1193</key>
+	<string>Ethyl methyl ketone or Methyl ethyl ketone</string>
+	<key>UN1194</key>
+	<string>Ethyl nitrite solutions</string>
+	<key>UN1195</key>
+	<string>Ethyl propionate</string>
+	<key>UN1196</key>
+	<string>Ethyltrichlorosilane</string>
+	<key>UN1197</key>
+	<string>"Extracts, flavoring, liquid"</string>
+	<key>UN1198</key>
+	<string>"Formaldehyde, solutions, flammable"</string>
+	<key>UN1199</key>
+	<string>Furaldehydes</string>
+	<key>UN1201</key>
+	<string>Fusel oil</string>
+	<key>UN1202</key>
+	<string>"Heating oil, light"</string>
+	<key>UN1202</key>
+	<string>Diesel fuel</string>
+	<key>UN1202</key>
+	<string>Gas oil</string>
+	<key>UN1203</key>
+	<string>"Gasoline includes gasoline mixed with ethyl alcohol, with not more than 10% alcohol"</string>
+	<key>UN1204</key>
+	<string>Nitroglycerin solution in alcohol with not more than 1 percent nitroglycerin</string>
+	<key>UN1206</key>
+	<string>Heptanes</string>
+	<key>UN1207</key>
+	<string>Hexaldehyde</string>
+	<key>UN1208</key>
+	<string>Hexanes</string>
+	<key>UN1210</key>
+	<string>"Printing ink, flammable or Printing ink related material (including printing ink thinning or reducing compound), flammable"</string>
+	<key>UN1212</key>
+	<string>Isobutanol or Isobutyl alcohol</string>
+	<key>UN1213</key>
+	<string>Isobutyl acetate</string>
+	<key>UN1214</key>
+	<string>Isobutylamine</string>
+	<key>UN1216</key>
+	<string>Isooctenes</string>
+	<key>UN1218</key>
+	<string>"Isoprene, stabilized"</string>
+	<key>UN1219</key>
+	<string>Isopropanol or Isopropyl alcohol</string>
+	<key>UN1220</key>
+	<string>Isopropyl acetate</string>
+	<key>UN1221</key>
+	<string>Isopropylamine</string>
+	<key>UN1222</key>
+	<string>Isopropyl nitrate</string>
+	<key>UN1223</key>
+	<string>Kerosene</string>
+	<key>UN1224</key>
+	<string>"Ketones, liquid, n.o.s."</string>
+	<key>UN1228</key>
+	<string>"Mercaptans, liquid, flammable, toxic, n.o.s. or Mercaptan mixtures, liquid, flammable, toxic, n.o.s."</string>
+	<key>UN1229</key>
+	<string>Mesityl oxide</string>
+	<key>UN1230</key>
+	<string>Methanol</string>
+	<key>UN1231</key>
+	<string>Methyl acetate</string>
+	<key>UN1233</key>
+	<string>Methylamyl acetate</string>
+	<key>UN1234</key>
+	<string>Methylal</string>
+	<key>UN1235</key>
+	<string>"Methylamine, aqueous solution"</string>
+	<key>UN1237</key>
+	<string>Methyl butyrate</string>
+	<key>UN1238</key>
+	<string>Methyl chloroformate</string>
+	<key>UN1239</key>
+	<string>Methyl chloromethyl ether</string>
+	<key>UN1242</key>
+	<string>Methyldichlorosilane</string>
+	<key>UN1243</key>
+	<string>Methyl formate</string>
+	<key>UN1244</key>
+	<string>Methylhydrazine</string>
+	<key>UN1245</key>
+	<string>Methyl isobutyl ketone</string>
+	<key>UN1246</key>
+	<string>"Methyl isopropenyl ketone, stabilized"</string>
+	<key>UN1247</key>
+	<string>"Methyl methacrylate monomer, stabilized"</string>
+	<key>UN1248</key>
+	<string>Methyl propionate</string>
+	<key>UN1249</key>
+	<string>Methyl propyl ketone</string>
+	<key>UN1250</key>
+	<string>Methyltrichlorosilane</string>
+	<key>UN1251</key>
+	<string>"Methyl vinyl ketone, stabilized"</string>
+	<key>UN1259</key>
+	<string>Nickel carbonyl</string>
+	<key>UN1261</key>
+	<string>Nitromethane</string>
+	<key>UN1262</key>
+	<string>Octanes</string>
+	<key>UN1263</key>
+	<string>"Paint including paint, lacquer, enamel, stain, shellac solutions, varnish, polish, liquid filler, and liquid lacquer base"</string>
+	<key>UN1263</key>
+	<string>"Paint related material including paint thinning, drying, removing, or reducing compound"</string>
+	<key>UN1264</key>
+	<string>Paraldehyde</string>
+	<key>UN1265</key>
+	<string>Pentanes</string>
+	<key>UN1266</key>
+	<string>Perfumery products with flammable solvents</string>
+	<key>UN1267</key>
+	<string>Petroleum crude oil</string>
+	<key>UN1268</key>
+	<string>"Petroleum distillates, n.o.s. or Petroleum products, n.o.s."</string>
+	<key>UN1272</key>
+	<string>Pine oil</string>
+	<key>UN1274</key>
+	<string>"n-Propanol or Propyl alcohol, normal"</string>
+	<key>UN1275</key>
+	<string>Propionaldehyde</string>
+	<key>UN1276</key>
+	<string>n-Propyl acetate</string>
+	<key>UN1277</key>
+	<string>Propylamine</string>
+	<key>UN1278</key>
+	<string>1-Chloropropane</string>
+	<key>UN1279</key>
+	<string>"1,2-Dichloropropane"</string>
+	<key>UN1280</key>
+	<string>Propylene oxide</string>
+	<key>UN1281</key>
+	<string>Propyl formates</string>
+	<key>UN1282</key>
+	<string>Pyridine</string>
+	<key>UN1286</key>
+	<string>Rosin oil</string>
+	<key>UN1287</key>
+	<string>Rubber solution</string>
+	<key>UN1288</key>
+	<string>Shale oil</string>
+	<key>UN1289</key>
+	<string>Sodium methylate solutions in alcohol</string>
+	<key>UN1292</key>
+	<string>Tetraethyl silicate</string>
+	<key>UN1293</key>
+	<string>"Tinctures, medicinal"</string>
+	<key>UN1294</key>
+	<string>Toluene</string>
+	<key>UN1295</key>
+	<string>Trichlorosilane</string>
+	<key>UN1296</key>
+	<string>Triethylamine</string>
+	<key>UN1297</key>
+	<string>"Trimethylamine, aqueous solutions with not more than 50 percent trimethylamine by mass"</string>
+	<key>UN1298</key>
+	<string>Trimethylchlorosilane</string>
+	<key>UN1299</key>
+	<string>Turpentine</string>
+	<key>UN1300</key>
+	<string>Turpentine substitute</string>
+	<key>UN1301</key>
+	<string>"Vinyl acetate, stabilized"</string>
+	<key>UN1302</key>
+	<string>"Vinyl ethyl ether, stabilized"</string>
+	<key>UN1303</key>
+	<string>"Vinylidene chloride, stabilized"</string>
+	<key>UN1304</key>
+	<string>"Vinyl isobutyl ether, stabilized"</string>
+	<key>UN1305</key>
+	<string>"Vinyltrichlorosilane, stabilized"</string>
+	<key>UN1306</key>
+	<string>"Wood preservatives, liquid"</string>
+	<key>UN1307</key>
+	<string>Xylenes</string>
+	<key>UN1308</key>
+	<string>Zirconium suspended in a liquid</string>
+	<key>UN1309</key>
+	<string>"Aluminum powder, coated"</string>
+	<key>UN1310</key>
+	<string>"Ammonium picrate, wetted with not less than 10 percent water, by mass"</string>
+	<key>UN1312</key>
+	<string>Borneol</string>
+	<key>UN1313</key>
+	<string>Calcium resinate</string>
+	<key>UN1314</key>
+	<string>"Calcium resinate, fused"</string>
+	<key>UN1318</key>
+	<string>"Cobalt resinate, precipitated"</string>
+	<key>UN1320</key>
+	<string>"Dinitrophenol, wetted with not less than 15 percent water, by mass"</string>
+	<key>UN1321</key>
+	<string>"Dinitrophenolates, wetted with not less than 15 percent water, by mass"</string>
+	<key>UN1322</key>
+	<string>"Dinitroresorcinol, wetted with not less than 15 percent water, by mass"</string>
+	<key>UN1323</key>
+	<string>Ferrocerium</string>
+	<key>UN1324</key>
+	<string>"Films, nitrocellulose base, gelatine coated (except scrap)"</string>
+	<key>UN1325</key>
+	<string>"Flammable solids, organic, n.o.s."</string>
+	<key>UN1326</key>
+	<string>"Hafnium powder, wetted with not less than 25 percent water (a visible excess of water must be present) (a) mechanically produced, particle size less than 53 microns; (b) chemically produced, particle size less than 840 microns"</string>
+	<key>UN1328</key>
+	<string>Hexamethylenetetramine</string>
+	<key>UN1330</key>
+	<string>Manganese resinate</string>
+	<key>UN1331</key>
+	<string>"Matches, strike anywhere"</string>
+	<key>UN1332</key>
+	<string>Metaldehyde</string>
+	<key>UN1333</key>
+	<string>"Cerium, slabs, ingots, or rods"</string>
+	<key>UN1334</key>
+	<string>"Naphthalene, crude or Naphthalene, refined"</string>
+	<key>UN1336</key>
+	<string>"Nitroguanidine, wetted or Picrite, wetted with not less than 20 percent water, by mass"</string>
+	<key>UN1337</key>
+	<string>"Nitrostarch, wetted with not less than 20 percent water, by mass"</string>
+	<key>UN1338</key>
+	<string>"Phosphorus, amorphous"</string>
+	<key>UN1339</key>
+	<string>"Phosphorus heptasulfide, free from yellow or white phosphorus"</string>
+	<key>UN1340</key>
+	<string>"Phosphorus pentasulfide, free from yellow or white phosphorus"</string>
+	<key>UN1341</key>
+	<string>"Phosphorus sesquisulfide, free from yellow or white phosphorus"</string>
+	<key>UN1343</key>
+	<string>"Phosphorus trisulfide, free from yellow or white phosphorus"</string>
+	<key>UN1344</key>
+	<string>"Trinitrophenol, wetted or Picric acid, with not less than 30 percent water, by mass"</string>
+	<key>UN1345</key>
+	<string>"Rubber scrap or Rubber shoddy, powdered or granulated, not exceeding 840 microns and rubber content exceeding 45%."</string>
+	<key>UN1346</key>
+	<string>"Silicon powder, amorphous"</string>
+	<key>UN1347</key>
+	<string>"Silver picrate, wetted with not less than 30 percent water, by mass"</string>
+	<key>UN1348</key>
+	<string>"Sodium dinitro-o-cresolate, wetted with not less than 15 percent water, by mass"</string>
+	<key>UN1349</key>
+	<string>"Sodium picramate, wetted with not less than 20 percent water, by mass"</string>
+	<key>UN1350</key>
+	<string>Sulfur</string>
+	<key>UN1352</key>
+	<string>"Titanium powder, wetted with not less than 25 percent water (a visible excess of water must be present) (a) mechanically produced, particle size less than 53 microns; (b) chemically produced, particle size less than 840 microns"</string>
+	<key>UN1353</key>
+	<string>"Fibers or Fabrics impregnated with weakly nitrated nitrocellulose, n.o.s."</string>
+	<key>UN1354</key>
+	<string>"Trinitrobenzene, wetted with not less than 30 percent water, by mass"</string>
+	<key>UN1355</key>
+	<string>"Trinitrobenzoic acid, wetted with not less than 30 percent water, by mass"</string>
+	<key>UN1356</key>
+	<string>"Trinitrotoluene, wetted or TNT, wetted with not less than 30 percent water, by mass"</string>
+	<key>UN1357</key>
+	<string>"Urea nitrate, wetted with not less than 20 percent water, by mass"</string>
+	<key>UN1358</key>
+	<string>"Zirconium powder, wetted with not less than 25 percent water (a visible excess of water must be present) (a) mechanically produced, particle size less than 53 microns; (b) chemically produced, particle size less than 840 microns"</string>
+	<key>UN1360</key>
+	<string>Calcium phosphide</string>
+	<key>UN1361</key>
+	<string>"Carbon, animal or vegetable origin"</string>
+	<key>UN1362</key>
+	<string>"Carbon, activated"</string>
+	<key>UN1363</key>
+	<string>Copra</string>
+	<key>UN1364</key>
+	<string>"Cotton waste, oily"</string>
+	<key>UN1365</key>
+	<string>"Cotton, wet"</string>
+	<key>UN1369</key>
+	<string>p-Nitrosodimethylaniline</string>
+	<key>UN1372</key>
+	<string>"Fibers, animal or Fibers, vegetable burnt, wet or damp."</string>
+	<key>UN1373</key>
+	<string>"Fibers or Fabrics, animal or vegetable or Synthetic, n.o.s. with animal or vegetable oil"</string>
+	<key>UN1374</key>
+	<string>"Fish meal, unstablized or Fish scrap, unstabilized"</string>
+	<key>UN1376</key>
+	<string>"Iron oxide, spent, or Iron sponge, spent obtained from coal gas purification"</string>
+	<key>UN1378</key>
+	<string>"Metal catalyst, wetted with a visible excess of liquid"</string>
+	<key>UN1379</key>
+	<string>"Paper, unsaturated oil treated incompletely dried (including carbon paper)"</string>
+	<key>UN1380</key>
+	<string>Pentaborane</string>
+	<key>UN1381</key>
+	<string>"Phosphorus, white dry or Phosphorus, white, under water or Phosphorus white, in solution or Phosphorus, yellow dry or Phosphorus, yellow, under water or Phosphorus, yellow, in solution"</string>
+	<key>UN1382</key>
+	<string>"Potassium sulfide, anhydrous or Potassium sulfide with less than 30 percent water of crystallization"</string>
+	<key>UN1383</key>
+	<string>"Pyrophoric metals, n.o.s., or Pyrophoric alloys, n.o.s."</string>
+	<key>UN1384</key>
+	<string>Sodium dithionite or Sodium hydrosulfite</string>
+	<key>UN1385</key>
+	<string>"Sodium sulfide, anhydrous or Sodium sulfide with less than 30 percent water of crystallization"</string>
+	<key>UN1386</key>
+	<string>"Seed cake, containing vegetable oil solvent extractions and expelled seeds, with not more than 10 percent of oil and when the amount of moisture is higher than 11 percent, with not more than 20 percent of oil and moisture combined"</string>
+	<key>UN1386</key>
+	<string>Seed cake with more than 1.5 percent oil and not more than 11 percent moisture</string>
+	<key>UN1387</key>
+	<string>"Wool waste, wet"</string>
+	<key>UN1389</key>
+	<string>"Alkali metal amalgam, liquid"</string>
+	<key>UN1389</key>
+	<string>"Alkali metal amalgam, solid"</string>
+	<key>UN1390</key>
+	<string>Alkali metal amides</string>
+	<key>UN1391</key>
+	<string>"Alkali metal dispersions, or Alkaline earth metal dispersions"</string>
+	<key>UN1392</key>
+	<string>"Alkaline earth metal amalgams, liquid"</string>
+	<key>UN1393</key>
+	<string>"Alkaline earth metal alloys, n.o.s."</string>
+	<key>UN1394</key>
+	<string>Aluminum carbide</string>
+	<key>UN1395</key>
+	<string>Aluminum ferrosilicon powder</string>
+	<key>UN1396</key>
+	<string>"Aluminum powder, uncoated"</string>
+	<key>UN1397</key>
+	<string>Aluminum phosphide</string>
+	<key>UN1398</key>
+	<string>"Aluminum silicon powder, uncoated"</string>
+	<key>UN1400</key>
+	<string>Barium</string>
+	<key>UN1401</key>
+	<string>Calcium</string>
+	<key>UN1402</key>
+	<string>Calcium carbide</string>
+	<key>UN1403</key>
+	<string>Calcium cyanamide with more than 0.1 percent of calcium carbide</string>
+	<key>UN1404</key>
+	<string>Calcium hydride</string>
+	<key>UN1405</key>
+	<string>Calcium silicide</string>
+	<key>UN1407</key>
+	<string>Cesium or Caesium</string>
+	<key>UN1408</key>
+	<string>"Ferrosilicon, with 30 percent or more but less than 90 percent silicon"</string>
+	<key>UN1409</key>
+	<string>"Metal hydrides, water reactive, n.o.s."</string>
+	<key>UN1410</key>
+	<string>Lithium aluminum hydride</string>
+	<key>UN1411</key>
+	<string>"Lithium aluminum hydride, ethereal"</string>
+	<key>UN1413</key>
+	<string>Lithium borohydride</string>
+	<key>UN1414</key>
+	<string>Lithium hydride</string>
+	<key>UN1415</key>
+	<string>Lithium</string>
+	<key>UN1417</key>
+	<string>Lithium silicon</string>
+	<key>UN1418</key>
+	<string>"Magnesium, powder or Magnesium alloys, powder"</string>
+	<key>UN1419</key>
+	<string>Magnesium aluminum phosphide</string>
+	<key>UN1420</key>
+	<string>"Potassium, metal alloys, liquid"</string>
+	<key>UN1421</key>
+	<string>"Alkali metal alloys, liquid, n.o.s."</string>
+	<key>UN1422</key>
+	<string>"Potassium sodium alloys, liquid"</string>
+	<key>UN1423</key>
+	<string>Rubidium</string>
+	<key>UN1426</key>
+	<string>Sodium borohydride</string>
+	<key>UN1427</key>
+	<string>Sodium hydride</string>
+	<key>UN1428</key>
+	<string>Sodium</string>
+	<key>UN1431</key>
+	<string>Sodium methylate</string>
+	<key>UN1432</key>
+	<string>Sodium phosphide</string>
+	<key>UN1433</key>
+	<string>Stannic phosphide</string>
+	<key>UN1435</key>
+	<string>Zinc ashes</string>
+	<key>UN1436</key>
+	<string>Zinc powder or Zinc dust</string>
+	<key>UN1437</key>
+	<string>Zirconium hydride</string>
+	<key>UN1438</key>
+	<string>Aluminum nitrate</string>
+	<key>UN1439</key>
+	<string>Ammonium dichromate</string>
+	<key>UN1442</key>
+	<string>Ammonium perchlorate</string>
+	<key>UN1444</key>
+	<string>Ammonium persulfate</string>
+	<key>UN1445</key>
+	<string>"Barium chlorate, solid"</string>
+	<key>UN1446</key>
+	<string>Barium nitrate</string>
+	<key>UN1447</key>
+	<string>"Barium perchlorate, solid"</string>
+	<key>UN1448</key>
+	<string>Barium permanganate</string>
+	<key>UN1449</key>
+	<string>Barium peroxide</string>
+	<key>UN1450</key>
+	<string>"Bromates, inorganic, n.o.s."</string>
+	<key>UN1451</key>
+	<string>Cesium nitrate or Caesium nitrate</string>
+	<key>UN1452</key>
+	<string>Calcium chlorate</string>
+	<key>UN1453</key>
+	<string>Calcium chlorite</string>
+	<key>UN1454</key>
+	<string>Calcium nitrate</string>
+	<key>UN1455</key>
+	<string>Calcium perchlorate</string>
+	<key>UN1456</key>
+	<string>Calcium permanganate</string>
+	<key>UN1457</key>
+	<string>Calcium peroxide</string>
+	<key>UN1458</key>
+	<string>Chlorate and borate mixtures</string>
+	<key>UN1459</key>
+	<string>"Chlorate and magnesium chloride mixtures, solid"</string>
+	<key>UN1461</key>
+	<string>"Chlorates, inorganic, aqueous solution, n.o.s. "</string>
+	<key>UN1461</key>
+	<string>"Chlorates, inorganic, n.o.s."</string>
+	<key>UN1462</key>
+	<string>"Chlorites, inorganic, n.o.s."</string>
+	<key>UN1463</key>
+	<string>"Chromium trioxide, anhydrous"</string>
+	<key>UN1465</key>
+	<string>Didymium nitrate</string>
+	<key>UN1466</key>
+	<string>Ferric nitrate</string>
+	<key>UN1467</key>
+	<string>Guanidine nitrate</string>
+	<key>UN1469</key>
+	<string>Lead nitrate</string>
+	<key>UN1470</key>
+	<string>"Lead perchlorate, solid"</string>
+	<key>UN1471</key>
+	<string>"Lithium hypochlorite, dry with more than 39% available chlorine (8.8% available oxygen) or Lithium hypochlorite mixtures, dry [with more than 39% available chlorine (8.8% available oxygen)"</string>
+	<key>UN1472</key>
+	<string>Lithium peroxide</string>
+	<key>UN1473</key>
+	<string>Magnesium bromate</string>
+	<key>UN1474</key>
+	<string>Magnesium nitrate</string>
+	<key>UN1475</key>
+	<string>Magnesium perchlorate</string>
+	<key>UN1476</key>
+	<string>Magnesium peroxide</string>
+	<key>UN1477</key>
+	<string>"Nitrates, inorganic, n.o.s."</string>
+	<key>UN1479</key>
+	<string>"Oxidizing solid, n.o.s."</string>
+	<key>UN1481</key>
+	<string>"Perchlorates, inorganic, n.o.s."</string>
+	<key>UN1482</key>
+	<string>"Permanganates, inorganic, n.o.s."</string>
+	<key>UN1483</key>
+	<string>"Peroxides, inorganic, n.o.s."</string>
+	<key>UN1484</key>
+	<string>Potassium bromate</string>
+	<key>UN1485</key>
+	<string>Potassium chlorate</string>
+	<key>UN1486</key>
+	<string>Potassium nitrate</string>
+	<key>UN1487</key>
+	<string>Potassium nitrate and sodium nitrite mixtures</string>
+	<key>UN1488</key>
+	<string>Potassium nitrite</string>
+	<key>UN1489</key>
+	<string>Potassium perchlorate</string>
+	<key>UN1490</key>
+	<string>Potassium permanganate</string>
+	<key>UN1491</key>
+	<string>Potassium peroxide</string>
+	<key>UN1492</key>
+	<string>Potassium persulfate</string>
+	<key>UN1493</key>
+	<string>Silver nitrate</string>
+	<key>UN1494</key>
+	<string>Sodium bromate</string>
+	<key>UN1495</key>
+	<string>Sodium chlorate</string>
+	<key>UN1496</key>
+	<string>Sodium chlorite</string>
+	<key>UN1498</key>
+	<string>Sodium nitrate</string>
+	<key>UN1499</key>
+	<string>Sodium nitrate and potassium nitrate mixtures</string>
+	<key>UN1500</key>
+	<string>Sodium nitrite</string>
+	<key>UN1502</key>
+	<string>Sodium perchlorate</string>
+	<key>UN1503</key>
+	<string>Sodium permanganate</string>
+	<key>UN1504</key>
+	<string>Sodium peroxide</string>
+	<key>UN1505</key>
+	<string>Sodium persulfate</string>
+	<key>UN1506</key>
+	<string>Strontium chlorate</string>
+	<key>UN1507</key>
+	<string>Strontium nitrate</string>
+	<key>UN1508</key>
+	<string>Strontium perchlorate</string>
+	<key>UN1509</key>
+	<string>Strontium peroxide</string>
+	<key>UN1510</key>
+	<string>Tetranitromethane</string>
+	<key>UN1511</key>
+	<string>Urea hydrogen peroxide</string>
+	<key>UN1512</key>
+	<string>Zinc ammonium nitrite</string>
+	<key>UN1513</key>
+	<string>Zinc chlorate</string>
+	<key>UN1514</key>
+	<string>Zinc nitrate</string>
+	<key>UN1515</key>
+	<string>Zinc permanganate</string>
+	<key>UN1516</key>
+	<string>Zinc peroxide</string>
+	<key>UN1517</key>
+	<string>"Zirconium picramate, wetted with not less than 20 percent water, by mass"</string>
+	<key>UN1541</key>
+	<string>"Acetone cyanohydrin, stabilized"</string>
+	<key>UN1544</key>
+	<string>"Alkaloids, solid, n.o.s. or Alkaloid salts, solid, n.o.s. poisonous"</string>
+	<key>UN1545</key>
+	<string>"Allyl isothiocyanate, stabilized"</string>
+	<key>UN1546</key>
+	<string>Ammonium arsenate</string>
+	<key>UN1547</key>
+	<string>Aniline</string>
+	<key>UN1548</key>
+	<string>Aniline hydrochloride</string>
+	<key>UN1549</key>
+	<string>"Antimony compounds, inorganic, solid, n.o.s."</string>
+	<key>UN1550</key>
+	<string>Antimony lactate</string>
+	<key>UN1551</key>
+	<string>Antimony potassium tartrate</string>
+	<key>UN1553</key>
+	<string>"Arsenic acid, liquid"</string>
+	<key>UN1554</key>
+	<string>"Arsenic acid, solid"</string>
+	<key>UN1555</key>
+	<string>Arsenic bromide</string>
+	<key>UN1556</key>
+	<string>"Arsenic compounds, liquid, n.o.s. inorganic, including arsenates, n.o.s.; arsenites, n.o.s.; arsenic sulfides, n.o.s.; and organic compounds of arsenic, n.o.s."</string>
+	<key>UN1557</key>
+	<string>"Arsenic compounds, solid, n.o.s. inorganic, including arsenates, n.o.s.; arsenites, n.o.s.; arsenic sulfides, n.o.s.; and organic compounds of arsenic, n.o.s."</string>
+	<key>UN1558</key>
+	<string>Arsenic</string>
+	<key>UN1559</key>
+	<string>Arsenic pentoxide</string>
+	<key>UN1560</key>
+	<string>Arsenic trichloride</string>
+	<key>UN1561</key>
+	<string>Arsenic trioxide</string>
+	<key>UN1562</key>
+	<string>Arsenical dust</string>
+	<key>UN1564</key>
+	<string>"Barium compounds, n.o.s."</string>
+	<key>UN1565</key>
+	<string>Barium cyanide</string>
+	<key>UN1566</key>
+	<string>"Beryllium compounds, n.o.s."</string>
+	<key>UN1567</key>
+	<string>"Beryllium, powder"</string>
+	<key>UN1569</key>
+	<string>Bromoacetone</string>
+	<key>UN1570</key>
+	<string>Brucine</string>
+	<key>UN1571</key>
+	<string>"Barium azide, wetted with not less than 50 percent water, by mass"</string>
+	<key>UN1572</key>
+	<string>Cacodylic acid</string>
+	<key>UN1573</key>
+	<string>Calcium arsenate</string>
+	<key>UN1574</key>
+	<string>"Calcium arsenate and calcium arsenite, mixtures, solid"</string>
+	<key>UN1575</key>
+	<string>Calcium cyanide</string>
+	<key>UN1577</key>
+	<string>"Chlorodinitrobenzenes, liquid"</string>
+	<key>UN1578</key>
+	<string>"Chloronitrobenzenes, solid"</string>
+	<key>UN1579</key>
+	<string>"4-Chloro-o-toluidine hydrochloride, solid"</string>
+	<key>UN1580</key>
+	<string>Chloropicrin</string>
+	<key>UN1581</key>
+	<string>Chloropicrin and methyl bromide mixtures</string>
+	<key>UN1582</key>
+	<string>Chloropicrin and methyl chloride mixtures</string>
+	<key>UN1583</key>
+	<string>"Chloropicrin mixtures, n.o.s."</string>
+	<key>UN1585</key>
+	<string>Copper acetoarsenite</string>
+	<key>UN1586</key>
+	<string>Copper arsenite</string>
+	<key>UN1587</key>
+	<string>Copper cyanide</string>
+	<key>UN1588</key>
+	<string>"Cyanides, inorganic, solid, n.o.s."</string>
+	<key>UN1589</key>
+	<string>"Cyanogen chloride, stabilized"</string>
+	<key>UN1590</key>
+	<string>"Dichloroanilines, liquid"</string>
+	<key>UN1591</key>
+	<string>o-Dichlorobenzene</string>
+	<key>UN1593</key>
+	<string>Dichloromethane</string>
+	<key>UN1594</key>
+	<string>Diethyl sulfate</string>
+	<key>UN1595</key>
+	<string>Dimethyl sulfate</string>
+	<key>UN1596</key>
+	<string>Dinitroanilines</string>
+	<key>UN1597</key>
+	<string>"Dinitrobenzenes, liquid"</string>
+	<key>UN1598</key>
+	<string>Dinitro-o-cresol</string>
+	<key>UN1599</key>
+	<string>Dinitrophenol solutions</string>
+	<key>UN1600</key>
+	<string>"Dinitrotoluenes, molten"</string>
+	<key>UN1601</key>
+	<string>"Disinfectants, solid, toxic, n.o.s."</string>
+	<key>UN1602</key>
+	<string>"Dyes, liquid, toxic, n.o.s. or Dye intermediates, liquid, toxic, n.o.s."</string>
+	<key>UN1603</key>
+	<string>Ethyl bromoacetate</string>
+	<key>UN1604</key>
+	<string>Ethylenediamine</string>
+	<key>UN1605</key>
+	<string>Ethylene dibromide</string>
+	<key>UN1606</key>
+	<string>Ferric arsenate</string>
+	<key>UN1607</key>
+	<string>Ferric arsenite</string>
+	<key>UN1608</key>
+	<string>Ferrous arsenate</string>
+	<key>UN1611</key>
+	<string>"Hexaethyl tetraphosphate, liquid"</string>
+	<key>UN1611</key>
+	<string>"Hexaethyl tetraphosphate, solid"</string>
+	<key>UN1612</key>
+	<string>Hexaethyl tetraphosphate and compressed gas mixtures</string>
+	<key>UN1613</key>
+	<string>"Hydrocyanic acid, aqueous solutions or Hydrogen cyanide, aqueous solutions with not more than 20 percent hydrogen cyanide"</string>
+	<key>UN1614</key>
+	<string>"Hydrogen cyanide, stabilized, with less than 3 percent water and absorbed in a porous inert material"</string>
+	<key>UN1616</key>
+	<string>Lead acetate</string>
+	<key>UN1617</key>
+	<string>Lead arsenates</string>
+	<key>UN1618</key>
+	<string>Lead arsenites</string>
+	<key>UN1620</key>
+	<string>Lead cyanide</string>
+	<key>UN1621</key>
+	<string>London purple</string>
+	<key>UN1622</key>
+	<string>Magnesium arsenate</string>
+	<key>UN1623</key>
+	<string>Mercuric arsenate</string>
+	<key>UN1624</key>
+	<string>Mercuric chloride</string>
+	<key>UN1625</key>
+	<string>Mercuric nitrate</string>
+	<key>UN1626</key>
+	<string>Mercuric potassium cyanide</string>
+	<key>UN1627</key>
+	<string>Mercurous nitrate</string>
+	<key>UN1629</key>
+	<string>Mercury acetate</string>
+	<key>UN1630</key>
+	<string>Mercury ammonium chloride</string>
+	<key>UN1631</key>
+	<string>Mercury benzoate</string>
+	<key>UN1634</key>
+	<string>Mercury bromides</string>
+	<key>UN1636</key>
+	<string>Mercury cyanide</string>
+	<key>UN1637</key>
+	<string>Mercury gluconate</string>
+	<key>UN1638</key>
+	<string>Mercury iodide</string>
+	<key>UN1639</key>
+	<string>Mercury nucleate</string>
+	<key>UN1640</key>
+	<string>Mercury oleate</string>
+	<key>UN1641</key>
+	<string>Mercury oxide</string>
+	<key>UN1642</key>
+	<string>"Mercury oxycyanide, desensitized"</string>
+	<key>UN1643</key>
+	<string>Mercury potassium iodide</string>
+	<key>UN1644</key>
+	<string>Mercury salicylate</string>
+	<key>UN1645</key>
+	<string>Mercury sulfates</string>
+	<key>UN1646</key>
+	<string>Mercury thiocyanate</string>
+	<key>UN1647</key>
+	<string>"Methyl bromide and ethylene dibromide mixtures, liquid"</string>
+	<key>UN1648</key>
+	<string>Acetonitrile</string>
+	<key>UN1649</key>
+	<string>Motor fuel anti-knock mixtures</string>
+	<key>UN1650</key>
+	<string>"beta-Naphthylamine, solid"</string>
+	<key>UN1651</key>
+	<string>Naphthylthiourea</string>
+	<key>UN1652</key>
+	<string>Naphthylurea</string>
+	<key>UN1653</key>
+	<string>Nickel cyanide</string>
+	<key>UN1654</key>
+	<string>Nicotine</string>
+	<key>UN1655</key>
+	<string>"Nicotine compounds, solid, n.o.s. or Nicotine preparations, solid, n.o.s."</string>
+	<key>UN1656</key>
+	<string>Nicotine hydrochloride or Nicotine hydrochloride solution</string>
+	<key>UN1657</key>
+	<string>Nicotine salicylate</string>
+	<key>UN1658</key>
+	<string>Nicotine sulfate solution</string>
+	<key>UN1659</key>
+	<string>Nicotine tartrate</string>
+	<key>UN1660</key>
+	<string>"Nitric oxide, compressed"</string>
+	<key>UN1661</key>
+	<string>Nitroanilines (o-; m-; p-;)</string>
+	<key>UN1662</key>
+	<string>Nitrobenzene</string>
+	<key>UN1663</key>
+	<string>Nitrophenols (o-; m-; p-;)</string>
+	<key>UN1664</key>
+	<string>"Nitrotoluenes, liquid "</string>
+	<key>UN1665</key>
+	<string>"Nitroxylenes, liquid "</string>
+	<key>UN1669</key>
+	<string>Pentachloroethane</string>
+	<key>UN1670</key>
+	<string>Perchloromethyl mercaptan</string>
+	<key>UN1671</key>
+	<string>"Phenol, solid"</string>
+	<key>UN1672</key>
+	<string>Phenylcarbylamine chloride</string>
+	<key>UN1673</key>
+	<string>"Phenylenediamines (o-, m-, p-)"</string>
+	<key>UN1674</key>
+	<string>Phenylmercuric acetate</string>
+	<key>UN1677</key>
+	<string>Potassium arsenate</string>
+	<key>UN1678</key>
+	<string>Potassium arsenite</string>
+	<key>UN1679</key>
+	<string>Potassium cuprocyanide</string>
+	<key>UN1680</key>
+	<string>"Potassium cyanide, solid"</string>
+	<key>UN1683</key>
+	<string>Silver arsenite</string>
+	<key>UN1684</key>
+	<string>Silver cyanide</string>
+	<key>UN1685</key>
+	<string>Sodium arsenate</string>
+	<key>UN1686</key>
+	<string>"Sodium arsenite, aqueous solutions"</string>
+	<key>UN1687</key>
+	<string>Sodium azide</string>
+	<key>UN1688</key>
+	<string>Sodium cacodylate</string>
+	<key>UN1689</key>
+	<string>"Sodium cyanide, solid"</string>
+	<key>UN1690</key>
+	<string>"Sodium fluoride, solid"</string>
+	<key>UN1691</key>
+	<string>Strontium arsenite</string>
+	<key>UN1692</key>
+	<string>Strychnine or Strychnine salts</string>
+	<key>UN1693</key>
+	<string>"Tear gas substances, liquid, n.o.s."</string>
+	<key>UN1693</key>
+	<string>"Tear gas substances, solid, n.o.s."</string>
+	<key>UN1694</key>
+	<string>"Bromobenzyl cyanides, liquid"</string>
+	<key>UN1695</key>
+	<string>"Chloroacetone, stabilized"</string>
+	<key>UN1697</key>
+	<string>"Chloroacetophenone, solid, (CN)"</string>
+	<key>UN1698</key>
+	<string>Diphenylamine chloroarsine</string>
+	<key>UN1699</key>
+	<string>"Diphenylchloroarsine, liquid"</string>
+	<key>UN1699</key>
+	<string>"Diphenylchloroarsine, solid"</string>
+	<key>UN1700</key>
+	<string>Tear gas candles</string>
+	<key>UN1701</key>
+	<string>"Xylyl bromide, liquid"</string>
+	<key>UN1702</key>
+	<string>"1,1,2,2-Tetrachloroethane"</string>
+	<key>UN1704</key>
+	<string>Tetraethyl dithiopyrophosphate</string>
+	<key>UN1707</key>
+	<string>"Thallium compounds, n.o.s."</string>
+	<key>UN1708</key>
+	<string>Toluidines liquid</string>
+	<key>UN1709</key>
+	<string>"2,4-Toluylenediamine, solid or 2,4-Toluenediamine, solid"</string>
+	<key>UN1710</key>
+	<string>Trichloroethylene</string>
+	<key>UN1711</key>
+	<string>"Xylidines, liquid"</string>
+	<key>UN1712</key>
+	<string>Zinc arsenate or Zinc arsenite or Zinc arsenate and zinc arsenite mixtures</string>
+	<key>UN1713</key>
+	<string>Zinc cyanide</string>
+	<key>UN1714</key>
+	<string>Zinc phosphide</string>
+	<key>UN1715</key>
+	<string>Acetic anhydride</string>
+	<key>UN1716</key>
+	<string>Acetyl bromide</string>
+	<key>UN1717</key>
+	<string>Acetyl chloride</string>
+	<key>UN1718</key>
+	<string>Butyl acid phosphate</string>
+	<key>UN1719</key>
+	<string>"Caustic alkali liquids, n.o.s."</string>
+	<key>UN1722</key>
+	<string>Allyl chloroformate</string>
+	<key>UN1723</key>
+	<string>Allyl iodide</string>
+	<key>UN1724</key>
+	<string>"Allyltrichlorosilane, stabilized"</string>
+	<key>UN1725</key>
+	<string>"Aluminum bromide, anhydrous"</string>
+	<key>UN1726</key>
+	<string>"Aluminum chloride, anhydrous"</string>
+	<key>UN1727</key>
+	<string>"Ammonium hydrogendifluoride, solid"</string>
+	<key>UN1728</key>
+	<string>Amyltrichlorosilane</string>
+	<key>UN1729</key>
+	<string>Anisoyl chloride</string>
+	<key>UN1730</key>
+	<string>"Antimony pentachloride, liquid"</string>
+	<key>UN1731</key>
+	<string>"Antimony pentachloride, solutions"</string>
+	<key>UN1732</key>
+	<string>Antimony pentafluoride</string>
+	<key>UN1733</key>
+	<string>"Antimony trichloride, liquid"</string>
+	<key>UN1733</key>
+	<string>"Antimony trichloride, solid"</string>
+	<key>UN1736</key>
+	<string>Benzoyl chloride</string>
+	<key>UN1737</key>
+	<string>Benzyl bromide</string>
+	<key>UN1738</key>
+	<string>Benzyl chloride</string>
+	<key>UN1738</key>
+	<string>Benzyl chloride unstabilized</string>
+	<key>UN1739</key>
+	<string>Benzyl chloroformate</string>
+	<key>UN1740</key>
+	<string>"Hydrogendifluorides, solid, n.o.s. "</string>
+	<key>UN1741</key>
+	<string>Boron trichloride</string>
+	<key>UN1742</key>
+	<string>"Boron trifluoride acetic acid complex, liquid"</string>
+	<key>UN1743</key>
+	<string>"Boron trifluoride propionic acid complex, liquid"</string>
+	<key>UN1744</key>
+	<string>Bromine</string>
+	<key>UN1744</key>
+	<string>Bromine solutions</string>
+	<key>UN1745</key>
+	<string>Bromine pentafluoride</string>
+	<key>UN1746</key>
+	<string>Bromine trifluoride</string>
+	<key>UN1747</key>
+	<string>Butyltrichlorosilane</string>
+	<key>UN1748</key>
+	<string>"Calcium hypochlorite, dry or Calcium hypochlorite mixtures dry with more than 39 percent available chlorine (8.8 percent available oxygen)"</string>
+	<key>UN1749</key>
+	<string>Chlorine trifluoride</string>
+	<key>UN1750</key>
+	<string>"Chloroacetic acid, solution"</string>
+	<key>UN1751</key>
+	<string>"Chloroacetic acid, solid"</string>
+	<key>UN1752</key>
+	<string>Chloroacetyl chloride</string>
+	<key>UN1753</key>
+	<string>Chlorophenyltrichlorosilane</string>
+	<key>UN1754</key>
+	<string>Chlorosulfonic acid (with or without sulfur trioxide)</string>
+	<key>UN1755</key>
+	<string>Chromic acid solution</string>
+	<key>UN1756</key>
+	<string>"Chromic fluoride, solid"</string>
+	<key>UN1757</key>
+	<string>"Chromic fluoride, solution"</string>
+	<key>UN1758</key>
+	<string>Chromium oxychloride</string>
+	<key>UN1759</key>
+	<string>"Corrosive solids, n.o.s."</string>
+	<key>UN1760</key>
+	<string>"Corrosive liquids, n.o.s."</string>
+	<key>UN1761</key>
+	<string>Cupriethylenediamine solution</string>
+	<key>UN1762</key>
+	<string>Cyclohexenyltrichlorosilane</string>
+	<key>UN1763</key>
+	<string>Cyclohexyltrichlorosilane</string>
+	<key>UN1764</key>
+	<string>Dichloroacetic acid</string>
+	<key>UN1765</key>
+	<string>Dichloroacetyl chloride</string>
+	<key>UN1766</key>
+	<string>Dichlorophenyltrichlorosilane</string>
+	<key>UN1767</key>
+	<string>Diethyldichlorosilane</string>
+	<key>UN1768</key>
+	<string>"Difluorophosphoric acid, anhydrous"</string>
+	<key>UN1769</key>
+	<string>Diphenyldichlorosilane</string>
+	<key>UN1770</key>
+	<string>Diphenylmethyl bromide</string>
+	<key>UN1771</key>
+	<string>Dodecyltrichlorosilane</string>
+	<key>UN1773</key>
+	<string>"Ferric chloride, anhydrous"</string>
+	<key>UN1774</key>
+	<string>"Fire extinguisher charges, corrosive liquid"</string>
+	<key>UN1775</key>
+	<string>Fluoroboric acid</string>
+	<key>UN1776</key>
+	<string>Fluorophosphoric acid anhydrous</string>
+	<key>UN1777</key>
+	<string>Fluorosulfonic acid</string>
+	<key>UN1778</key>
+	<string>Fluorosilicic acid</string>
+	<key>UN1779</key>
+	<string>Formic acid with more than 85% acid by mass</string>
+	<key>UN1780</key>
+	<string>Fumaryl chloride</string>
+	<key>UN1781</key>
+	<string>Hexadecyltrichlorosilane</string>
+	<key>UN1782</key>
+	<string>Hexafluorophosphoric acid</string>
+	<key>UN1783</key>
+	<string>Hexamethylenediamine solution</string>
+	<key>UN1784</key>
+	<string>Hexyltrichlorosilane</string>
+	<key>UN1786</key>
+	<string>Hydrofluoric acid and Sulfuric acid mixtures</string>
+	<key>UN1787</key>
+	<string>Hydriodic acid</string>
+	<key>UN1788</key>
+	<string>"Hydrobromic acid, with more than 49 percent hydrobromic acid"</string>
+	<key>UN1788</key>
+	<string>"Hydrobromic acid, with not more than 49 percent hydrobromic acid"</string>
+	<key>UN1789</key>
+	<string>Hydrochloric acid</string>
+	<key>UN1790</key>
+	<string>"Hydrofluoric acid, with more than 60 percent strength"</string>
+	<key>UN1790</key>
+	<string>"Hydrofluoric acid, with not more than 60 percent strength"</string>
+	<key>UN1791</key>
+	<string>Hypochlorite solutions</string>
+	<key>UN1792</key>
+	<string>Iodine monochloride</string>
+	<key>UN1793</key>
+	<string>Isopropyl acid phosphate</string>
+	<key>UN1794</key>
+	<string>Lead sulfate with more than 3 percent free acid</string>
+	<key>UN1796</key>
+	<string>Nitrating acid mixtures with more than 50 percent nitric acid</string>
+	<key>UN1796</key>
+	<string>Nitrating acid mixtures with not more than 50 percent nitric acid</string>
+	<key>UN1798</key>
+	<string>Nitrohydrochloric acid</string>
+	<key>UN1799</key>
+	<string>Nonyltrichlorosilane</string>
+	<key>UN1800</key>
+	<string>Octadecyltrichlorosilane</string>
+	<key>UN1801</key>
+	<string>Octyltrichlorosilane</string>
+	<key>UN1802</key>
+	<string>Perchloric acid with not more than 50 percent acid by mass</string>
+	<key>UN1803</key>
+	<string>"Phenolsulfonic acid, liquid"</string>
+	<key>UN1804</key>
+	<string>Phenyltrichlorosilane</string>
+	<key>UN1805</key>
+	<string>Phosphoric acid solution</string>
+	<key>UN1806</key>
+	<string>Phosphorus pentachloride</string>
+	<key>UN1807</key>
+	<string>Phosphorus pentoxide</string>
+	<key>UN1808</key>
+	<string>Phosphorus tribromide</string>
+	<key>UN1809</key>
+	<string>Phosphorus trichloride</string>
+	<key>UN1810</key>
+	<string>Phosphorus oxychloride</string>
+	<key>UN1811</key>
+	<string>"Potassium hydrogendifluoride, solid"</string>
+	<key>UN1812</key>
+	<string>"Potassium fluoride, solid"</string>
+	<key>UN1813</key>
+	<string>"Potassium hydroxide, solid"</string>
+	<key>UN1814</key>
+	<string>"Potassium hydroxide, solution"</string>
+	<key>UN1815</key>
+	<string>Propionyl chloride</string>
+	<key>UN1816</key>
+	<string>Propyltrichlorosilane</string>
+	<key>UN1817</key>
+	<string>Pyrosulfuryl chloride</string>
+	<key>UN1818</key>
+	<string>Silicon tetrachloride</string>
+	<key>UN1819</key>
+	<string>"Sodium aluminate, solution"</string>
+	<key>UN1823</key>
+	<string>"Sodium hydroxide, solid"</string>
+	<key>UN1824</key>
+	<string>Sodium hydroxide solution</string>
+	<key>UN1825</key>
+	<string>Sodium monoxide</string>
+	<key>UN1826</key>
+	<string>"Nitrating acid mixtures, spent with more than 50 percent nitric acid"</string>
+	<key>UN1826</key>
+	<string>Nitrating acid mixtures spent with not more than 50 percent nitric acid</string>
+	<key>UN1827</key>
+	<string>"Stannic chloride, anhydrous"</string>
+	<key>UN1828</key>
+	<string>Sulfur chlorides</string>
+	<key>UN1829</key>
+	<string>"Sulfur trioxide, stabilized"</string>
+	<key>UN1830</key>
+	<string>Sulfuric acid with more than 51 percent acid</string>
+	<key>UN1831</key>
+	<string>"Sulfuric acid, fuming with 30 percent or more free sulfur trioxide"</string>
+	<key>UN1831</key>
+	<string>"Sulfuric acid, fuming with less than 30 percent free sulfur trioxide"</string>
+	<key>UN1832</key>
+	<string>"Sulfuric acid, spent"</string>
+	<key>UN1833</key>
+	<string>Sulfurous acid</string>
+	<key>UN1834</key>
+	<string>Sulfuryl chloride</string>
+	<key>UN1835</key>
+	<string>Tetramethylammonium hydroxide solution</string>
+	<key>UN1836</key>
+	<string>Thionyl chloride</string>
+	<key>UN1837</key>
+	<string>Thiophosphoryl chloride</string>
+	<key>UN1838</key>
+	<string>Titanium tetrachloride</string>
+	<key>UN1839</key>
+	<string>Trichloroacetic acid</string>
+	<key>UN1840</key>
+	<string>"Zinc chloride, solution"</string>
+	<key>UN1841</key>
+	<string>Acetaldehyde ammonia</string>
+	<key>UN1843</key>
+	<string>"Ammonium dinitro-o-cresolate, solid"</string>
+	<key>UN1845</key>
+	<string>"Carbon dioxide, solid or Dry ice"</string>
+	<key>UN1846</key>
+	<string>Carbon tetrachloride</string>
+	<key>UN1847</key>
+	<string>"Potassium sulfide, hydrated with not less than 30 percent water of crystallization"</string>
+	<key>UN1848</key>
+	<string>Propionic acid with not less than 10% and less than 90% acid by mass</string>
+	<key>UN1849</key>
+	<string>"Sodium sulfide, hydrated with not less than 30 percent water"</string>
+	<key>UN1851</key>
+	<string>"Medicine, liquid, toxic, n.o.s."</string>
+	<key>UN1854</key>
+	<string>"Barium alloys, pyrophoric"</string>
+	<key>UN1855</key>
+	<string>"Calcium, pyrophoric or Calcium alloys, pyrophoric"</string>
+	<key>UN1856</key>
+	<string>"Rags, oily"</string>
+	<key>UN1857</key>
+	<string>"Textile waste, wet"</string>
+	<key>UN1858</key>
+	<string>Hexafluoropropylene compressed or Refrigerant gas R 1216</string>
+	<key>UN1859</key>
+	<string>Silicon tetrafluoride</string>
+	<key>UN1860</key>
+	<string>"Vinyl fluoride, stabilized"</string>
+	<key>UN1862</key>
+	<string>Ethyl crotonate</string>
+	<key>UN1863</key>
+	<string>"Fuel, aviation, turbine engine"</string>
+	<key>UN1865</key>
+	<string>n-Propyl nitrate</string>
+	<key>UN1866</key>
+	<string>"Resin solution, flammable"</string>
+	<key>UN1868</key>
+	<string>Decaborane</string>
+	<key>UN1869</key>
+	<string>"Magnesium or Magnesium alloys with more than 50 percent magnesium in pellets, turnings or ribbons"</string>
+	<key>UN1870</key>
+	<string>Potassium borohydride</string>
+	<key>UN1871</key>
+	<string>Titanium hydride</string>
+	<key>UN1872</key>
+	<string>Lead dioxide</string>
+	<key>UN1873</key>
+	<string>"Perchloric acid with more than 50 percent but not more than 72 percent acid, by mass"</string>
+	<key>UN1884</key>
+	<string>Barium oxide</string>
+	<key>UN1885</key>
+	<string>Benzidine</string>
+	<key>UN1886</key>
+	<string>Benzylidene chloride</string>
+	<key>UN1887</key>
+	<string>Bromochloromethane</string>
+	<key>UN1888</key>
+	<string>Chloroform</string>
+	<key>UN1889</key>
+	<string>Cyanogen bromide</string>
+	<key>UN1891</key>
+	<string>Ethyl bromide</string>
+	<key>UN1892</key>
+	<string>Ethyldichloroarsine</string>
+	<key>UN1894</key>
+	<string>Phenylmercuric hydroxide</string>
+	<key>UN1895</key>
+	<string>Phenylmercuric nitrate</string>
+	<key>UN1897</key>
+	<string>Tetrachloroethylene</string>
+	<key>UN1898</key>
+	<string>Acetyl iodide</string>
+	<key>UN1902</key>
+	<string>Diisooctyl acid phosphate</string>
+	<key>UN1903</key>
+	<string>"Disinfectant, liquid, corrosive, n.o.s."</string>
+	<key>UN1903</key>
+	<string>"Disinfectants, liquid, corrosive n.o.s."</string>
+	<key>UN1905</key>
+	<string>Selenic acid</string>
+	<key>UN1906</key>
+	<string>"Sludge, acid"</string>
+	<key>UN1907</key>
+	<string>Soda lime with more than 4 percent sodium hydroxide</string>
+	<key>UN1908</key>
+	<string>Chlorite solution</string>
+	<key>UN1910</key>
+	<string>Calcium oxide</string>
+	<key>UN1911</key>
+	<string>Diborane</string>
+	<key>UN1912</key>
+	<string>Methyl chloride and methylene chloride mixtures</string>
+	<key>UN1913</key>
+	<string>"Neon, refrigerated liquid (cryogenic liquid)"</string>
+	<key>UN1914</key>
+	<string>Butyl propionates</string>
+	<key>UN1915</key>
+	<string>Cyclohexanone</string>
+	<key>UN1916</key>
+	<string>"2,2'-Dichlorodiethyl ether"</string>
+	<key>UN1917</key>
+	<string>"Ethyl acrylate, stabilized"</string>
+	<key>UN1918</key>
+	<string>Isopropylbenzene</string>
+	<key>UN1919</key>
+	<string>"Methyl acrylate, stabilized"</string>
+	<key>UN1920</key>
+	<string>Nonanes</string>
+	<key>UN1921</key>
+	<string>"Propyleneimine, stabilized"</string>
+	<key>UN1922</key>
+	<string>Pyrrolidine</string>
+	<key>UN1923</key>
+	<string>Calcium dithionite or Calcium hydrosulfite</string>
+	<key>UN1928</key>
+	<string>"Methyl magnesium bromide, in ethyl ether"</string>
+	<key>UN1929</key>
+	<string>Potassium dithionite or Potassium hydrosulfite</string>
+	<key>UN1931</key>
+	<string>Zinc dithionite or Zinc hydrosulfite</string>
+	<key>UN1932</key>
+	<string>Zirconium scrap</string>
+	<key>UN1935</key>
+	<string>"Cyanide solutions, n.o.s."</string>
+	<key>UN1938</key>
+	<string>Bromoacetic acid solution</string>
+	<key>UN1939</key>
+	<string>Phosphorus oxybromide</string>
+	<key>UN1940</key>
+	<string>Thioglycolic acid</string>
+	<key>UN1941</key>
+	<string>"Dibromodifluoromethane, R12B2"</string>
+	<key>UN1942</key>
+	<string>"Ammonium nitrate, with not more than 0.2% total combustible material, including any organic substance, calculated as carbon to the exclusion of any other added substance"</string>
+	<key>UN1944</key>
+	<string>"Matches, safety (book, card or strike on box)"</string>
+	<key>UN1945</key>
+	<string>"Matches, wax, Vesta"</string>
+	<key>UN1950</key>
+	<string>"Aerosols, corrosive, Packing Group II or III, (each not exceeding 1 L capacity)"</string>
+	<key>UN1950</key>
+	<string>"Aerosols, flammable, (each not exceeding 1 L capacity)"</string>
+	<key>UN1950</key>
+	<string>"Aerosols, flammable, n.o.s. (engine starting fluid) (each not exceeding 1 L capacity)"</string>
+	<key>UN1950</key>
+	<string>"Aerosols, non-flammable, (each not exceeding 1 L capacity)"</string>
+	<key>UN1950</key>
+	<string>"Aerosols, poison, each not exceeding 1 L capacity"</string>
+	<key>UN1951</key>
+	<string>"Argon, refrigerated liquid (cryogenic liquid)"</string>
+	<key>UN1952</key>
+	<string>Ethylene oxide and carbon dioxide mixtures with not more than 9 percent ethylene oxide</string>
+	<key>UN1953</key>
+	<string>"Compressed gas, toxic, flammable, n.o.s. Inhalation Hazard Zone A"</string>
+	<key>UN1953</key>
+	<string>"Compressed gas, toxic, flammable, n.o.s. Inhalation Hazard Zone B"</string>
+	<key>UN1953</key>
+	<string>"Compressed gas, toxic, flammable, n.o.s. Inhalation Hazard Zone C"</string>
+	<key>UN1953</key>
+	<string>"Compressed gas, toxic, flammable, n.o.s. Inhalation Hazard Zone D"</string>
+	<key>UN1954</key>
+	<string>"Compressed gas, flammable, n.o.s."</string>
+	<key>UN1955</key>
+	<string>"Compressed gas, toxic, n.o.s. Inhalation Hazard Zone A"</string>
+	<key>UN1955</key>
+	<string>"Compressed gas, toxic, n.o.s. Inhalation Hazard Zone B"</string>
+	<key>UN1955</key>
+	<string>"Compressed gas, toxic, n.o.s. Inhalation Hazard Zone C"</string>
+	<key>UN1955</key>
+	<string>"Compressed gas, toxic, n.o.s. Inhalation Hazard Zone D"</string>
+	<key>UN1956</key>
+	<string>"Compressed gas, n.o.s."</string>
+	<key>UN1957</key>
+	<string>"Deuterium, compressed"</string>
+	<key>UN1958</key>
+	<string>"1,2-Dichloro-1,1,2,2- tetrafluoroethane or Refrigerant gas R 114"</string>
+	<key>UN1959</key>
+	<string>"1,1-Difluoroethylene or Refrigerant gas R 1132a"</string>
+	<key>UN1961</key>
+	<string>"Ethane, refrigerated liquid"</string>
+	<key>UN1962</key>
+	<string>Ethylene</string>
+	<key>UN1963</key>
+	<string>"Helium, refrigerated liquid (cryogenic liquid)"</string>
+	<key>UN1964</key>
+	<string>"Hydrocarbon gas mixture, compressed, n.o.s."</string>
+	<key>UN1965</key>
+	<string>"Hydrocarbon gas mixture, liquefied, n.o.s."</string>
+	<key>UN1966</key>
+	<string>"Hydrogen, refrigerated liquid (cryogenic liquid)"</string>
+	<key>UN1967</key>
+	<string>"Insecticide gases, toxic, n.o.s."</string>
+	<key>UN1968</key>
+	<string>"Insecticide gases, n.o.s."</string>
+	<key>UN1969</key>
+	<string>"Isobutane see also Petroleum gases, liquefied"</string>
+	<key>UN1970</key>
+	<string>"Krypton, refrigerated liquid (cryogenic liquid)"</string>
+	<key>UN1971</key>
+	<string>"Methane, compressed or Natural gas, compressed (with high methane content)"</string>
+	<key>UN1972</key>
+	<string>"Methane, refrigerated liquid (cryogenic liquid) or Natural gas, refrigerated liquid (cryogenic liquid), with high methane content)"</string>
+	<key>UN1973</key>
+	<string>"Chlorodifluoromethane and chloropentafluoroethane mixture or Refrigerant gas R 502 with fixed boiling point, with approximately 49 percent chlorodifluoromethane"</string>
+	<key>UN1974</key>
+	<string>Chlorodifluorobromomethane or Refrigerant gas R 12B1</string>
+	<key>UN1975</key>
+	<string>Nitric oxide and dinitrogen tetroxide mixtures or Nitric oxide and nitrogen dioxide mixtures</string>
+	<key>UN1976</key>
+	<string>"Octafluorocyclobutane, or Refrigerant gas RC 318"</string>
+	<key>UN1977</key>
+	<string>"Nitrogen, refrigerated liquid cryogenic liquid"</string>
+	<key>UN1978</key>
+	<string>"Propane see also Petroleum gases, liquefied"</string>
+	<key>UN1982</key>
+	<string>Tetrafluoromethane or Refrigerant gas R 14</string>
+	<key>UN1983</key>
+	<string>"1-Chloro-2,2,2-trifluoroethane or Refrigerant gas R 133a"</string>
+	<key>UN1984</key>
+	<string>Trifluoromethane or Refrigerant gas R 23</string>
+	<key>UN1986</key>
+	<string>"Alcohols, flammable, toxic, n.o.s."</string>
+	<key>UN1987</key>
+	<string>"Alcohols, n.o.s."</string>
+	<key>UN1988</key>
+	<string>"Aldehydes, flammable, toxic, n.o.s."</string>
+	<key>UN1989</key>
+	<string>"Aldehydes, n.o.s."</string>
+	<key>UN1990</key>
+	<string>Benzaldehyde</string>
+	<key>UN1991</key>
+	<string>"Chloroprene, stabilized"</string>
+	<key>UN1992</key>
+	<string>"Flammable liquids, toxic, n.o.s."</string>
+	<key>UN1993</key>
+	<string>"Flammable liquids, n.o.s."</string>
+	<key>UN1994</key>
+	<string>Iron pentacarbonyl</string>
+	<key>UN1999</key>
+	<string>"Tars, liquid including road asphalt and oils, bitumen and cut backs"</string>
+	<key>UN2000</key>
+	<string>"Celluloid, in block, rods, rolls, sheets, tubes, etc., except scrap"</string>
+	<key>UN2001</key>
+	<string>"Cobalt naphthenates, powder"</string>
+	<key>UN2002</key>
+	<string>"Celluloid, scrap"</string>
+	<key>UN2004</key>
+	<string>Magnesium diamide</string>
+	<key>UN2006</key>
+	<string>"Plastics, nitrocellulose-based, self-heating, n.o.s."</string>
+	<key>UN2008</key>
+	<string>"Zirconium powder, dry"</string>
+	<key>UN2009</key>
+	<string>"Zirconium, dry, finished sheets, strip or coiled wire"</string>
+	<key>UN2010</key>
+	<string>Magnesium hydride</string>
+	<key>UN2011</key>
+	<string>Magnesium phosphide</string>
+	<key>UN2012</key>
+	<string>Potassium phosphide</string>
+	<key>UN2013</key>
+	<string>Strontium phosphide</string>
+	<key>UN2014</key>
+	<string>"Hydrogen peroxide, aqueous solutions with more than 40 percent but not more than 60 percent hydrogen peroxide (stabilized as necessary)"</string>
+	<key>UN2014</key>
+	<string>"Hydrogen peroxide, aqueous solutions with not less than 20 percent but not more than 40 percent hydrogen peroxide (stabilized as necessary)"</string>
+	<key>UN2015</key>
+	<string>"Hydrogen peroxide, stabilized or Hydrogen peroxide aqueous solutions, stabilized with more than 60 percent hydrogen peroxide"</string>
+	<key>UN2016</key>
+	<string>"Ammunition, toxic, non-explosive, without burster or expelling charge, non-fuzed"</string>
+	<key>UN2017</key>
+	<string>"Ammunition, tear-producing, non-explosive, without burster or expelling charge, non-fuzed"</string>
+	<key>UN2018</key>
+	<string>"Chloroanilines, solid"</string>
+	<key>UN2019</key>
+	<string>"Chloroanilines, liquid"</string>
+	<key>UN2020</key>
+	<string>"Chlorophenols, solid"</string>
+	<key>UN2021</key>
+	<string>"Chlorophenols, liquid"</string>
+	<key>UN2022</key>
+	<string>Cresylic acid</string>
+	<key>UN2023</key>
+	<string>Epichlorohydrin</string>
+	<key>UN2024</key>
+	<string>"Mercury compounds, liquid, n.o.s."</string>
+	<key>UN2025</key>
+	<string>"Mercury compounds, solid, n.o.s."</string>
+	<key>UN2026</key>
+	<string>"Phenylmercuric compounds, n.o.s."</string>
+	<key>UN2027</key>
+	<string>"Sodium arsenite, solid"</string>
+	<key>UN2028</key>
+	<string>"Bombs, smoke, non-explosive, with corrosive liquid, without initiating device"</string>
+	<key>UN2029</key>
+	<string>"Hydrazine, anhydrous"</string>
+	<key>UN2030</key>
+	<string>"Hydrazine aqueous solution, with more than 37% hydrazine, by mass"</string>
+	<key>UN2030</key>
+	<string>"Hydrazine, aqueous solutions, with more than 37% hydrazine, by mass"</string>
+	<key>UN2031</key>
+	<string>"Nitric acid other than red fuming, with at least 65 percent, but not more than 70 percent nitric acid"</string>
+	<key>UN2031</key>
+	<string>"Nitric acid other than red fuming, with less than 65 percent nitric acid"</string>
+	<key>UN2031</key>
+	<string>"Nitric acid other than red fuming, with more than 70 percent nitric acid"</string>
+	<key>UN2031</key>
+	<string>"Nitric acid other than red fuming, with not more than 20 percent nitric acid"</string>
+	<key>UN2032</key>
+	<string>"Nitric acid, red fuming"</string>
+	<key>UN2033</key>
+	<string>Potassium monoxide</string>
+	<key>UN2034</key>
+	<string>"Hydrogen and Methane mixtures, compressed"</string>
+	<key>UN2035</key>
+	<string>"1,1,1-Trifluoroethane, or Refrigerant gas R 143a"</string>
+	<key>UN2036</key>
+	<string>"Xenon, compressed"</string>
+	<key>UN2037</key>
+	<string>"Gas cartridges, (flammable) without a release device, non-refillable"</string>
+	<key>UN2037</key>
+	<string>"Receptacles, small, containing gas or gas cartridges (flammable), without release device, not refillable and not exceeding 1 L capacity"</string>
+	<key>UN2037</key>
+	<string>"Receptacles, small, containing gas or gas cartridges (non-flammable), without release device, not refillable and not exceeding 1 L capacity"</string>
+	<key>UN2037</key>
+	<string>"Receptacles, small, containing gas or gas cartridges (oxidizing), without release device, not refillable and not exceeding 1 L capacity"</string>
+	<key>UN2038</key>
+	<string>"Dinitrotoluenes, liquid"</string>
+	<key>UN2044</key>
+	<string>"2,2-Dimethylpropane"</string>
+	<key>UN2045</key>
+	<string>Isobutyraldehyde or Isobutyl aldehyde</string>
+	<key>UN2046</key>
+	<string>Cymenes</string>
+	<key>UN2047</key>
+	<string>Dichloropropenes</string>
+	<key>UN2048</key>
+	<string>Dicyclopentadiene</string>
+	<key>UN2049</key>
+	<string>Diethylbenzene</string>
+	<key>UN2050</key>
+	<string>"Diisobutylene, isomeric compounds"</string>
+	<key>UN2051</key>
+	<string>2-Dimethylaminoethanol</string>
+	<key>UN2052</key>
+	<string>Dipentene</string>
+	<key>UN2053</key>
+	<string>Methyl isobutyl carbinol</string>
+	<key>UN2054</key>
+	<string>Morpholine</string>
+	<key>UN2055</key>
+	<string>"Styrene monomer, stabilized"</string>
+	<key>UN2056</key>
+	<string>Tetrahydrofuran</string>
+	<key>UN2057</key>
+	<string>Tripropylene</string>
+	<key>UN2058</key>
+	<string>Valeraldehyde</string>
+	<key>UN2059</key>
+	<string>"Nitrocellulose, solution, flammable with not more than 12.6 percent nitrogen, by mass, and not more than 55 percent nitrocellulose"</string>
+	<key>UN2067</key>
+	<string>Ammonium nitrate based fertilizer</string>
+	<key>UN2071</key>
+	<string>Ammonium nitrate based fertilizer</string>
+	<key>UN2073</key>
+	<string>"Ammonia solutions, relative density less than 0.880 at 15 degrees C in water, with more than 35 percent but not more than 50 percent ammonia"</string>
+	<key>UN2074</key>
+	<string>"Acrylamide, solid"</string>
+	<key>UN2075</key>
+	<string>"Chloral, anhydrous, stabilized"</string>
+	<key>UN2076</key>
+	<string>"Cresols, liquid"</string>
+	<key>UN2077</key>
+	<string>alpha-Naphthylamine</string>
+	<key>UN2078</key>
+	<string>Toluene diisocyanate</string>
+	<key>UN2079</key>
+	<string>Diethylenetriamine</string>
+	<key>UN2186</key>
+	<string>"Hydrogen chloride, refrigerated liquid"</string>
+	<key>UN2187</key>
+	<string>"Carbon dioxide, refrigerated liquid"</string>
+	<key>UN2188</key>
+	<string>Arsine</string>
+	<key>UN2189</key>
+	<string>Dichlorosilane</string>
+	<key>UN2190</key>
+	<string>"Oxygen difluoride, compressed"</string>
+	<key>UN2191</key>
+	<string>Sulfuryl fluoride</string>
+	<key>UN2192</key>
+	<string>Germane</string>
+	<key>UN2193</key>
+	<string>"Hexafluoroethane, or Refrigerant gas R116"</string>
+	<key>UN2194</key>
+	<string>Selenium hexafluoride</string>
+	<key>UN2195</key>
+	<string>Tellurium hexafluoride</string>
+	<key>UN2196</key>
+	<string>Tungsten hexafluoride</string>
+	<key>UN2197</key>
+	<string>"Hydrogen iodide, anhydrous"</string>
+	<key>UN2198</key>
+	<string>Phosphorus pentafluoride</string>
+	<key>UN2199</key>
+	<string>Phosphine</string>
+	<key>UN2200</key>
+	<string>"Propadiene, stabilized"</string>
+	<key>UN2201</key>
+	<string>"Nitrous oxide, refrigerated liquid"</string>
+	<key>UN2202</key>
+	<string>"Hydrogen selenide, anhydrous"</string>
+	<key>UN2203</key>
+	<string>Silane</string>
+	<key>UN2204</key>
+	<string>Carbonyl sulfide</string>
+	<key>UN2205</key>
+	<string>Adiponitrile</string>
+	<key>UN2206</key>
+	<string>"Isocyanates, toxic, n.o.s. or Isocyanate solutions, toxic, n.o.s., flash point more than 61 degrees C and boiling point less than 300 degrees C"</string>
+	<key>UN2208</key>
+	<string>"Calcium hypochlorite mixtures, dry, with more than 10 percent but not more than 39 percent available chlorine"</string>
+	<key>UN2209</key>
+	<string>"Formaldehyde, solutions, with not less than 25 percent formaldehyde"</string>
+	<key>UN2210</key>
+	<string>Maneb or Maneb preparations with not less than 60 percent maneb</string>
+	<key>UN2211</key>
+	<string>"Polymeric beads, expandable, evolving flammable vapor"</string>
+	<key>UN2212</key>
+	<string>"Blue asbestos (Crocidolite) or Brown asbestos (amosite, mysorite)"</string>
+	<key>UN2213</key>
+	<string>Paraformaldehyde</string>
+	<key>UN2214</key>
+	<string>Phthalic anhydride with more than .05 percent maleic anhydride</string>
+	<key>UN2215</key>
+	<string>"Maleic anhydride, molten"</string>
+	<key>UN2215</key>
+	<string>Maleic anhydride</string>
+	<key>UN2216</key>
+	<string>"Fish meal, stabilized or Fish scrap, stabilized"</string>
+	<key>UN2217</key>
+	<string>Seed cake with not more than 1.5 percent oil and not more than 11 percent moisture</string>
+	<key>UN2218</key>
+	<string>"Acrylic acid, stabilized"</string>
+	<key>UN2219</key>
+	<string>Allyl glycidyl ether</string>
+	<key>UN2222</key>
+	<string>Anisole</string>
+	<key>UN2224</key>
+	<string>Benzonitrile</string>
+	<key>UN2225</key>
+	<string>Benzene sulfonyl chloride</string>
+	<key>UN2226</key>
+	<string>Benzotrichloride</string>
+	<key>UN2227</key>
+	<string>"n-Butyl methacrylate, stabilized"</string>
+	<key>UN2232</key>
+	<string>2-Chloroethanal</string>
+	<key>UN2233</key>
+	<string>Chloroanisidines</string>
+	<key>UN2234</key>
+	<string>Chlorobenzotrifluorides</string>
+	<key>UN2235</key>
+	<string>"Chlorobenzyl chlorides, liquid"</string>
+	<key>UN2236</key>
+	<string>"3-Chloro-4-methylphenyl isocyanate, liquid"</string>
+	<key>UN2237</key>
+	<string>Chloronitroanilines</string>
+	<key>UN2238</key>
+	<string>Chlorotoluenes</string>
+	<key>UN2239</key>
+	<string>"Chlorotoluidines, solid"</string>
+	<key>UN2240</key>
+	<string>Chromosulfuric acid</string>
+	<key>UN2241</key>
+	<string>Cycloheptane</string>
+	<key>UN2242</key>
+	<string>Cycloheptene</string>
+	<key>UN2243</key>
+	<string>Cyclohexyl acetate</string>
+	<key>UN2244</key>
+	<string>Cyclopentanol</string>
+	<key>UN2245</key>
+	<string>Cyclopentanone</string>
+	<key>UN2246</key>
+	<string>Cyclopentene</string>
+	<key>UN2247</key>
+	<string>n-Decane</string>
+	<key>UN2248</key>
+	<string>Di-n-butylamine</string>
+	<key>UN2249</key>
+	<string>"Dichlorodimethyl ether, symmetrical"</string>
+	<key>UN2250</key>
+	<string>Dichlorophenyl isocyanates</string>
+	<key>UN2251</key>
+	<string>"Bicyclo [2,2,1] hepta-2,5-diene, stabilized or 2,5-Norbornadiene, stabilized"</string>
+	<key>UN2252</key>
+	<string>"1,2-Dimethoxyethane"</string>
+	<key>UN2253</key>
+	<string>"N,N-Dimethylaniline"</string>
+	<key>UN2254</key>
+	<string>"Matches, fusee"</string>
+	<key>UN2256</key>
+	<string>Cyclohexene</string>
+	<key>UN2257</key>
+	<string>Potassium</string>
+	<key>UN2258</key>
+	<string>"1,2-Propylenediamine"</string>
+	<key>UN2259</key>
+	<string>Triethylenetetramine</string>
+	<key>UN2260</key>
+	<string>Tripropylamine</string>
+	<key>UN2261</key>
+	<string>"Xylenols, solid"</string>
+	<key>UN2262</key>
+	<string>Dimethylcarbamoyl chloride</string>
+	<key>UN2263</key>
+	<string>Dimethylcyclohexanes</string>
+	<key>UN2264</key>
+	<string>"N,N-Dimethylcyclo-hexylamine"</string>
+	<key>UN2265</key>
+	<string>"N,N-Dimethylformamide"</string>
+	<key>UN2266</key>
+	<string>Dimethyl-N-propylamine</string>
+	<key>UN2267</key>
+	<string>Dimethyl thiophosphoryl chloride</string>
+	<key>UN2269</key>
+	<string>"3,3'-Iminodipropylamine"</string>
+	<key>UN2270</key>
+	<string>"Ethylamine, aqueous solution with not less than 50 percent but not more than 70 percent ethylamine"</string>
+	<key>UN2271</key>
+	<string>Ethyl amyl ketone</string>
+	<key>UN2272</key>
+	<string>N-Ethylaniline</string>
+	<key>UN2273</key>
+	<string>2-Ethylaniline</string>
+	<key>UN2274</key>
+	<string>N-Ethyl-N-benzylaniline</string>
+	<key>UN2275</key>
+	<string>2-Ethylbutanol</string>
+	<key>UN2276</key>
+	<string>2-Ethylhexylamine</string>
+	<key>UN2277</key>
+	<string>"Ethyl methacrylate, stabilized"</string>
+	<key>UN2278</key>
+	<string>n-Heptene</string>
+	<key>UN2279</key>
+	<string>Hexachlorobutadiene</string>
+	<key>UN2280</key>
+	<string>"Hexamethylenediamine, solid"</string>
+	<key>UN2281</key>
+	<string>Hexamethylene diisocyanate</string>
+	<key>UN2282</key>
+	<string>Hexanols</string>
+	<key>UN2283</key>
+	<string>"Isobutyl methacrylate, stabilized"</string>
+	<key>UN2284</key>
+	<string>Isobutyronitrile</string>
+	<key>UN2285</key>
+	<string>Isocyanatobenzotrifluorides</string>
+	<key>UN2286</key>
+	<string>Pentamethylheptane</string>
+	<key>UN2287</key>
+	<string>Isoheptenes</string>
+	<key>UN2288</key>
+	<string>Isohexenes</string>
+	<key>UN2289</key>
+	<string>Isophoronediamine</string>
+	<key>UN2290</key>
+	<string>Isophorone diisocyanate</string>
+	<key>UN2291</key>
+	<string>"Lead compounds, soluble, n.o.s."</string>
+	<key>UN2293</key>
+	<string>4-Methoxy-4-methylpentan-2-one</string>
+	<key>UN2294</key>
+	<string>N-Methylaniline</string>
+	<key>UN2295</key>
+	<string>Methyl chloroacetate</string>
+	<key>UN2296</key>
+	<string>Methylcyclohexane</string>
+	<key>UN2297</key>
+	<string>Methylcyclohexanone</string>
+	<key>UN2298</key>
+	<string>Methylcyclopentane</string>
+	<key>UN2299</key>
+	<string>Methyl dichloroacetate</string>
+	<key>UN2300</key>
+	<string>2-Methyl-5-ethylpyridine</string>
+	<key>UN2301</key>
+	<string>2-Methylfuran</string>
+	<key>UN2302</key>
+	<string>5-Methylhexan-2-one</string>
+	<key>UN2303</key>
+	<string>Isopropenylbenzene</string>
+	<key>UN2304</key>
+	<string>"Naphthalene, molten"</string>
+	<key>UN2305</key>
+	<string>Nitrobenzenesulfonic acid</string>
+	<key>UN2306</key>
+	<string>"Nitrobenzotrifluorides, liquid"</string>
+	<key>UN2307</key>
+	<string>3-Nitro-4-chlorobenzotrifluoride</string>
+	<key>UN2308</key>
+	<string>"Nitrosylsulfuric acid, liquid"</string>
+	<key>UN2309</key>
+	<string>Octadiene</string>
+	<key>UN2310</key>
+	<string>"Pentane-2,4-dione"</string>
+	<key>UN2311</key>
+	<string>Phenetidines</string>
+	<key>UN2312</key>
+	<string>"Phenol, molten"</string>
+	<key>UN2313</key>
+	<string>Picolines</string>
+	<key>UN2315</key>
+	<string>"Polychlorinated biphenyls, liquid"</string>
+	<key>UN2316</key>
+	<string>"Sodium cuprocyanide, solid"</string>
+	<key>UN2317</key>
+	<string>"Sodium cuprocyanide, solution"</string>
+	<key>UN2318</key>
+	<string>"Sodium hydrosulfide, with less than 25 percent water of crystallization"</string>
+	<key>UN2319</key>
+	<string>"Terpene hydrocarbons, n.o.s."</string>
+	<key>UN2320</key>
+	<string>Tetraethylenepentamine</string>
+	<key>UN2321</key>
+	<string>"Trichlorobenzenes, liquid"</string>
+	<key>UN2322</key>
+	<string>Trichlorobutene</string>
+	<key>UN2323</key>
+	<string>Triethyl phosphite</string>
+	<key>UN2324</key>
+	<string>Triisobutylene</string>
+	<key>UN2325</key>
+	<string>"1,3,5-Trimethylbenzene"</string>
+	<key>UN2326</key>
+	<string>Trimethylcyclohexylamine</string>
+	<key>UN2327</key>
+	<string>Trimethylhexamethylenediamines</string>
+	<key>UN2328</key>
+	<string>Trimethylhexamethylene diisocyanate</string>
+	<key>UN2329</key>
+	<string>Trimethyl phosphite</string>
+	<key>UN2330</key>
+	<string>Undecane</string>
+	<key>UN2331</key>
+	<string>"Zinc chloride, anhydrous"</string>
+	<key>UN2332</key>
+	<string>Acetaldehyde oxime</string>
+	<key>UN2333</key>
+	<string>Allyl acetate</string>
+	<key>UN2334</key>
+	<string>Allylamine</string>
+	<key>UN2335</key>
+	<string>Allyl ethyl ether</string>
+	<key>UN2336</key>
+	<string>Allyl formate</string>
+	<key>UN2337</key>
+	<string>Phenyl mercaptan</string>
+	<key>UN2338</key>
+	<string>Benzotrifluoride</string>
+	<key>UN2339</key>
+	<string>2-Bromobutane</string>
+	<key>UN2340</key>
+	<string>2-Bromoethyl ethyl ether</string>
+	<key>UN2341</key>
+	<string>1-Bromo-3-methylbutane</string>
+	<key>UN2342</key>
+	<string>Bromomethylpropanes</string>
+	<key>UN2343</key>
+	<string>2-Bromopentane</string>
+	<key>UN2344</key>
+	<string>Bromopropanes</string>
+	<key>UN2345</key>
+	<string>3-Bromopropyne</string>
+	<key>UN2346</key>
+	<string>Butanedione</string>
+	<key>UN2347</key>
+	<string>Butyl mercaptans</string>
+	<key>UN2348</key>
+	<string>"Butyl acrylates, stabilized"</string>
+	<key>UN2350</key>
+	<string>Butyl methyl ether</string>
+	<key>UN2351</key>
+	<string>Butyl nitrites</string>
+	<key>UN2352</key>
+	<string>"Butyl vinyl ether, stabilized"</string>
+	<key>UN2353</key>
+	<string>Butyryl chloride</string>
+	<key>UN2354</key>
+	<string>Chloromethyl ethyl ether</string>
+	<key>UN2356</key>
+	<string>2-Chloropropane</string>
+	<key>UN2357</key>
+	<string>Cyclohexylamine</string>
+	<key>UN2358</key>
+	<string>Cyclooctatetraene</string>
+	<key>UN2359</key>
+	<string>Diallylamine</string>
+	<key>UN2360</key>
+	<string>Diallylether</string>
+	<key>UN2361</key>
+	<string>Diisobutylamine</string>
+	<key>UN2362</key>
+	<string>"1,1-Dichloroethane"</string>
+	<key>UN2363</key>
+	<string>Ethyl mercaptan</string>
+	<key>UN2364</key>
+	<string>n-Propyl benzene</string>
+	<key>UN2366</key>
+	<string>Diethyl carbonate</string>
+	<key>UN2367</key>
+	<string>Methylvaleraldehyde</string>
+	<key>UN2368</key>
+	<string>alpha-Pinene</string>
+	<key>UN2370</key>
+	<string>1-Hexene</string>
+	<key>UN2371</key>
+	<string>Isopentenes</string>
+	<key>UN2372</key>
+	<string>"1,2-Di-(dimethylamino)ethane"</string>
+	<key>UN2373</key>
+	<string>Diethoxymethane</string>
+	<key>UN2374</key>
+	<string>"3,3-Diethoxypropene"</string>
+	<key>UN2375</key>
+	<string>Diethyl sulfide</string>
+	<key>UN2376</key>
+	<string>"2,3-Dihydropyran"</string>
+	<key>UN2377</key>
+	<string>"1,1-Dimethoxyethane"</string>
+	<key>UN2378</key>
+	<string>2-Dimethylaminoacetonitrile</string>
+	<key>UN2379</key>
+	<string>"1,3-Dimethylbutylamine"</string>
+	<key>UN2380</key>
+	<string>Dimethyldiethoxysilane</string>
+	<key>UN2381</key>
+	<string>Dimethyl disulfide</string>
+	<key>UN2382</key>
+	<string>"Dimethylhydrazine, symmetrical"</string>
+	<key>UN2383</key>
+	<string>Dipropylamine</string>
+	<key>UN2384</key>
+	<string>Di-n-propyl ether</string>
+	<key>UN2385</key>
+	<string>Ethyl isobutyrate</string>
+	<key>UN2386</key>
+	<string>1-Ethylpiperidine</string>
+	<key>UN2387</key>
+	<string>Fluorobenzene</string>
+	<key>UN2388</key>
+	<string>Fluorotoluenes</string>
+	<key>UN2389</key>
+	<string>Furan</string>
+	<key>UN2390</key>
+	<string>2-Iodobutane</string>
+	<key>UN2391</key>
+	<string>Iodomethylpropanes</string>
+	<key>UN2392</key>
+	<string>Iodopropanes</string>
+	<key>UN2393</key>
+	<string>Isobutyl formate</string>
+	<key>UN2394</key>
+	<string>Isobutyl propionate</string>
+	<key>UN2395</key>
+	<string>Isobutyryl chloride</string>
+	<key>UN2396</key>
+	<string>"Methacrylaldehyde, stabilized"</string>
+	<key>UN2397</key>
+	<string>3-Methylbutan-2-one</string>
+	<key>UN2398</key>
+	<string>Methyl tert-butyl ether</string>
+	<key>UN2399</key>
+	<string>1-Methylpiperidine</string>
+	<key>UN2400</key>
+	<string>Methyl isovalerate</string>
+	<key>UN2401</key>
+	<string>Piperidine</string>
+	<key>UN2402</key>
+	<string>Propanethiols</string>
+	<key>UN2403</key>
+	<string>Isopropenyl acetate</string>
+	<key>UN2404</key>
+	<string>Propionitrile</string>
+	<key>UN2405</key>
+	<string>Isopropyl butyrate</string>
+	<key>UN2406</key>
+	<string>Isopropyl isobutyrate</string>
+	<key>UN2407</key>
+	<string>Isopropyl chloroformate</string>
+	<key>UN2409</key>
+	<string>Isopropyl propionate</string>
+	<key>UN2410</key>
+	<string>"1,2,3,6-Tetrahydropyridine"</string>
+	<key>UN2411</key>
+	<string>Butyronitrile</string>
+	<key>UN2412</key>
+	<string>Tetrahydrothiophene</string>
+	<key>UN2413</key>
+	<string>Tetrapropylorthotitanate</string>
+	<key>UN2414</key>
+	<string>Thiophene</string>
+	<key>UN2416</key>
+	<string>Trimethyl borate</string>
+	<key>UN2417</key>
+	<string>Carbonyl fluoride</string>
+	<key>UN2418</key>
+	<string>Sulfur tetrafluoride</string>
+	<key>UN2419</key>
+	<string>Bromotrifluoroethylene</string>
+	<key>UN2420</key>
+	<string>Hexafluoroacetone</string>
+	<key>UN2421</key>
+	<string>Nitrogen trioxide</string>
+	<key>UN2422</key>
+	<string>Octafluorobut-2-ene or Refrigerant gas R 1318</string>
+	<key>UN2424</key>
+	<string>Octafluoropropane or Refrigerant gas R 218</string>
+	<key>UN2426</key>
+	<string>"Ammonium nitrate, liquid (hot concentrated solution)"</string>
+	<key>UN2427</key>
+	<string>"Potassium chlorate, aqueous solution"</string>
+	<key>UN2428</key>
+	<string>"Sodium chlorate, aqueous solution"</string>
+	<key>UN2429</key>
+	<string>Calcium chlorate aqueous solution</string>
+	<key>UN2430</key>
+	<string>"Alkylphenols, solid, n.o.s. (including C2-C12 homologues)"</string>
+	<key>UN2431</key>
+	<string>Anisidines</string>
+	<key>UN2432</key>
+	<string>"N, N-Diethylaniline"</string>
+	<key>UN2433</key>
+	<string>"Chloronitrotoluenes, liquid"</string>
+	<key>UN2434</key>
+	<string>Dibenzyldichlorosilane</string>
+	<key>UN2435</key>
+	<string>Ethylphenyldichlorosilane</string>
+	<key>UN2436</key>
+	<string>Thioacetic acid</string>
+	<key>UN2437</key>
+	<string>Methylphenyldichlorosilane</string>
+	<key>UN2438</key>
+	<string>Trimethylacetyl chloride</string>
+	<key>UN2439</key>
+	<string>Sodium hydrogendifluoride</string>
+	<key>UN2440</key>
+	<string>Stannic chloride pentahydrate</string>
+	<key>UN2441</key>
+	<string>"Titanium trichloride, pyrophoric or Titanium trichloride mixtures, pyrophoric"</string>
+	<key>UN2442</key>
+	<string>Trichloroacetyl chloride</string>
+	<key>UN2443</key>
+	<string>Vanadium oxytrichloride</string>
+	<key>UN2444</key>
+	<string>Vanadium tetrachloride</string>
+	<key>UN2446</key>
+	<string>"Nitrocresols, solid"</string>
+	<key>UN2447</key>
+	<string>"Phosphorus white, molten"</string>
+	<key>UN2448</key>
+	<string>"Sulfur, molten"</string>
+	<key>UN2451</key>
+	<string>Nitrogen trifluoride</string>
+	<key>UN2452</key>
+	<string>"Ethylacetylene, stabilized"</string>
+	<key>UN2453</key>
+	<string>Ethyl fluoride or Refrigerant gas R161</string>
+	<key>UN2454</key>
+	<string>"Methyl fluoride, or Refrigerant gas R 41"</string>
+	<key>UN2456</key>
+	<string>2-Chloropropene</string>
+	<key>UN2457</key>
+	<string>"2,3-Dimethylbutane"</string>
+	<key>UN2458</key>
+	<string>Hexadienes</string>
+	<key>UN2459</key>
+	<string>2-Methyl-1-butene</string>
+	<key>UN2460</key>
+	<string>2-Methyl-2-butene</string>
+	<key>UN2461</key>
+	<string>Methylpentadienes</string>
+	<key>UN2463</key>
+	<string>Aluminum hydride</string>
+	<key>UN2464</key>
+	<string>Beryllium nitrate</string>
+	<key>UN2465</key>
+	<string>"Dichloroisocyanuric acid, dry or Dichloroisocyanuric acid salts"</string>
+	<key>UN2466</key>
+	<string>Potassium superoxide</string>
+	<key>UN2468</key>
+	<string>"Trichloroisocyanuric acid, dry"</string>
+	<key>UN2469</key>
+	<string>Zinc bromate</string>
+	<key>UN2470</key>
+	<string>"Phenylacetonitrile, liquid"</string>
+	<key>UN2471</key>
+	<string>Osmium tetroxide</string>
+	<key>UN2473</key>
+	<string>Sodium arsanilate</string>
+	<key>UN2474</key>
+	<string>Thiophosgene</string>
+	<key>UN2475</key>
+	<string>Vanadium trichloride</string>
+	<key>UN2477</key>
+	<string>Methyl isothiocyanate</string>
+	<key>UN2478</key>
+	<string>"Isocyanates, flammable, toxic, n.o.s. or Isocyanate solutions, flammable, toxic, n.o.s. flash point less than 23 degrees C"</string>
+	<key>UN2480</key>
+	<string>Methyl isocyanate</string>
+	<key>UN2481</key>
+	<string>Ethyl isocyanate</string>
+	<key>UN2482</key>
+	<string>n-Propyl isocyanate</string>
+	<key>UN2483</key>
+	<string>Isopropyl isocyanate</string>
+	<key>UN2484</key>
+	<string>tert-Butyl isocyanate</string>
+	<key>UN2485</key>
+	<string>n-Butyl isocyanate</string>
+	<key>UN2486</key>
+	<string>Isobutyl isocyanate</string>
+	<key>UN2487</key>
+	<string>Phenyl isocyanate</string>
+	<key>UN2488</key>
+	<string>Cyclohexyl isocyanate</string>
+	<key>UN2490</key>
+	<string>Dichloroisopropyl ether</string>
+	<key>UN2491</key>
+	<string>Ethanolamine or Ethanolamine solutions</string>
+	<key>UN2493</key>
+	<string>Hexamethyleneimine</string>
+	<key>UN2495</key>
+	<string>Iodine pentafluoride</string>
+	<key>UN2496</key>
+	<string>Propionic anhydride</string>
+	<key>UN2498</key>
+	<string>"1,2,3,6-Tetrahydrobenzaldehyde"</string>
+	<key>UN2501</key>
+	<string>"Tris-(1-aziridinyl)phosphine oxide, solution"</string>
+	<key>UN2502</key>
+	<string>Valeryl chloride</string>
+	<key>UN2503</key>
+	<string>Zirconium tetrachloride</string>
+	<key>UN2504</key>
+	<string>Tetrabromoethane</string>
+	<key>UN2505</key>
+	<string>Ammonium fluoride</string>
+	<key>UN2506</key>
+	<string>Ammonium hydrogen sulfate</string>
+	<key>UN2507</key>
+	<string>"Chloroplatinic acid, solid"</string>
+	<key>UN2508</key>
+	<string>Molybdenum pentachloride</string>
+	<key>UN2509</key>
+	<string>Potassium hydrogen sulfate</string>
+	<key>UN2511</key>
+	<string>2-Chloropropionic acid</string>
+	<key>UN2512</key>
+	<string>Aminophenols (o-; m-; p-)</string>
+	<key>UN2513</key>
+	<string>Bromoacetyl bromide</string>
+	<key>UN2514</key>
+	<string>Bromobenzene</string>
+	<key>UN2515</key>
+	<string>Bromoform</string>
+	<key>UN2516</key>
+	<string>Carbon tetrabromide</string>
+	<key>UN2517</key>
+	<string>"1-Chloro-1,1-difluoroethane or Refrigerant gas R 142b"</string>
+	<key>UN2518</key>
+	<string>"1,5,9-Cyclododecatriene"</string>
+	<key>UN2520</key>
+	<string>Cyclooctadienes</string>
+	<key>UN2521</key>
+	<string>"Diketene, stabilized"</string>
+	<key>UN2522</key>
+	<string>2-Dimethylaminoethyl methacrylate</string>
+	<key>UN2524</key>
+	<string>Ethyl orthoformate</string>
+	<key>UN2525</key>
+	<string>Ethyl oxalate</string>
+	<key>UN2526</key>
+	<string>Furfurylamine</string>
+	<key>UN2527</key>
+	<string>"Isobutyl acrylate, stabilized"</string>
+	<key>UN2528</key>
+	<string>Isobutyl isobutyrate</string>
+	<key>UN2529</key>
+	<string>Isobutyric acid</string>
+	<key>UN2531</key>
+	<string>"Methacrylic acid, stabilized"</string>
+	<key>UN2533</key>
+	<string>Methyl trichloroacetate</string>
+	<key>UN2534</key>
+	<string>Methylchlorosilane</string>
+	<key>UN2535</key>
+	<string>4-Methylmorpholine or n-methylmorpholine</string>
+	<key>UN2536</key>
+	<string>Methyltetrahydrofuran</string>
+	<key>UN2538</key>
+	<string>Nitronaphthalene</string>
+	<key>UN2541</key>
+	<string>Terpinolene</string>
+	<key>UN2542</key>
+	<string>Tributylamine</string>
+	<key>UN2545</key>
+	<string>"Hafnium powder, dry"</string>
+	<key>UN2546</key>
+	<string>"Titanium powder, dry"</string>
+	<key>UN2547</key>
+	<string>Sodium superoxide</string>
+	<key>UN2548</key>
+	<string>Chlorine pentafluoride</string>
+	<key>UN2552</key>
+	<string>"Hexafluoroacetone hydrate, liquid"</string>
+	<key>UN2554</key>
+	<string>Methyl allyl chloride</string>
+	<key>UN2555</key>
+	<string>"Nitrocellulose with water with not less than 25 percent water, by mass"</string>
+	<key>UN2556</key>
+	<string>"Nitrocellulose with alcohol with not less than 25 percent alcohol by mass, and with not more than 12.6 percent nitrogen, by dry mass"</string>
+	<key>UN2557</key>
+	<string>"Nitrocellulose, with not more than 12.6 percent nitrogen, by dry mass mixture with or without plasticizer, with or without pigment "</string>
+	<key>UN2558</key>
+	<string>Epibromohydrin</string>
+	<key>UN2560</key>
+	<string>2-Methylpentan-2-ol</string>
+	<key>UN2561</key>
+	<string>3-Methyl-1-butene</string>
+	<key>UN2564</key>
+	<string>"Trichloroacetic acid, solution"</string>
+	<key>UN2565</key>
+	<string>Dicyclohexylamine</string>
+	<key>UN2567</key>
+	<string>Sodium pentachlorophenate</string>
+	<key>UN2570</key>
+	<string>Cadmium compounds</string>
+	<key>UN2571</key>
+	<string>Alkylsulfuric acids</string>
+	<key>UN2572</key>
+	<string>Phenylhydrazine</string>
+	<key>UN2573</key>
+	<string>Thallium chlorate</string>
+	<key>UN2574</key>
+	<string>Tricresyl phosphate with more than 3 percent ortho isomer</string>
+	<key>UN2576</key>
+	<string>"Phosphorus oxybromide, molten"</string>
+	<key>UN2577</key>
+	<string>Phenylacetyl chloride</string>
+	<key>UN2578</key>
+	<string>Phosphorus trioxide</string>
+	<key>UN2579</key>
+	<string>Piperazine</string>
+	<key>UN2580</key>
+	<string>"Aluminum bromide, solution"</string>
+	<key>UN2581</key>
+	<string>"Aluminum chloride, solution"</string>
+	<key>UN2582</key>
+	<string>"Ferric chloride, solution"</string>
+	<key>UN2583</key>
+	<string>"Alkyl sulfonic acids, solid or Aryl sulfonic acids, solid, with more than 5 percent free sulfuric acid"</string>
+	<key>UN2584</key>
+	<string>"Alkyl sulfonic acids, liquid or Aryl sulfonic acids, liquid with more than 5 percent free sulfuric acid"</string>
+	<key>UN2585</key>
+	<string>"Alkyl sulfonic acids, solid or Aryl sulfonic acids, solid with not more than 5 percent free sulfuric acid"</string>
+	<key>UN2586</key>
+	<string>"Alkyl sulfonic acids, liquid or Aryl sulfonic acids, liquid with not more than 5 percent free sulfuric acid"</string>
+	<key>UN2587</key>
+	<string>Benzoquinone</string>
+	<key>UN2588</key>
+	<string>"Pesticides, solid, toxic, n.o.s."</string>
+	<key>UN2589</key>
+	<string>Vinyl chloroacetate</string>
+	<key>UN2590</key>
+	<string>"White asbestos (chrysotile, actinolite, anthophyllite, tremolite)"</string>
+	<key>UN2591</key>
+	<string>"Xenon, refrigerated liquid (cryogenic liquids)"</string>
+	<key>UN2599</key>
+	<string>Chlorotrifluoromethane and trifluoromethane azeotropic mixture or Refrigerant gas R 503 with approximately 60 percent chlorotrifluoromethane</string>
+	<key>UN2601</key>
+	<string>Cyclobutane</string>
+	<key>UN2602</key>
+	<string>Dichlorodifluoromethane and difluoroethane azeotropic mixture or Refrigerant gas R 500 with approximately 74 percent dichlorodifluoromethane</string>
+	<key>UN2603</key>
+	<string>Cycloheptatriene</string>
+	<key>UN2604</key>
+	<string>Boron trifluoride diethyl etherate</string>
+	<key>UN2605</key>
+	<string>Methoxymethyl isocyanate</string>
+	<key>UN2606</key>
+	<string>Methyl orthosilicate</string>
+	<key>UN2607</key>
+	<string>"Acrolein dimer, stabilized"</string>
+	<key>UN2608</key>
+	<string>Nitropropanes</string>
+	<key>UN2609</key>
+	<string>Triallyl borate</string>
+	<key>UN2610</key>
+	<string>Triallylamine</string>
+	<key>UN2611</key>
+	<string>Propylene chlorohydrin</string>
+	<key>UN2612</key>
+	<string>Methyl propyl ether</string>
+	<key>UN2614</key>
+	<string>Methallyl alcohol</string>
+	<key>UN2615</key>
+	<string>Ethyl propyl ether</string>
+	<key>UN2616</key>
+	<string>Triisopropyl borate</string>
+	<key>UN2617</key>
+	<string>"Methylcyclohexanols, flammable"</string>
+	<key>UN2618</key>
+	<string>"Vinyltoluenes, stabilized"</string>
+	<key>UN2619</key>
+	<string>Benzyldimethylamine</string>
+	<key>UN2620</key>
+	<string>Amyl butyrates</string>
+	<key>UN2621</key>
+	<string>Acetyl methyl carbinol</string>
+	<key>UN2622</key>
+	<string>Glycidaldehyde</string>
+	<key>UN2623</key>
+	<string>"Firelighters, solid with flammable liquid"</string>
+	<key>UN2624</key>
+	<string>Magnesium silicide</string>
+	<key>UN2626</key>
+	<string>"Chloric acid aqueous solution, with not more than 10 percent chloric acid"</string>
+	<key>UN2627</key>
+	<string>"Nitrites, inorganic, n.o.s."</string>
+	<key>UN2628</key>
+	<string>Potassium fluoroacetate</string>
+	<key>UN2629</key>
+	<string>Sodium fluoroacetate</string>
+	<key>UN2630</key>
+	<string>Selenates or Selenites</string>
+	<key>UN2642</key>
+	<string>Fluoroacetic acid</string>
+	<key>UN2643</key>
+	<string>Methyl bromoacetate</string>
+	<key>UN2644</key>
+	<string>Methyl iodide</string>
+	<key>UN2645</key>
+	<string>Phenacyl bromide</string>
+	<key>UN2646</key>
+	<string>Hexachlorocyclopentadiene</string>
+	<key>UN2647</key>
+	<string>Malononitrile</string>
+	<key>UN2648</key>
+	<string>"1,2-Dibromobutan-3-one"</string>
+	<key>UN2649</key>
+	<string>"1,3-Dichloroacetone"</string>
+	<key>UN2650</key>
+	<string>"1,1-Dichloro-1-nitroethane"</string>
+	<key>UN2651</key>
+	<string>"4,4'-Diaminodiphenyl methane"</string>
+	<key>UN2653</key>
+	<string>Benzyl iodide</string>
+	<key>UN2655</key>
+	<string>Potassium fluorosilicate</string>
+	<key>UN2656</key>
+	<string>Quinoline</string>
+	<key>UN2657</key>
+	<string>Selenium disulfide</string>
+	<key>UN2659</key>
+	<string>Sodium chloroacetate</string>
+	<key>UN2660</key>
+	<string>Nitrotoluidines (mono)</string>
+	<key>UN2661</key>
+	<string>Hexachloroacetone</string>
+	<key>UN2664</key>
+	<string>Dibromomethane</string>
+	<key>UN2667</key>
+	<string>Butyltoluenes</string>
+	<key>UN2668</key>
+	<string>Chloroacetonitrile</string>
+	<key>UN2669</key>
+	<string>Chlorocresols solution</string>
+	<key>UN2670</key>
+	<string>Cyanuric chloride</string>
+	<key>UN2671</key>
+	<string>Aminopyridines (o-; m-; p-)</string>
+	<key>UN2672</key>
+	<string>"Ammonia solutions, relative density between 0.880 and 0.957 at 15 degrees C in water, with more than 10 percent but not more than 35 percent ammonia"</string>
+	<key>UN2673</key>
+	<string>2-Amino-4-chlorophenol</string>
+	<key>UN2674</key>
+	<string>Sodium fluorosilicate</string>
+	<key>UN2676</key>
+	<string>Stibine</string>
+	<key>UN2677</key>
+	<string>Rubidium hydroxide solution</string>
+	<key>UN2678</key>
+	<string>Rubidium hydroxide</string>
+	<key>UN2679</key>
+	<string>"Lithium hydroxide, solution"</string>
+	<key>UN2680</key>
+	<string>Lithium hydroxide</string>
+	<key>UN2681</key>
+	<string>Caesium hydroxide solution</string>
+	<key>UN2682</key>
+	<string>Caesium hydroxide</string>
+	<key>UN2683</key>
+	<string>Ammonium sulfide solution</string>
+	<key>UN2684</key>
+	<string>3-Diethylamino-propylamine</string>
+	<key>UN2685</key>
+	<string>"N,N-Diethylethylenediamine"</string>
+	<key>UN2686</key>
+	<string>2-Diethylaminoethanol</string>
+	<key>UN2687</key>
+	<string>Dicyclohexylammonium nitrite</string>
+	<key>UN2688</key>
+	<string>1-Bromo-3-chloropropane</string>
+	<key>UN2689</key>
+	<string>Glycerol alpha-monochlorohydrin</string>
+	<key>UN2690</key>
+	<string>N-n-Butyl imidazole</string>
+	<key>UN2691</key>
+	<string>Phosphorus pentabromide</string>
+	<key>UN2692</key>
+	<string>Boron tribromide</string>
+	<key>UN2693</key>
+	<string>"Bisulfites, aqueous solutions, n.o.s."</string>
+	<key>UN2698</key>
+	<string>Tetrahydrophthalic anhydrides with more than 0.05 percent of maleic anhydride</string>
+	<key>UN2699</key>
+	<string>Trifluoroacetic acid</string>
+	<key>UN2705</key>
+	<string>1-Pentol</string>
+	<key>UN2707</key>
+	<string>Dimethyldioxanes</string>
+	<key>UN2709</key>
+	<string>Butyl benzenes</string>
+	<key>UN2710</key>
+	<string>Dipropyl ketone</string>
+	<key>UN2713</key>
+	<string>Acridine</string>
+	<key>UN2714</key>
+	<string>Zinc resinate</string>
+	<key>UN2715</key>
+	<string>Aluminum resinate</string>
+	<key>UN2716</key>
+	<string>"1,4-Butynediol"</string>
+	<key>UN2717</key>
+	<string>"Camphor, synthetic"</string>
+	<key>UN2719</key>
+	<string>Barium bromate</string>
+	<key>UN2720</key>
+	<string>Chromium nitrate</string>
+	<key>UN2721</key>
+	<string>Copper chlorate</string>
+	<key>UN2722</key>
+	<string>Lithium nitrate</string>
+	<key>UN2723</key>
+	<string>Magnesium chlorate</string>
+	<key>UN2724</key>
+	<string>Manganese nitrate</string>
+	<key>UN2725</key>
+	<string>Nickel nitrate</string>
+	<key>UN2726</key>
+	<string>Nickel nitrite</string>
+	<key>UN2727</key>
+	<string>Thallium nitrate</string>
+	<key>UN2728</key>
+	<string>Zirconium nitrate</string>
+	<key>UN2729</key>
+	<string>Hexachlorobenzene</string>
+	<key>UN2730</key>
+	<string>"Nitroanisole, liquid"</string>
+	<key>UN2732</key>
+	<string>"Nitrobromobenzenes, liquid"</string>
+	<key>UN2733</key>
+	<string>"Amines, flammable, corrosive, n.o.s. or Polyamines, flammable, corrosive, n.o.s."</string>
+	<key>UN2734</key>
+	<string>"Amines, liquid, corrosive, flammable, n.o.s. or Polyamines, liquid, corrosive, flammable, n.o.s."</string>
+	<key>UN2735</key>
+	<string>"Amines, liquid, corrosive, n.o.s, or Polyamines, liquid, corrosive, n.o.s."</string>
+	<key>UN2738</key>
+	<string>N-Butylaniline</string>
+	<key>UN2739</key>
+	<string>Butyric anhydride</string>
+	<key>UN2740</key>
+	<string>n-Propyl chloroformate</string>
+	<key>UN2741</key>
+	<string>Barium hypochlorite with more than 22 percent available chlorine</string>
+	<key>UN2742</key>
+	<string>"Chloroformates, toxic, corrosive, flammable, n.o.s."</string>
+	<key>UN2743</key>
+	<string>n-Butyl chloroformate</string>
+	<key>UN2744</key>
+	<string>Cyclobutyl chloroformate</string>
+	<key>UN2745</key>
+	<string>Chloromethyl chloroformate</string>
+	<key>UN2746</key>
+	<string>Phenyl chloroformate</string>
+	<key>UN2747</key>
+	<string>tert-Butylcyclohexylchloroformate</string>
+	<key>UN2748</key>
+	<string>2-Ethylhexyl chloroformate</string>
+	<key>UN2749</key>
+	<string>Tetramethylsilane</string>
+	<key>UN2750</key>
+	<string>"1,3-Dichloropropanol-2"</string>
+	<key>UN2751</key>
+	<string>Diethylthiophosphoryl chloride</string>
+	<key>UN2752</key>
+	<string>"1,2-Epoxy-3-ethoxypropane"</string>
+	<key>UN2753</key>
+	<string>N-Ethylbenzyltoluidines liquid</string>
+	<key>UN2754</key>
+	<string>N-Ethyltoluidines</string>
+	<key>UN2757</key>
+	<string>"Carbamate pesticides, solid, toxic"</string>
+	<key>UN2758</key>
+	<string>"Carbamate pesticides, liquid, flammable, toxic, flash point less than 23 degrees C"</string>
+	<key>UN2759</key>
+	<string>"Arsenical pesticides, solid, toxic"</string>
+	<key>UN2760</key>
+	<string>"Arsenical pesticides, liquid, flammable, toxic, flash point less than 23 degrees C"</string>
+	<key>UN2761</key>
+	<string>"Organochlorine pesticides, solid, toxic"</string>
+	<key>UN2762</key>
+	<string>"Organochlorine pesticides liquid, flammable, toxic, flash point less than 23 degrees C"</string>
+	<key>UN2763</key>
+	<string>"Triazine pesticides, solid, toxic"</string>
+	<key>UN2764</key>
+	<string>"Triazine pesticides, liquid, flammable, toxic, flash point less than 23 degrees C"</string>
+	<key>UN2771</key>
+	<string>"Thiocarbamate pesticides, solid, toxic"</string>
+	<key>UN2772</key>
+	<string>"Thiocarbamate pesticide, liquid, flammable, toxic, flash point less than 23 degrees C"</string>
+	<key>UN2775</key>
+	<string>"Copper based pesticides, solid, toxic"</string>
+	<key>UN2776</key>
+	<string>"Copper based pesticides, liquid, flammable, toxic, flash point less than 23 degrees C"</string>
+	<key>UN2777</key>
+	<string>"Mercury based pesticides, solid, toxic"</string>
+	<key>UN2778</key>
+	<string>"Mercury based pesticides, liquid, flammable, toxic, flash point less than 23 degrees C"</string>
+	<key>UN2779</key>
+	<string>"Substituted nitrophenol pesticides, solid, toxic"</string>
+	<key>UN2780</key>
+	<string>"Substituted nitrophenol pesticides, liquid, flammable, toxic, flash point less than 23 degrees C"</string>
+	<key>UN2781</key>
+	<string>"Bipyridilium pesticides, solid, toxic"</string>
+	<key>UN2782</key>
+	<string>"Bipyridilium pesticides, liquid, flammable, toxic, flash point less than 23 degrees C"</string>
+	<key>UN2783</key>
+	<string>"Organophosphorus pesticides, solid, toxic"</string>
+	<key>UN2784</key>
+	<string>"Organophosphorus pesticides, liquid, flammable, toxic, flash point less than 23 degrees C"</string>
+	<key>UN2785</key>
+	<string>4-Thiapentanal</string>
+	<key>UN2786</key>
+	<string>"Organotin pesticides, solid, toxic"</string>
+	<key>UN2787</key>
+	<string>"Organotin pesticides, liquid, flammable, toxic, flash point less than 23 degrees C"</string>
+	<key>UN2788</key>
+	<string>"Organotin compounds, liquid, n.o.s."</string>
+	<key>UN2789</key>
+	<string>"Acetic acid, glacial or Acetic acid solution, with more than 80 percent acid, by mass"</string>
+	<key>UN2790</key>
+	<string>"Acetic acid solution, not less than 50 percent but not more than 80 percent acid, by mass"</string>
+	<key>UN2790</key>
+	<string>"Acetic acid solution, with more than 10 percent and less than 50 percent acid, by mass"</string>
+	<key>UN2793</key>
+	<string>Ferrous metal borings or Ferrous metal shavings or Ferrous metal turnings or Ferrous metal cuttings in a form liable to self-heating</string>
+	<key>UN2794</key>
+	<string>"Batteries, wet, filled with acid, electric storage"</string>
+	<key>UN2795</key>
+	<string>"Batteries, wet, filled with alkali, electric storage"</string>
+	<key>UN2796</key>
+	<string>"Battery fluid, acid"</string>
+	<key>UN2796</key>
+	<string>Sulfuric acid with not more than 51% acid</string>
+	<key>UN2797</key>
+	<string>"Battery fluid, alkali"</string>
+	<key>UN2798</key>
+	<string>Phenyl phosphorus dichloride</string>
+	<key>UN2799</key>
+	<string>Phenyl phosphorus thiodichloride</string>
+	<key>UN2800</key>
+	<string>"Batteries, wet, non-spillable, electric storage"</string>
+	<key>UN2801</key>
+	<string>"Dyes, liquid, corrosive, n.o.s. or Dye intermediates, liquid, corrosive, n.o.s."</string>
+	<key>UN2802</key>
+	<string>Copper chloride</string>
+	<key>UN2803</key>
+	<string>Gallium</string>
+	<key>UN2805</key>
+	<string>"Lithium hydride, fused solid"</string>
+	<key>UN2806</key>
+	<string>Lithium nitride</string>
+	<key>UN2809</key>
+	<string>Mercury</string>
+	<key>UN2809</key>
+	<string>Mercury contained in manufactured articles</string>
+	<key>UN2810</key>
+	<string>"Toxic, liquids, organic, n.o.s."</string>
+	<key>UN2811</key>
+	<string>"Toxic solids, organic, n.o.s."</string>
+	<key>UN2812</key>
+	<string>"Sodium aluminate, solid"</string>
+	<key>UN2813</key>
+	<string>"Water-reactive solid, n.o.s."</string>
+	<key>UN2814</key>
+	<string>"Infectious substances, affecting humans"</string>
+	<key>UN2815</key>
+	<string>N-Aminoethylpiperazine</string>
+	<key>UN2817</key>
+	<string>"Ammonium hydrogendifluoride, solution"</string>
+	<key>UN2818</key>
+	<string>"Ammonium polysulfide, solution"</string>
+	<key>UN2819</key>
+	<string>Amyl acid phosphate</string>
+	<key>UN2820</key>
+	<string>Butyric acid</string>
+	<key>UN2821</key>
+	<string>Phenol solutions</string>
+	<key>UN2822</key>
+	<string>2-Chloropyridine</string>
+	<key>UN2823</key>
+	<string>"Crotonic acid, solid"</string>
+	<key>UN2826</key>
+	<string>Ethyl chlorothioformate</string>
+	<key>UN2829</key>
+	<string>Caproic acid</string>
+	<key>UN2830</key>
+	<string>Lithium ferrosilicon</string>
+	<key>UN2831</key>
+	<string>"1,1,1-Trichloroethane"</string>
+	<key>UN2834</key>
+	<string>Phosphorous acid</string>
+	<key>UN2835</key>
+	<string>Sodium aluminum hydride</string>
+	<key>UN2837</key>
+	<string>"Bisulfate, aqueous solution"</string>
+	<key>UN2838</key>
+	<string>"Vinyl butyrate, stabilized"</string>
+	<key>UN2839</key>
+	<string>Aldol</string>
+	<key>UN2840</key>
+	<string>Butyraldoxime</string>
+	<key>UN2841</key>
+	<string>Di-n-amylamine</string>
+	<key>UN2842</key>
+	<string>Nitroethane</string>
+	<key>UN2844</key>
+	<string>Calcium manganese silicon</string>
+	<key>UN2845</key>
+	<string>"Pyrophoric liquids, organic, n.o.s."</string>
+	<key>UN2846</key>
+	<string>"Pyrophoric solids, organic, n.o.s."</string>
+	<key>UN2849</key>
+	<string>3-Chloropropanol-1</string>
+	<key>UN2850</key>
+	<string>Propylene tetramer</string>
+	<key>UN2851</key>
+	<string>Boron trifluoride dihydrate</string>
+	<key>UN2852</key>
+	<string>"Dipicryl sulfide, wetted with not less than 10 percent water, by mass"</string>
+	<key>UN2853</key>
+	<string>Magnesium fluorosilicate</string>
+	<key>UN2854</key>
+	<string>Ammonium fluorosilicate</string>
+	<key>UN2855</key>
+	<string>Zinc fluorosilicate</string>
+	<key>UN2856</key>
+	<string>"Fluorosilicates, n.o.s."</string>
+	<key>UN2857</key>
+	<string>"Refrigerating machines, containing non-flammable, non-toxic gases or ammonia solutions (UN2672)."</string>
+	<key>UN2858</key>
+	<string>"Zirconium, dry, coiled wire, finished metal sheets, strip (thinner than 254 microns but not thinner than 18 microns)"</string>
+	<key>UN2859</key>
+	<string>Ammonium metavanadate</string>
+	<key>UN2861</key>
+	<string>Ammonium polyvanadate</string>
+	<key>UN2862</key>
+	<string>"Vanadium pentoxide, non-fused form"</string>
+	<key>UN2863</key>
+	<string>Sodium ammonium vanadate</string>
+	<key>UN2864</key>
+	<string>Potassium metavanadate</string>
+	<key>UN2865</key>
+	<string>Hydroxylamine sulfate</string>
+	<key>UN2869</key>
+	<string>Titanium trichloride mixtures</string>
+	<key>UN2870</key>
+	<string>Aluminum borohydride or Aluminum borohydride in devices</string>
+	<key>UN2871</key>
+	<string>Antimony powder</string>
+	<key>UN2872</key>
+	<string>Dibromochloropropane</string>
+	<key>UN2873</key>
+	<string>Dibutylaminoethanol</string>
+	<key>UN2874</key>
+	<string>Furfuryl alcohol</string>
+	<key>UN2875</key>
+	<string>Hexachlorophene</string>
+	<key>UN2876</key>
+	<string>Resorcinol</string>
+	<key>UN2878</key>
+	<string>Titanium sponge granules or Titanium sponge powders</string>
+	<key>UN2879</key>
+	<string>Selenium oxychloride</string>
+	<key>UN2880</key>
+	<string>"Calcium hypochlorite, hydrated or Calcium hypochlorite, hydrated mixtures, with not less than 5.5 percent but not more than 10 percent water"</string>
+	<key>UN2880</key>
+	<string>"Calcium hypochlorite, hydrated or Calcium hypochlorite, hydrated mixtures, with not less than 5.5 percent but not more than 16 percent water"</string>
+	<key>UN2881</key>
+	<string>"Metal catalyst, dry"</string>
+	<key>UN2900</key>
+	<string>"Infectious substances, affecting animals only"</string>
+	<key>UN2901</key>
+	<string>Bromine chloride</string>
+	<key>UN2902</key>
+	<string>"Pesticides, liquid, toxic, n.o.s."</string>
+	<key>UN2903</key>
+	<string>"Pesticides, liquid, toxic, flammable, n.o.s. flash point not less than 23 degrees C"</string>
+	<key>UN2904</key>
+	<string>"Chlorophenolates, liquid or Phenolates, liquid"</string>
+	<key>UN2905</key>
+	<string>"Chlorophenolates, solid or Phenolates, solid"</string>
+	<key>UN2907</key>
+	<string>"Isosorbide dinitrate mixture with not less than 60 percent lactose, mannose, starch or calcium hydrogen phosphate"</string>
+	<key>UN2908</key>
+	<string>"Radioactive material, excepted package-empty packaging"</string>
+	<key>UN2909</key>
+	<string>"Radioactive material, excepted package-articles manufactured from natural uranium or depleted uranium or natural thorium"</string>
+	<key>UN2910</key>
+	<string>"Radioactive material, excepted package-limited quantity of material"</string>
+	<key>UN2911</key>
+	<string>"Radioactive material, excepted package-instruments or articles"</string>
+	<key>UN2912</key>
+	<string>"Radioactive material, low specific activity (LSA-I) non fissile or fissile-excepted"</string>
+	<key>UN2913</key>
+	<string>"Radioactive material, surface contaminated objects (SCO-I or SCO-II) non fissile or fissile-excepted"</string>
+	<key>UN2915</key>
+	<string>"Radioactive material, Type A package non-special form, non fissile or fissile-excepted"</string>
+	<key>UN2916</key>
+	<string>"Radioactive material, Type B(U) package non fissile or fissile-excepted"</string>
+	<key>UN2917</key>
+	<string>"Radioactive material, Type B(M) package non fissile or fissile-excepted"</string>
+	<key>UN2919</key>
+	<string>"Radioactive material, transported under special arrangement, non fissile or fissile excepted"</string>
+	<key>UN2920</key>
+	<string>"Corrosive liquids, flammable, n.o.s."</string>
+	<key>UN2921</key>
+	<string>"Corrosive solids, flammable, n.o.s."</string>
+	<key>UN2922</key>
+	<string>"Corrosive liquids, toxic, n.o.s."</string>
+	<key>UN2923</key>
+	<string>"Corrosive solids, toxic, n.o.s."</string>
+	<key>UN2924</key>
+	<string>"Flammable liquids, corrosive, n.o.s."</string>
+	<key>UN2925</key>
+	<string>"Flammable solids, corrosive, organic, n.o.s."</string>
+	<key>UN2926</key>
+	<string>"Flammable solids, toxic, organic, n.o.s."</string>
+	<key>UN2927</key>
+	<string>"Toxic liquids, corrosive, organic, n.o.s."</string>
+	<key>UN2928</key>
+	<string>"Toxic solids, corrosive, organic, n.o.s."</string>
+	<key>UN2929</key>
+	<string>"Toxic liquids, flammable, organic, n.o.s."</string>
+	<key>UN2930</key>
+	<string>"Toxic solids, flammable, organic, n.o.s."</string>
+	<key>UN2931</key>
+	<string>Vanadyl sulfate</string>
+	<key>UN2933</key>
+	<string>Methyl 2-chloropropionate</string>
+	<key>UN2934</key>
+	<string>Isopropyl 2-chloropropionate</string>
+	<key>UN2935</key>
+	<string>Ethyl 2-chloropropionate</string>
+	<key>UN2936</key>
+	<string>Thiolactic acid</string>
+	<key>UN2937</key>
+	<string>"alpha-Methylbenzyl alcohol, liquid"</string>
+	<key>UN2940</key>
+	<string>9-Phosphabicyclononanes or Cyclooctadiene phosphines</string>
+	<key>UN2941</key>
+	<string>Fluoroanilines</string>
+	<key>UN2942</key>
+	<string>2-Trifluoromethylaniline</string>
+	<key>UN2943</key>
+	<string>Tetrahydrofurfurylamine</string>
+	<key>UN2945</key>
+	<string>N-Methylbutylamine</string>
+	<key>UN2946</key>
+	<string>2-Amino-5-diethylaminopentane</string>
+	<key>UN2947</key>
+	<string>Isopropyl chloroacetate</string>
+	<key>UN2948</key>
+	<string>3-Trifluoromethylaniline</string>
+	<key>UN2949</key>
+	<string>Sodium hydrosulfide with not less than 25 percent water of crystallization</string>
+	<key>UN2950</key>
+	<string>"Magnesium granules, coated, particle size not less than 149 microns"</string>
+	<key>UN2956</key>
+	<string>"5-tert-Butyl-2,4,6-trinitro-m-xylene or Musk xylene"</string>
+	<key>UN2965</key>
+	<string>Boron trifluoride dimethyl etherate</string>
+	<key>UN2966</key>
+	<string>Thioglycol</string>
+	<key>UN2967</key>
+	<string>Sulfamic acid</string>
+	<key>UN2968</key>
+	<string>"Maneb stabilized or Maneb preparations, stabilized against self-heating"</string>
+	<key>UN2969</key>
+	<string>Castor beans or Castor meal or Castor pomace or Castor flake</string>
+	<key>UN2977</key>
+	<string>"Radioactive material, uranium hexafluoride, fissile"</string>
+	<key>UN2978</key>
+	<string>"Radioactive material, uranium hexafluoride non fissile or fissile-excepted"</string>
+	<key>UN2983</key>
+	<string>"Ethylene oxide and propylene oxide mixtures, with not more than 30 percent ethylene oxide"</string>
+	<key>UN2984</key>
+	<string>"Hydrogen peroxide, aqueous solutions with not less than 8 percent but less than 20 percent hydrogen peroxide (stabilized as necessary)"</string>
+	<key>UN2985</key>
+	<string>"Chlorosilanes, flammable, corrosive, n.o.s."</string>
+	<key>UN2986</key>
+	<string>"Chlorosilanes, corrosive, flammable, n.o.s."</string>
+	<key>UN2987</key>
+	<string>"Chlorosilanes, corrosive, n.o.s."</string>
+	<key>UN2988</key>
+	<string>"Chlorosilanes, water-reactive, flammable, corrosive, n.o.s."</string>
+	<key>UN2989</key>
+	<string>"Lead phosphite, dibasic"</string>
+	<key>UN2990</key>
+	<string>"Life-saving appliances, self inflating"</string>
+	<key>UN2991</key>
+	<string>"Carbamate pesticides, liquid, toxic, flammable, flash point not less than 23 degrees C"</string>
+	<key>UN2992</key>
+	<string>"Carbamate pesticides, liquid, toxic"</string>
+	<key>UN2993</key>
+	<string>"Arsenical pesticides, liquid, toxic, flammable flash point not less than 23 degrees C"</string>
+	<key>UN2994</key>
+	<string>"Arsenical pesticides, liquid, toxic"</string>
+	<key>UN2995</key>
+	<string>"Organochlorine pesticides, liquid, toxic, flammable, flash point not less than 23 degrees C"</string>
+	<key>UN2996</key>
+	<string>"Organochlorine pesticides, liquid, toxic"</string>
+	<key>UN2997</key>
+	<string>"Triazine pesticides, liquid, toxic, flammable, flash point not less than 23 degrees C"</string>
+	<key>UN2998</key>
+	<string>"Triazine pesticides, liquid, toxic"</string>
+	<key>UN3002</key>
+	<string>"Phenyl urea pesticides, liquid, toxic"</string>
+	<key>UN3005</key>
+	<string>"Thiocarbamate pesticide, liquid, toxic, flammable, flash point not less than 23 degrees C"</string>
+	<key>UN3006</key>
+	<string>"Thiocarbamate pesticide, liquid, toxic"</string>
+	<key>UN3009</key>
+	<string>"Copper based pesticides, liquid, toxic, flammable flash point not less than 23 degrees C"</string>
+	<key>UN3010</key>
+	<string>"Copper based pesticides, liquid, toxic"</string>
+	<key>UN3011</key>
+	<string>"Mercury based pesticides, liquid, toxic, flammable, flash point not less than 23 degrees C"</string>
+	<key>UN3012</key>
+	<string>"Mercury based pesticides, liquid, toxic"</string>
+	<key>UN3013</key>
+	<string>"Substituted nitrophenol pesticides, liquid, toxic, flammable flash point not less than 23 degrees C"</string>
+	<key>UN3014</key>
+	<string>"Substituted nitrophenol pesticides, liquid, toxic"</string>
+	<key>UN3015</key>
+	<string>"Bipyridilium pesticides, liquid, toxic, flammable, flash point not less than 23 degrees C"</string>
+	<key>UN3016</key>
+	<string>"Bipyridilium pesticides, liquid, toxic"</string>
+	<key>UN3017</key>
+	<string>"Organophosphorus pesticides, liquid, toxic, flammable, flash point not less than 23 degrees C"</string>
+	<key>UN3018</key>
+	<string>"Organophosphorus pesticides, liquid, toxic"</string>
+	<key>UN3019</key>
+	<string>"Organotin pesticides, liquid, toxic, flammable, flash point not less than 23 degrees C"</string>
+	<key>UN3020</key>
+	<string>"Organotin pesticides, liquid, toxic"</string>
+	<key>UN3021</key>
+	<string>"Pesticides, liquid, flammable, toxic, flash point less than 23 degrees C"</string>
+	<key>UN3022</key>
+	<string>"1,2-Butylene oxide, stabilized"</string>
+	<key>UN3023</key>
+	<string>2-Methyl-2-heptanethiol</string>
+	<key>UN3024</key>
+	<string>"Coumarin derivative pesticides, liquid, flammable, toxic, flash point less than 23 degrees C"</string>
+	<key>UN3025</key>
+	<string>"Coumarin derivative pesticides, liquid, toxic, flammable flash point not less than 23 degrees C"</string>
+	<key>UN3026</key>
+	<string>"Coumarin derivative pesticides, liquid, toxic"</string>
+	<key>UN3027</key>
+	<string>"Coumarin derivative pesticides, solid, toxic"</string>
+	<key>UN3028</key>
+	<string>"Batteries, dry, containing potassium hydroxide solid, electric, storage"</string>
+	<key>UN3048</key>
+	<string>Aluminum phosphide pesticides</string>
+	<key>UN3054</key>
+	<string>Cyclohexyl mercaptan</string>
+	<key>UN3055</key>
+	<string>2-(2-Aminoethoxy) ethanol</string>
+	<key>UN3056</key>
+	<string>n-Heptaldehyde</string>
+	<key>UN3057</key>
+	<string>Trifluoroacetyl chloride</string>
+	<key>UN3064</key>
+	<string>"Nitroglycerin, solution in alcohol, with more than 1 percent but not more than 5 percent nitroglycerin"</string>
+	<key>UN3065</key>
+	<string>Alcoholic beverages</string>
+	<key>UN3066</key>
+	<string>Paint or Paint related material</string>
+	<key>UN3070</key>
+	<string>"Ethylene oxide and dichlorodifluoromethane mixture, with not more than 12.5 percent ethylene oxide"</string>
+	<key>UN3071</key>
+	<string>"Mercaptans, liquid, toxic, flammable, n.o.s. or Mercaptan mixtures, liquid, toxic, flammable, n.o.s., flash point not less than 23 degrees C"</string>
+	<key>UN3072</key>
+	<string>"Life-saving appliances, not self inflating containing dangerous goods as equipment"</string>
+	<key>UN3073</key>
+	<string>"Vinylpyridines, stabilized"</string>
+	<key>UN3077</key>
+	<string>"Environmentally hazardous substances, solid, n.o.s."</string>
+	<key>UN3078</key>
+	<string>"Cerium, turnings or gritty powder"</string>
+	<key>UN3079</key>
+	<string>"Methacrylonitrile, stabilized"</string>
+	<key>UN3080</key>
+	<string>"Isocyanates, toxic, flammable, n.o.s. or Isocyanate solutions, toxic, flammable, n.o.s., flash point not less than 23 degrees C but not more than 61 degrees C and boiling point less than 300 degrees C"</string>
+	<key>UN3082</key>
+	<string>"Environmentally hazardous substances, liquid, n.o.s."</string>
+	<key>UN3083</key>
+	<string>Perchloryl fluoride</string>
+	<key>UN3084</key>
+	<string>"Corrosive solids, oxidizing, n.o.s."</string>
+	<key>UN3085</key>
+	<string>"Oxidizing solid, corrosive, n.o.s."</string>
+	<key>UN3086</key>
+	<string>"Toxic solids, oxidizing, n.o.s."</string>
+	<key>UN3087</key>
+	<string>"Oxidizing solid, toxic, n.o.s."</string>
+	<key>UN3088</key>
+	<string>"Self-heating solid, organic, n.o.s."</string>
+	<key>UN3089</key>
+	<string>"Metal powders, flammable, n.o.s."</string>
+	<key>UN3090</key>
+	<string>Lithium battery</string>
+	<key>UN3091</key>
+	<string>"Lithium batteries, contained in equipment"</string>
+	<key>UN3091</key>
+	<string>Lithium batteries packed with equipment</string>
+	<key>UN3092</key>
+	<string>1-Methoxy-2-propanol</string>
+	<key>UN3093</key>
+	<string>"Corrosive liquids, oxidizing, n.o.s."</string>
+	<key>UN3094</key>
+	<string>"Corrosive liquids, water-reactive, n.o.s."</string>
+	<key>UN3095</key>
+	<string>"Corrosive solids, self-heating, n.o.s."</string>
+	<key>UN3096</key>
+	<string>"Corrosive solids, water-reactive, n.o.s."</string>
+	<key>UN3097</key>
+	<string>"Flammable solid, oxidizing, n.o.s."</string>
+	<key>UN3098</key>
+	<string>"Oxidizing liquid, corrosive, n.o.s."</string>
+	<key>UN3099</key>
+	<string>"Oxidizing liquid, toxic, n.o.s."</string>
+	<key>UN3100</key>
+	<string>"Oxidizing solid, self-heating, n.o.s."</string>
+	<key>UN3101</key>
+	<string>"Organic peroxide type B, liquid"</string>
+	<key>UN3102</key>
+	<string>"Organic peroxide type B, solid"</string>
+	<key>UN3103</key>
+	<string>"Organic peroxide type C, liquid"</string>
+	<key>UN3104</key>
+	<string>"Organic peroxide type C, solid"</string>
+	<key>UN3105</key>
+	<string>"Organic peroxide type D, liquid"</string>
+	<key>UN3106</key>
+	<string>"Organic peroxide type D, solid"</string>
+	<key>UN3107</key>
+	<string>"Organic peroxide type E, liquid"</string>
+	<key>UN3108</key>
+	<string>"Organic peroxide type E, solid"</string>
+	<key>UN3109</key>
+	<string>"Organic peroxide type F, liquid"</string>
+	<key>UN3110</key>
+	<string>"Organic peroxide type F, solid"</string>
+	<key>UN3111</key>
+	<string>"Organic peroxide type B, liquid, temperature controlled"</string>
+	<key>UN3112</key>
+	<string>"Organic peroxide type B, solid, temperature controlled"</string>
+	<key>UN3113</key>
+	<string>"Organic peroxide type C, liquid, temperature controlled"</string>
+	<key>UN3114</key>
+	<string>"Organic peroxide type C, solid, temperature controlled"</string>
+	<key>UN3115</key>
+	<string>"Organic peroxide type D, liquid, temperature controlled"</string>
+	<key>UN3116</key>
+	<string>"Organic peroxide type D, solid, temperature controlled"</string>
+	<key>UN3117</key>
+	<string>"Organic peroxide type E, liquid, temperature controlled"</string>
+	<key>UN3118</key>
+	<string>"Organic peroxide type E, solid, temperature controlled"</string>
+	<key>UN3119</key>
+	<string>"Organic peroxide type F, liquid, temperature controlled"</string>
+	<key>UN3120</key>
+	<string>"Organic peroxide type F, solid, temperature controlled"</string>
+	<key>UN3121</key>
+	<string>"Oxidizing solid, water-reactive, n.o.s."</string>
+	<key>UN3122</key>
+	<string>"Toxic liquids, oxidizing, n.o.s."</string>
+	<key>UN3123</key>
+	<string>"Toxic liquids, water-reactive, n.o.s."</string>
+	<key>UN3124</key>
+	<string>"Toxic solids, self-heating, n.o.s."</string>
+	<key>UN3125</key>
+	<string>"Toxic solids, water-reactive, n.o.s."</string>
+	<key>UN3126</key>
+	<string>"Self-heating solid, corrosive, organic, n.o.s."</string>
+	<key>UN3127</key>
+	<string>"Self-heating solid, oxidizing, n.o.s."</string>
+	<key>UN3128</key>
+	<string>"Self-heating solid, toxic, organic, n.o.s."</string>
+	<key>UN3129</key>
+	<string>"Water-reactive liquid, corrosive, n.o.s."</string>
+	<key>UN3130</key>
+	<string>"Water-reactive liquid, toxic, n.o.s."</string>
+	<key>UN3131</key>
+	<string>"Water-reactive solid, corrosive, n.o.s."</string>
+	<key>UN3132</key>
+	<string>"Water-reactive solid, flammable, n.o.s."</string>
+	<key>UN3133</key>
+	<string>"Water-reactive, solid, oxidizing, n.o.s."</string>
+	<key>UN3134</key>
+	<string>"Water-reactive solid, toxic, n.o.s."</string>
+	<key>UN3135</key>
+	<string>"Water-reactive solid, self-heating, n.o.s."</string>
+	<key>UN3136</key>
+	<string>"Trifluoromethane, refrigerated liquid"</string>
+	<key>UN3137</key>
+	<string>"Oxidizing solid, flammable, n.o.s."</string>
+	<key>UN3138</key>
+	<string>"Ethylene, acetylene and propylene in mixture, refrigerated liquid with at least 71.5 percent ethylene with not more than 22.5 percent acetylene and not more than 6 percent propylene"</string>
+	<key>UN3139</key>
+	<string>"Oxidizing liquid, n.o.s."</string>
+	<key>UN3140</key>
+	<string>"Alkaloids, liquid, n.o.s., or Alkaloid salts, liquid, n.o.s."</string>
+	<key>UN3141</key>
+	<string>"Antimony compounds, inorganic, liquid, n.o.s."</string>
+	<key>UN3142</key>
+	<string>"Disinfectants, liquid, toxic, n.o.s."</string>
+	<key>UN3143</key>
+	<string>"Dyes, solid, toxic, n.o.s. or Dye intermediates, solid, toxic, n.o.s."</string>
+	<key>UN3144</key>
+	<string>"Nicotine compounds, liquid, n.o.s. or Nicotine preparations, liquid, n.o.s."</string>
+	<key>UN3145</key>
+	<string>"Alkylphenols, liquid, n.o.s. (including C2-C12 homologues)"</string>
+	<key>UN3146</key>
+	<string>"Organotin compounds, solid, n.o.s."</string>
+	<key>UN3147</key>
+	<string>"Dyes, solid, corrosive, n.o.s. or Dye intermediates, solid, corrosive, n.o.s."</string>
+	<key>UN3148</key>
+	<string>"Water-reactive liquid, n.o.s."</string>
+	<key>UN3149</key>
+	<string>"Hydrogen peroxide and peroxyacetic acid mixtures, stabilized with acids, water and not more than 5 percent peroxyacetic acid"</string>
+	<key>UN3150</key>
+	<string>"Devices, small, hydrocarbon gas powered or Hydrocarbon gas refills for small devices with release device"</string>
+	<key>UN3151</key>
+	<string>"Polyhalogenated biphenyls, liquid or Polyhalogenated terphenyls liquid"</string>
+	<key>UN3152</key>
+	<string>"Polyhalogenated biphenyls, solid or Polyhalogenated terphenyls, solid"</string>
+	<key>UN3153</key>
+	<string>Perfluoro(methyl vinyl ether)</string>
+	<key>UN3154</key>
+	<string>Perfluoro(ethyl vinyl ether)</string>
+	<key>UN3155</key>
+	<string>Pentachlorophenol</string>
+	<key>UN3156</key>
+	<string>"Compressed gas, oxidizing, n.o.s."</string>
+	<key>UN3157</key>
+	<string>"Liquefied gas, oxidizing, n.o.s."</string>
+	<key>UN3158</key>
+	<string>"Gas, refrigerated liquid, n.o.s. (cryogenic liquid)"</string>
+	<key>UN3159</key>
+	<string>"1,1,1,2-Tetrafluoroethane or Refrigerant gas R 134a"</string>
+	<key>UN3160</key>
+	<string>"Liquefied gas, toxic, flammable, n.o.s. Inhalation Hazard Zone A"</string>
+	<key>UN3160</key>
+	<string>"Liquefied gas, toxic, flammable, n.o.s. Inhalation Hazard Zone B"</string>
+	<key>UN3160</key>
+	<string>"Liquefied gas, toxic, flammable, n.o.s. Inhalation Hazard Zone C"</string>
+	<key>UN3160</key>
+	<string>"Liquefied gas, toxic, flammable, n.o.s. Inhalation Hazard Zone D"</string>
+	<key>UN3161</key>
+	<string>"Liquefied gas, flammable, n.o.s."</string>
+	<key>UN3162</key>
+	<string>"Liquefied gas, toxic, n.o.s. Inhalation Hazard Zone A"</string>
+	<key>UN3162</key>
+	<string>"Liquefied gas, toxic, n.o.s. Inhalation Hazard Zone B"</string>
+	<key>UN3162</key>
+	<string>"Liquefied gas, toxic, n.o.s. Inhalation Hazard Zone C"</string>
+	<key>UN3162</key>
+	<string>"Liquefied gas, toxic, n.o.s. Inhalation Hazard Zone D"</string>
+	<key>UN3163</key>
+	<string>"Liquefied gas, n.o.s."</string>
+	<key>UN3164</key>
+	<string>"Articles, pressurized pneumatic or hydraulic containing non-flammable gas"</string>
+	<key>UN3165</key>
+	<string>Aircraft hydraulic power unit fuel tank (containing a mixture of anhydrous hydrazine and monomethyl hydrazine) (M86 fuel)</string>
+	<key>UN3166</key>
+	<string>"Engines, internal combustion, flammable gas powered"</string>
+	<key>UN3166</key>
+	<string>"Engines, internal combustion, flammable liquid powered"</string>
+	<key>UN3166</key>
+	<string>"Vehicle, flammable gas powered"</string>
+	<key>UN3166</key>
+	<string>"Vehicle, flammable liquid powered"</string>
+	<key>UN3167</key>
+	<string>"Gas sample, non-pressurized, flammable, n.o.s., not refrigerated liquid"</string>
+	<key>UN3168</key>
+	<string>"Gas sample, non-pressurized, toxic, flammable, n.o.s., not refrigerated liquid"</string>
+	<key>UN3169</key>
+	<string>"Gas sample, non-pressurized, toxic, n.o.s., not refrigerated liquid"</string>
+	<key>UN3170</key>
+	<string>Aluminum smelting by-products or Aluminum remelting by-products</string>
+	<key>UN3171</key>
+	<string>Battery-powered vehicle or Battery-powered equipment</string>
+	<key>UN3172</key>
+	<string>"Toxins, extracted from living sources, liquid, n.o.s."</string>
+	<key>UN3172</key>
+	<string>"Toxins, from living sources, liquid, n.o.s."</string>
+	<key>UN3172</key>
+	<string>"Toxins, from living sources, solid, n.o.s."</string>
+	<key>UN3174</key>
+	<string>Titanium disulphide</string>
+	<key>UN3175</key>
+	<string>"Solids containing flammable liquid, n.o.s."</string>
+	<key>UN3176</key>
+	<string>"Flammable solid, organic, molten, n.o.s."</string>
+	<key>UN3178</key>
+	<string>"Flammable solid, inorganic, n.o.s."</string>
+	<key>UN3179</key>
+	<string>"Flammable solid, toxic, inorganic, n.o.s."</string>
+	<key>UN3180</key>
+	<string>"Flammable solid, corrosive, inorganic, n.o.s."</string>
+	<key>UN3181</key>
+	<string>"Metal salts of organic compounds, flammable, n.o.s."</string>
+	<key>UN3182</key>
+	<string>"Metal hydrides, flammable, n.o.s."</string>
+	<key>UN3183</key>
+	<string>"Self-heating liquid, organic, n.o.s."</string>
+	<key>UN3184</key>
+	<string>"Self-heating liquid, toxic, organic, n.o.s."</string>
+	<key>UN3185</key>
+	<string>"Self-heating liquid, corrosive, organic, n.o.s."</string>
+	<key>UN3186</key>
+	<string>"Self-heating liquid, inorganic, n.o.s."</string>
+	<key>UN3187</key>
+	<string>"Self-heating liquid, toxic, inorganic, n.o.s."</string>
+	<key>UN3188</key>
+	<string>"Self-heating liquid, corrosive, inorganic, n.o.s."</string>
+	<key>UN3189</key>
+	<string>"Metal powder, self-heating, n.o.s."</string>
+	<key>UN3190</key>
+	<string>"Self-heating solid, inorganic, n.o.s."</string>
+	<key>UN3191</key>
+	<string>"Self-heating solid, toxic, inorganic, n.o.s."</string>
+	<key>UN3192</key>
+	<string>"Self-heating solid, corrosive, inorganic, n.o.s."</string>
+	<key>UN3194</key>
+	<string>"Pyrophoric liquid, inorganic, n.o.s."</string>
+	<key>UN3200</key>
+	<string>"Pyrophoric solid, inorganic, n.o.s."</string>
+	<key>UN3205</key>
+	<string>"Alkaline earth metal alcoholates, n.o.s."</string>
+	<key>UN3206</key>
+	<string>"Alkali metal alcoholates, self-heating, corrosive, n.o.s."</string>
+	<key>UN3208</key>
+	<string>"Metallic substance, water-reactive, n.o.s."</string>
+	<key>UN3209</key>
+	<string>"Metallic substance, water-reactive, self-heating, n.o.s."</string>
+	<key>UN3210</key>
+	<string>"Chlorates, inorganic, aqueous solution, n.o.s."</string>
+	<key>UN3211</key>
+	<string>"Perchlorates, inorganic, aqueous solution, n.o.s."</string>
+	<key>UN3212</key>
+	<string>"Hypochlorites, inorganic, n.o.s."</string>
+	<key>UN3213</key>
+	<string>"Bromates, inorganic, aqueous solution, n.o.s. "</string>
+	<key>UN3213</key>
+	<string>"Bromates, inorganic, aqueous solution, n.o.s."</string>
+	<key>UN3214</key>
+	<string>"Permanganates, inorganic, aqueous solution, n.o.s."</string>
+	<key>UN3215</key>
+	<string>"Persulfates, inorganic, n.o.s."</string>
+	<key>UN3216</key>
+	<string>"Persulfates, inorganic, aqueous solution, n.o.s."</string>
+	<key>UN3218</key>
+	<string>"Nitrates, inorganic, aqueous solution, n.o.s."</string>
+	<key>UN3219</key>
+	<string>"Nitrites, inorganic, aqueous solution, n.o.s."</string>
+	<key>UN3220</key>
+	<string>Pentafluoroethane or Refrigerant gas R 125</string>
+	<key>UN3221</key>
+	<string>Self-reactive liquid type B</string>
+	<key>UN3222</key>
+	<string>Self-reactive solid type B</string>
+	<key>UN3223</key>
+	<string>Self-reactive liquid type C</string>
+	<key>UN3224</key>
+	<string>Self-reactive solid type C</string>
+	<key>UN3225</key>
+	<string>Self-reactive liquid type D</string>
+	<key>UN3226</key>
+	<string>Self-reactive solid type D</string>
+	<key>UN3227</key>
+	<string>Self-reactive liquid type E</string>
+	<key>UN3228</key>
+	<string>Self-reactive solid type E</string>
+	<key>UN3229</key>
+	<string>Self-reactive liquid type F</string>
+	<key>UN3230</key>
+	<string>Self-reactive solid type F</string>
+	<key>UN3231</key>
+	<string>"Self-reactive liquid type B, temperature controlled"</string>
+	<key>UN3232</key>
+	<string>"Self-reactive solid type B, temperature controlled"</string>
+	<key>UN3233</key>
+	<string>"Self-reactive liquid type C, temperature controlled"</string>
+	<key>UN3234</key>
+	<string>"Self-reactive solid type C, temperature controlled"</string>
+	<key>UN3235</key>
+	<string>"Self-reactive liquid type D, temperature controlled"</string>
+	<key>UN3236</key>
+	<string>"Self-reactive solid type D, temperature controlled"</string>
+	<key>UN3237</key>
+	<string>"Self-reactive liquid type E, temperature controlled"</string>
+	<key>UN3238</key>
+	<string>"Self-reactive solid type E, temperature controlled"</string>
+	<key>UN3239</key>
+	<string>"Self-reactive liquid type F, temperature controlled"</string>
+	<key>UN3240</key>
+	<string>"Self-reactive solid type F, temperature controlled"</string>
+	<key>UN3241</key>
+	<string>"2-Bromo-2-nitropropane-1,3-diol"</string>
+	<key>UN3242</key>
+	<string>Azodicarbonamide</string>
+	<key>UN3243</key>
+	<string>"Solids containing toxic liquid, n.o.s."</string>
+	<key>UN3244</key>
+	<string>"Solids containing corrosive liquid, n.o.s."</string>
+	<key>UN3246</key>
+	<string>Methanesulfonyl chloride</string>
+	<key>UN3247</key>
+	<string>"Sodium peroxoborate, anhydrous"</string>
+	<key>UN3248</key>
+	<string>"Medicine, liquid, flammable, toxic, n.o.s."</string>
+	<key>UN3249</key>
+	<string>"Medicine, solid, toxic, n.o.s."</string>
+	<key>UN3250</key>
+	<string>"Chloroacetic acid, molten"</string>
+	<key>UN3251</key>
+	<string>Isosorbide-5-mononitrate</string>
+	<key>UN3252</key>
+	<string>Difluoromethane or Refrigerant gas R 32</string>
+	<key>UN3253</key>
+	<string>Disodium trioxosilicate</string>
+	<key>UN3254</key>
+	<string>Tributylphosphane</string>
+	<key>UN3255</key>
+	<string>tert-Butyl hypochlorite</string>
+	<key>UN3256</key>
+	<string>"Elevated temperature liquid, flammable, n.o.s., with flash point above 37.8 C, at or above its flash point"</string>
+	<key>UN3257</key>
+	<string>"Elevated temperature liquid, n.o.s., at or above 100 C and below its flash point (including molten metals, molten salts, etc.)"</string>
+	<key>UN3258</key>
+	<string>"Elevated temperature solid, n.o.s., at or above 240 C, see 173.247(h)(4)"</string>
+	<key>UN3259</key>
+	<string>"Amines, solid, corrosive, n.o.s., or Polyamines, solid, corrosive n.o.s."</string>
+	<key>UN3260</key>
+	<string>"Corrosive solid, acidic, inorganic, n.o.s."</string>
+	<key>UN3261</key>
+	<string>"Corrosive solid, acidic, organic, n.o.s."</string>
+	<key>UN3262</key>
+	<string>"Corrosive solid, basic, inorganic, n.o.s."</string>
+	<key>UN3263</key>
+	<string>"Corrosive solid, basic, organic, n.o.s."</string>
+	<key>UN3264</key>
+	<string>"Corrosive liquid, acidic, inorganic, n.o.s."</string>
+	<key>UN3265</key>
+	<string>"Corrosive liquid, acidic, organic, n.o.s."</string>
+	<key>UN3266</key>
+	<string>"Corrosive liquid, basic, inorganic, n.o.s."</string>
+	<key>UN3267</key>
+	<string>"Corrosive liquid, basic, organic, n.o.s."</string>
+	<key>UN3268</key>
+	<string>"Air bag inflators, or Air bag modules, or Seat-belt pretensioners"</string>
+	<key>UN3269</key>
+	<string>Polyester resin kit</string>
+	<key>UN3270</key>
+	<string>"Nitrocellulose membrane filters, with not more than 12.6% nitrogen, by dry mass"</string>
+	<key>UN3271</key>
+	<string>"Ethers, n.o.s."</string>
+	<key>UN3272</key>
+	<string>"Esters, n.o.s."</string>
+	<key>UN3273</key>
+	<string>"Nitriles, flammable, toxic, n.o.s."</string>
+	<key>UN3274</key>
+	<string>"Alcoholates solution, n.o.s., in alcohol"</string>
+	<key>UN3275</key>
+	<string>"Nitriles, toxic, flammable, n.o.s."</string>
+	<key>UN3276</key>
+	<string>"Nitriles, toxic, liquid, n.o.s."</string>
+	<key>UN3277</key>
+	<string>"Chloroformates, toxic, corrosive, n.o.s."</string>
+	<key>UN3278</key>
+	<string>"Organophosphorus compound, toxic, liquid, n.o.s."</string>
+	<key>UN3279</key>
+	<string>"Organophosphorus compound, toxic, flammable, n.o.s."</string>
+	<key>UN3280</key>
+	<string>"Organoarsenic compound, liquid, n.o.s."</string>
+	<key>UN3281</key>
+	<string>"Metal carbonyls, liquid, n.o.s."</string>
+	<key>UN3282</key>
+	<string>"Organometallic compound, toxic, liquid, n.o.s."</string>
+	<key>UN3283</key>
+	<string>"Selenium compound, solid, n.o.s."</string>
+	<key>UN3284</key>
+	<string>"Tellurium compound, n.o.s."</string>
+	<key>UN3285</key>
+	<string>"Vanadium compound, n.o.s."</string>
+	<key>UN3286</key>
+	<string>"Flammable liquid, toxic, corrosive, n.o.s."</string>
+	<key>UN3287</key>
+	<string>"Toxic liquid, inorganic, n.o.s."</string>
+	<key>UN3288</key>
+	<string>"Toxic solid, inorganic, n.o.s."</string>
+	<key>UN3289</key>
+	<string>"Toxic liquid, corrosive, inorganic, n.o.s."</string>
+	<key>UN3290</key>
+	<string>"Toxic solid, corrosive, inorganic, n.o.s."</string>
+	<key>UN3291</key>
+	<string>"Regulated medical waste, n.o.s. or Clinical waste, unspecified, n.o.s. or (BIO) Medical waste, n.o.s. or Medical Waste n.o.s."</string>
+	<key>UN3292</key>
+	<string>"Batteries, containing sodium"</string>
+	<key>UN3292</key>
+	<string>"Cells, containing sodium"</string>
+	<key>UN3293</key>
+	<string>"Hydrazine, aqueous solution with not more than 37 percent hydrazine, by mass"</string>
+	<key>UN3294</key>
+	<string>"Hydrogen cyanide, solution in alcohol with not more than 45 percent hydrogen cyanide"</string>
+	<key>UN3295</key>
+	<string>"Hydrocarbons, liquid, n.o.s."</string>
+	<key>UN3296</key>
+	<string>Heptafluoropropane or Refrigerant gas R 227</string>
+	<key>UN3297</key>
+	<string>Ethylene oxide and chlorotetrafluoroethane mixture with not more than 8.8 percent ethylene oxide</string>
+	<key>UN3298</key>
+	<string>Ethylene oxide and pentafluoroethane mixture with not more than 7.9 percent ethylene oxide</string>
+	<key>UN3299</key>
+	<string>Ethylene oxide and tetrafluoroethane mixture with not more than 5.6 percent ethylene oxide</string>
+	<key>UN3300</key>
+	<string>Ethylene oxide and carbon dioxide mixture with more than 87 percent ethylene oxide</string>
+	<key>UN3301</key>
+	<string>"Corrosive liquid, self-heating, n.o.s."</string>
+	<key>UN3302</key>
+	<string>2-Dimethylaminoethyl acrylate</string>
+	<key>UN3303</key>
+	<string>"Compressed gas, toxic, oxidizing, n.o.s. Inhalation Hazard Zone A"</string>
+	<key>UN3303</key>
+	<string>"Compressed gas, toxic, oxidizing, n.o.s. Inhalation Hazard Zone B"</string>
+	<key>UN3303</key>
+	<string>"Compressed gas, toxic, oxidizing, n.o.s. Inhalation Hazard Zone C"</string>
+	<key>UN3303</key>
+	<string>"Compressed gas, toxic, oxidizing, n.o.s. Inhalation Hazard Zone D"</string>
+	<key>UN3304</key>
+	<string>"Compressed gas, toxic, corrosive, n.o.s. Inhalation Hazard Zone A"</string>
+	<key>UN3304</key>
+	<string>"Compressed gas, toxic, corrosive, n.o.s. Inhalation Hazard Zone B"</string>
+	<key>UN3304</key>
+	<string>"Compressed gas, toxic, corrosive, n.o.s. Inhalation Hazard Zone C"</string>
+	<key>UN3304</key>
+	<string>"Compressed gas, toxic, corrosive, n.o.s. Inhalation Hazard Zone D"</string>
+	<key>UN3305</key>
+	<string>"Compressed gas, toxic, flammable, corrosive, n.o.s. Inhalation Hazard Zone A"</string>
+	<key>UN3305</key>
+	<string>"Compressed gas, toxic, flammable, corrosive, n.o.s. Inhalation Hazard Zone B"</string>
+	<key>UN3305</key>
+	<string>"Compressed gas, toxic, flammable, corrosive, n.o.s. Inhalation Hazard Zone C"</string>
+	<key>UN3305</key>
+	<string>"Compressed gas, toxic, flammable, corrosive, n.o.s. Inhalation Hazard Zone D"</string>
+	<key>UN3306</key>
+	<string>"Compressed gas, toxic, oxdizing, corrosive, n.o.s. Inhalation Hazard Zone A"</string>
+	<key>UN3306</key>
+	<string>"Compressed gas, toxic, oxidizing, corrosive, n.o.s. Inhalation Hazard Zone B"</string>
+	<key>UN3306</key>
+	<string>"Compressed gas, toxic, oxidizing, corrosive, n.o.s. Inhalation Hazard Zone C"</string>
+	<key>UN3306</key>
+	<string>"Compressed gas, toxic, oxidizing, corrosive, n.o.s. Inhalation Hazard Zone D"</string>
+	<key>UN3307</key>
+	<string>"Liquefied gas, toxic, oxidizing, n.o.s. Inhalation Hazard Zone A"</string>
+	<key>UN3307</key>
+	<string>"Liquefied gas, toxic, oxidizing, n.o.s. Inhalation Hazard Zone B"</string>
+	<key>UN3307</key>
+	<string>"Liquefied gas, toxic, oxidizing, n.o.s. Inhalation Hazard Zone C"</string>
+	<key>UN3307</key>
+	<string>"Liquefied gas, toxic, oxidizing, n.o.s. Inhalation Hazard Zone D"</string>
+	<key>UN3308</key>
+	<string>"Liquefied gas, toxic, corrosive, n.o.s. Inhalation Hazard Zone A"</string>
+	<key>UN3308</key>
+	<string>"Liquefied gas, toxic, corrosive, n.o.s. Inhalation Hazard Zone B"</string>
+	<key>UN3308</key>
+	<string>"Liquefied gas, toxic, corrosive, n.o.s. Inhalation Hazard Zone C"</string>
+	<key>UN3308</key>
+	<string>"Liquefied gas, toxic, corrosive, n.o.s. Inhalation Hazard Zone D"</string>
+	<key>UN3309</key>
+	<string>"Liquefied gas, toxic, flammable, corrosive, n.o.s. Inhalation Hazard Zone A"</string>
+	<key>UN3309</key>
+	<string>"Liquefied gas, toxic, flammable, corrosive, n.o.s. Inhalation Hazard Zone B"</string>
+	<key>UN3309</key>
+	<string>"Liquefied gas, toxic, flammable, corrosive, n.o.s. Inhalation Hazard Zone C"</string>
+	<key>UN3309</key>
+	<string>"Liquefied gas, toxic, flammable, corrosive, n.o.s. Inhalation Hazard Zone D"</string>
+	<key>UN3310</key>
+	<string>"Liquefied gas, toxic, oxidizing, corrosive, n.o.s. Inhalation Hazard Zone A"</string>
+	<key>UN3310</key>
+	<string>"Liquefied gas, toxic, oxidizing, corrosive, n.o.s. Inhalation Hazard Zone B"</string>
+	<key>UN3310</key>
+	<string>"Liquefied gas, toxic, oxidizing, corrosive, n.o.s. Inhalation Hazard Zone C"</string>
+	<key>UN3310</key>
+	<string>"Liquefied gas, toxic, oxidizing, corrosive, n.o.s. Inhalation Hazard Zone D"</string>
+	<key>UN3311</key>
+	<string>"Gas, refrigerated liquid, oxidizing, n.o.s. (cryogenic liquid)"</string>
+	<key>UN3312</key>
+	<string>"Gas, refrigerated liquid, flammable, n.o.s. (cryogenic liquid)"</string>
+	<key>UN3313</key>
+	<string>"Organic pigments, self-heating"</string>
+	<key>UN3314</key>
+	<string>"Plastic molding compound in dough, sheet or extruded rope form evolving flammable vapor"</string>
+	<key>UN3316</key>
+	<string>Chemical kits</string>
+	<key>UN3316</key>
+	<string>First aid kits</string>
+	<key>UN3317</key>
+	<string>"2-Amino-4,6-Dinitrophenol, wetted with not less than 20 percent water by mass"</string>
+	<key>UN3318</key>
+	<string>"Ammonia solution, relative density less than 0.880 at 15 degrees C in water, with more than 50 percent ammonia"</string>
+	<key>UN3319</key>
+	<string>"Nitroglycerin mixture, desensitized, solid, n.o.s. with more than 2 percent but not more than 10 percent nitroglycerin, by mass"</string>
+	<key>UN3320</key>
+	<string>"Sodium borohydride and sodium hydroxide solution, with not more than 12 percent sodium borohydride and not more than 40 percent sodium hydroxide by mass"</string>
+	<key>UN3321</key>
+	<string>"Radioactive material, low specific activity (LSA-II) non fissile or fissile-excepted"</string>
+	<key>UN3322</key>
+	<string>"Radioactive material, low specific activity (LSA-III) non fissile or fissile excepted"</string>
+	<key>UN3327</key>
+	<string>"Radioactive material, Type A package, fissile non-special form"</string>
+	<key>UN3328</key>
+	<string>"Radioactive material, Type B(U) package, fissile"</string>
+	<key>UN3329</key>
+	<string>"Radioactive material, Type B(M) package, fissile"</string>
+	<key>UN3331</key>
+	<string>"Radioactive material, transported under special arrangement, fissile"</string>
+	<key>UN3332</key>
+	<string>"Radioactive material, Type A package, special form non fissile or fissile-excepted"</string>
+	<key>UN3333</key>
+	<string>"Radioactive material, Type A package, special form, fissile"</string>
+	<key>UN3334</key>
+	<string>"Aviation regulated liquid, n.o.s."</string>
+	<key>UN3335</key>
+	<string>"Aviation regulated solid, n.o.s."</string>
+	<key>UN3336</key>
+	<string>"Mercaptans, liquid, flammable, n.o.s. or Mercaptan mixture, liquid, flammable, n.o.s."</string>
+	<key>UN3337</key>
+	<string>Refrigerant gas R 404A</string>
+	<key>UN3338</key>
+	<string>Refrigerant gas R 407A</string>
+	<key>UN3339</key>
+	<string>Refrigerant gas R 407B</string>
+	<key>UN3340</key>
+	<string>Refrigerant gas R 407C</string>
+	<key>UN3341</key>
+	<string>Thiourea dioxide</string>
+	<key>UN3342</key>
+	<string>Xanthates</string>
+	<key>UN3343</key>
+	<string>"Nitroglycerin mixture, desensitized, liquid, flammable, n.o.s. with not more than 30 percent nitroglycerin, by mass"</string>
+	<key>UN3344</key>
+	<string>"Pentaerythrite tetranitrate mixture, desensitized, solid, n.o.s. or Pentaerythritol tetranitrate mixture, desensitized, solid, n.o.s. or PETN mixture, desensitized, solid, n.o.s. with more than 10 percent but not more than 20 percent PETN, by mass"</string>
+	<key>UN3345</key>
+	<string>"Phenoxyacetic acid derivative pesticide, solid, toxic"</string>
+	<key>UN3346</key>
+	<string>"Phenoxyacetic acid derivative pesticide, liquid, flammable, toxic flash point less than 23 degrees C."</string>
+	<key>UN3347</key>
+	<string>"Phenoxyacetic acid derivative pesticide, liquid, toxic, flammable, flash point not less than 23 degrees C"</string>
+	<key>UN3348</key>
+	<string>"Phenoxyacetic acid derivative pesticide, liquid, toxic"</string>
+	<key>UN3349</key>
+	<string>"Pyrethroid pesticide, solid, toxic"</string>
+	<key>UN3350</key>
+	<string>"Pyrethroid pesticide, liquid, flammable, toxic, flash point less than 23 degrees C"</string>
+	<key>UN3351</key>
+	<string>"Pyrethroid pesticide, liquid, toxic, flammable, flash point not less than 23 degrees C"</string>
+	<key>UN3352</key>
+	<string>"Pyrethroid pesticide, liquid toxic"</string>
+	<key>UN3354</key>
+	<string>"Insecticide gases, flammable, n.o.s."</string>
+	<key>UN3355</key>
+	<string>"Insecticide gases, toxic, flammable, n.o.s. Inhalation Hazard Zone A"</string>
+	<key>UN3355</key>
+	<string>"Insecticide gases, toxic, flammable, n.o.s. Inhalation Hazard Zone B"</string>
+	<key>UN3355</key>
+	<string>"Insecticide gases, toxic, flammable, n.o.s. Inhalation Hazard Zone C"</string>
+	<key>UN3355</key>
+	<string>"Insecticide gases, toxic, flammable, n.o.s. Inhalation Hazard Zone D"</string>
+	<key>UN3356</key>
+	<string>"Oxygen generator, chemical (including when contained in associated equipment, e.g., passenger service units (PSUs), portable breathing equipment (PBE), etc)."</string>
+	<key>UN3357</key>
+	<string>"Nitroglycerin mixture, desensitized, liquid, n.o.s. with not more than 30% nitroglycerin, by mass"</string>
+	<key>UN3358</key>
+	<string>"Refrigerating machines, containing flammable, non-toxic, liquefied gas"</string>
+	<key>UN3360</key>
+	<string>"Fibers, vegetable, dry"</string>
+	<key>UN3361</key>
+	<string>"Chlorosilanes, toxic, corrosive, n.o.s."</string>
+	<key>UN3362</key>
+	<string>"Chlorosilanes, toxic, corrosive, flammable, n.o.s."</string>
+	<key>UN3363</key>
+	<string>Dangerous Goods in Machinery or Dangerous Goods in Apparatus</string>
+	<key>UN3364</key>
+	<string>"Trinitrophenol (picric acid), wetted, with not less than 10% water by mass."</string>
+	<key>UN3365</key>
+	<string>"Trinitrochlorobenzene (picryl chloride), wetted, with not less than 10% water by mass"</string>
+	<key>UN3366</key>
+	<string>"Trinitrotoluene (TNT), wetted, with not less than 10% water by mass."</string>
+	<key>UN3367</key>
+	<string>"Trinitrobenzene, wetted, with not less than 10% water by mass."</string>
+	<key>UN3368</key>
+	<string>"Trinitrobenzoic acid, wetted, with not less than 10% water by mass."</string>
+	<key>UN3369</key>
+	<string>"Sodium dinitro-o-cresolate, wetted, with not less than 10% water by mass."</string>
+	<key>UN3370</key>
+	<string>"Urea nitrate, wetted, with not less than 10% water by mass."</string>
+	<key>UN3371</key>
+	<string>2-Methylbutanal</string>
+	<key>UN3373</key>
+	<string>"Biological substance, Category B"</string>
+	<key>UN3375</key>
+	<string>"Ammonium emulsion or Ammonium nitrate suspension or Ammonium nitrate gel, intermediate for blasting explosives"</string>
+	<key>UN3376</key>
+	<string>"4-Nitrophenylhydrazine, with not less than 30% water, by mass"</string>
+	<key>UN3377</key>
+	<string>Sodium perborate monohydrate</string>
+	<key>UN3378</key>
+	<string>Sodium carbonate peroxyhydrate</string>
+	<key>UN3379</key>
+	<string>"Desensitized explosives, liquid, n.o.s."</string>
+	<key>UN3380</key>
+	<string>"Desensitized explosives, solid, n.o.s."</string>
+	<key>UN3381</key>
+	<string>"Toxic by inhalation liquid, n.o.s. with an inhalation toxicity lower than or equal to 200 ml/m3 and saturated vapor concentration greater than or equal to 500 LC50."</string>
+	<key>UN3382</key>
+	<string>"Toxic by inhalation liquid, n.o.s. with an inhalation toxicity lower than or equal to 1000 ml/m3 and saturated vapor concentration greater than or equal to 10 LC50."</string>
+	<key>UN3383</key>
+	<string>"Toxic by inhalation liquid, flammable, n.o.s. with an inhalation toxicity lower than or equal to 200 ml/m3 and saturated vapor concentration greater than or equal to 500 LC50."</string>
+	<key>UN3384</key>
+	<string>"Toxic by inhalation liquid, flammable, n.o.s. with an inhalation toxicity lower than or equal to 200 ml/m3 and saturated vapor concentration greater than or equal to 10 LC50."</string>
+	<key>UN3385</key>
+	<string>"Toxic by inhalation, liquid, water-reactive, n.o.s. with an inhalation toxicity lower than or equal to 200 ml/m3 and saturated vapor concentration greater than or equal to 500 LC50."</string>
+	<key>UN3386</key>
+	<string>"Toxic by inhalation liquid, water-reactive, n.o.s. with an inhalation toxicity lower than or equal to 1000 ml/m3 and saturated vapor concentration greater than or equal to 10 LC50."</string>
+	<key>UN3387</key>
+	<string>"Toxic by inhalation liquid, oxidizing, n.o.s. with an inhalation toxicity lower than or equal to 200 ml/m3 and saturated vapor concentration greater than or equal to 500 LC50"</string>
+	<key>UN3388</key>
+	<string>"Toxic by inhalation liquid, oxidizing, n.o.s. with an inhalation toxicity lower than or equal to 1000 ml/m3 and saturated vapor concentration greater than or equal to 10 LC50."</string>
+	<key>UN3389</key>
+	<string>"Toxic by inhaltion liquid, corrosive, n.o.s. with an inhalation toxicity lower than or equal to 200 ml/m3 and saturated vapor concentration greater than or equal to 500 LC50."</string>
+	<key>UN3390</key>
+	<string>"Toxic by inhalation liquid, corrosive, n.o.s. with an inhalation toxicity lower than or equal to 1000 ml/m3 and saturated vapor concentration greater than or equal to 10 LC50."</string>
+	<key>UN3391</key>
+	<string>"Organometallic substance, solid, pyrophoric"</string>
+	<key>UN3392</key>
+	<string>"Organometallic substance, liquid, pyrophoric"</string>
+	<key>UN3393</key>
+	<string>"Organometallic substance, solid, pyrophoric, water-reactive"</string>
+	<key>UN3394</key>
+	<string>"Organometallic substance, liquid, pyrophoric, water-reactive"</string>
+	<key>UN3395</key>
+	<string>"Organometallic substance, solid, water-reactive"</string>
+	<key>UN3396</key>
+	<string>"Organometallic substance, solid, water-reactive, flammable"</string>
+	<key>UN3397</key>
+	<string>"Organometallic substance, solid, water reactive, self-heating"</string>
+	<key>UN3397</key>
+	<string>"Organometallic substance, solid, water-reactive, self-heating"</string>
+	<key>UN3398</key>
+	<string>"Organometallic substance, liquid, water-reactive"</string>
+	<key>UN3399</key>
+	<string>"Organometallic substance, liquid, water-reactive, flammable"</string>
+	<key>UN3400</key>
+	<string>"Organometallic substance, solid, self-heating"</string>
+	<key>UN3401</key>
+	<string>"Alkali metal amalgam, solid"</string>
+	<key>UN3402</key>
+	<string>"Alkaline earth metal amalgams, solid"</string>
+	<key>UN3403</key>
+	<string>"Potassium metal alloys, solid"</string>
+	<key>UN3404</key>
+	<string>"Potassium sodium alloys, solid"</string>
+	<key>UN3405</key>
+	<string>"Barium chlorate, solution"</string>
+	<key>UN3405</key>
+	<string>Barium chlorate solution</string>
+	<key>UN3406</key>
+	<string>"Barium perchlorate, solution"</string>
+	<key>UN3407</key>
+	<string>Chlorate and magnesium chloride mixture solution</string>
+	<key>UN3408</key>
+	<string>"Lead perchlorate, solution"</string>
+	<key>UN3409</key>
+	<string>"Chloronitrobenzenes, liquid "</string>
+	<key>UN3410</key>
+	<string>"4-Chloro-o-toluidine hydrochloride, solution"</string>
+	<key>UN3411</key>
+	<string>beta-Naphthylamine solution</string>
+	<key>UN3412</key>
+	<string>Formic acid with not less than 10% but not more than 85% acid by mass</string>
+	<key>UN3412</key>
+	<string>Formic acid with not less than 5% but not more than 10% acid by mass</string>
+	<key>UN3413</key>
+	<string>Potassium cyanide solution</string>
+	<key>UN3414</key>
+	<string>Sodium cyanide solution</string>
+	<key>UN3415</key>
+	<string>Sodium fluoride solution</string>
+	<key>UN3416</key>
+	<string>"Chloroacetopheone, liquid, (CN)"</string>
+	<key>UN3417</key>
+	<string>"Xylyl bromide, solid"</string>
+	<key>UN3418</key>
+	<string>"2,4-Toluylenediamine solution or 2,4-Toluenediamine solution"</string>
+	<key>UN3418</key>
+	<string>"2,4-Tolylenediamine solution or 2,4-Toluenediamine solution"</string>
+	<key>UN3419</key>
+	<string>"Boron trifluoride acetic acid complex, solid"</string>
+	<key>UN3420</key>
+	<string>"Boron trifluoride propionic acid complex, solid"</string>
+	<key>UN3421</key>
+	<string>Potassium hyrdogendifluoride solution</string>
+	<key>UN3422</key>
+	<string>Potassiumm fluoride solution</string>
+	<key>UN3423</key>
+	<string>"Tetramethylammonium hydroxide, solid"</string>
+	<key>UN3424</key>
+	<string>Ammonium dinitro-o-cresolate solution</string>
+	<key>UN3425</key>
+	<string>"Bromoacetic acid, solid"</string>
+	<key>UN3426</key>
+	<string>Acrylamide solution</string>
+	<key>UN3427</key>
+	<string>"Chlorobenzyl chlorides, solid"</string>
+	<key>UN3428</key>
+	<string>"3-Chloro-4-methylphenyl isocyanate, solid"</string>
+	<key>UN3429</key>
+	<string>"Chlorotoluidines, liquid"</string>
+	<key>UN3430</key>
+	<string>"Xylenols, liquid"</string>
+	<key>UN3431</key>
+	<string>"Nitrobenzotrifluorides, solid"</string>
+	<key>UN3432</key>
+	<string>"Polychlorinated biphenyls, solid"</string>
+	<key>UN3434</key>
+	<string>"Nitrocresols, liquid"</string>
+	<key>UN3436</key>
+	<string>"Hexafluoroacetone hydrate, solid"</string>
+	<key>UN3437</key>
+	<string>"Chlorocresols, solid"</string>
+	<key>UN3438</key>
+	<string>"alpha-Methylbenzyl alcohol, solid"</string>
+	<key>UN3439</key>
+	<string>"Nitriles, toxic, solid, n.o.s. "</string>
+	<key>UN3439</key>
+	<string>"Nitriles, toxic, solid, n.o.s."</string>
+	<key>UN3440</key>
+	<string>"Selenium compound, liquid, n.o.s. "</string>
+	<key>UN3440</key>
+	<string>"Selenium compound, liquid, n.o.s."</string>
+	<key>UN3441</key>
+	<string>"Chlorodinitrobenzenes, solid"</string>
+	<key>UN3442</key>
+	<string>"Dichloroanilines, solid"</string>
+	<key>UN3443</key>
+	<string>"Dinitrobenzenes, solid"</string>
+	<key>UN3444</key>
+	<string>"Nicotine hydrochloride, solid"</string>
+	<key>UN3445</key>
+	<string>"Nicotine sulfate, solid"</string>
+	<key>UN3446</key>
+	<string>"Nitrotoluenes, solid"</string>
+	<key>UN3447</key>
+	<string>"Nitroxylenes, solid"</string>
+	<key>UN3448</key>
+	<string>"Tear gas substance, solid, n.o.s. "</string>
+	<key>UN3448</key>
+	<string>"Tear gas substance, solid, n.o.s."</string>
+	<key>UN3449</key>
+	<string>"Bromobenzyl cyanides, solid"</string>
+	<key>UN3450</key>
+	<string>"Diphenylchloroarsine, solid"</string>
+	<key>UN3451</key>
+	<string>"Toluidines, solid"</string>
+	<key>UN3452</key>
+	<string>"Xylidines, solid"</string>
+	<key>UN3453</key>
+	<string>"Phosphoric acid, solid"</string>
+	<key>UN3454</key>
+	<string>"Dinitrotoluenes, solid"</string>
+	<key>UN3455</key>
+	<string>"Cresols, solid"</string>
+	<key>UN3456</key>
+	<string>"Nitrosylsulphuric acid, solid"</string>
+	<key>UN3457</key>
+	<string>"Chloronitrotoluenes, solid"</string>
+	<key>UN3458</key>
+	<string>"Nitroanisoles, solid"</string>
+	<key>UN3459</key>
+	<string>"Nitrobromobenzenes, solid"</string>
+	<key>UN3460</key>
+	<string>"N-Ethylbenzyltoluidines, solid"</string>
+	<key>UN3462</key>
+	<string>"Toxins, extracted from living sources, solid, n.o.s."</string>
+	<key>UN3463</key>
+	<string>Propionic acid with not less than 90% acid by mass</string>
+	<key>UN3464</key>
+	<string>"Organophosphorus compound, toxic, solid, n.o.s."</string>
+	<key>UN3465</key>
+	<string>"Organoarsenic compound, solid, n.o.s."</string>
+	<key>UN3466</key>
+	<string>"Metal carbonyls, solid, n.o.s."</string>
+	<key>UN3467</key>
+	<string>"Organometallic compound, toxic, solid, n.o.s."</string>
+	<key>UN3468</key>
+	<string>Hydrogen in a metal hydride stroage system or Hydrogen in a metal hydride storage system contained in equipment or Hydrogen in a metal hydride storage system packed with equipment</string>
+	<key>UN3469</key>
+	<string>"Paint related material, flammable, corrosive (including paint thinning or reducing compound)"</string>
+	<key>UN3469</key>
+	<string>"Paint, flammable, corrosive, (including paint , lacquer, enamel, stain, shellac, varnish, polish, liquid filler and liquid lacquer base)"</string>
+	<key>UN3470</key>
+	<string>"Paint related material corrosive, flammable (including paint thinning or reducing compound)"</string>
+	<key>UN3470</key>
+	<string>"Paint, corrosive, flammable (including paint, lacquer, enamel, stain, shellac solutions, varnish, polish, liquid filler, and liquid lacquer base)"</string>
+	<key>UN3471</key>
+	<string>"Hydrogendifluorides, solution n.o.s. "</string>
+	<key>UN3471</key>
+	<string>"Hydrogendifluorides, solution, n.o.s. "</string>
+	<key>UN3472</key>
+	<string>Crotonic acid liquid</string>
+	<key>UN3473</key>
+	<string>Fuel cell cartridges or Fuel cell cartridges contained in equipment or Fuel cell cartridges packed with equipment containing flammable liquids  </string>
+	<key>UN3474</key>
+	<string>"1-Hydroxybenzotriazole, anhydrous, wetted with not less than 20 percent water, by mass"</string>
+	<key>UN3475</key>
+	<string>"Ethanol and gasoline mixture or Ethanol and motor spirit mixture or Ethanol and petrol mixture, with more then 10% ethanol"</string>
+	<key>UN3476</key>
+	<string>Fuel cell cartridges or Fuel cell cartridges contained in equipment or Fuel cell cartridges packed with equipment containing water-reactive substances</string>
+	<key>UN3477</key>
+	<string>Fuel cell cartridges or Fuel cell cartridges contained in equipment or Fuel cell cartridges packed with equipment containing corrosive substances</string>
+	<key>UN3478</key>
+	<string>Fuel cell cartridges or Fuel cell cartridges contained in equipment or Fuel cell cartridges packed with equipment containing liquefied flammable gas</string>
+	<key>UN3479</key>
+	<string>Fuel cell cartridges or Fuel cell cartridges contained in equipment or Fuel cell cartridges packed with equipment containing hydrogen in metal hydride</string>
+</dict>
+</plist>

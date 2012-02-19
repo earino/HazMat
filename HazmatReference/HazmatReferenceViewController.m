@@ -8,53 +8,74 @@
 
 #import "HazmatReferenceViewController.h"
 
+@interface HazmatReferenceViewController()
+@property (nonatomic, strong) NSDictionary * hazmatDB;
+@end
+
 @implementation HazmatReferenceViewController
 
-- (void)didReceiveMemoryWarning
-{
-    [super didReceiveMemoryWarning];
-    // Release any cached data, images, etc that aren't in use.
+@synthesize hazmatCode = _hazmatCode;
+@synthesize hazmatCodeDescription = _hazmatCodeDescription;
+@synthesize hazmatDB = _hazmatDB;
+
+- (void)viewDidLoad {
+	[super viewDidLoad];
+	[self.hazmatCode setDelegate:self];
 }
 
-#pragma mark - View lifecycle
 
-- (void)viewDidLoad
+- (NSDictionary *) hazmatDB 
 {
-    [super viewDidLoad];
-	// Do any additional setup after loading the view, typically from a nib.
+    if (_hazmatDB == nil) {
+        NSString *pathToPlist = [[NSBundle mainBundle]
+                                    pathForResource:@"hazmat_codes"
+                                    ofType:@"plist"];
+
+        _hazmatDB = [NSDictionary dictionaryWithContentsOfFile:pathToPlist];
+    }
+    
+    return _hazmatDB;
 }
 
-- (void)viewDidUnload
-{
+- (IBAction)findHazmatCode:(id)sender {
+//    NSLog(@"Number of entries: %d", self.hazmatDB.count);
+//    NSLog(@"Value of hazmat entry: %@", self.hazmatCode.text);
+    
+//    NSString* hazmatDescription = [self.hazmatDB valueForKey: self.hazmatCode.text];
+//    NSLog(@"Description of hazmat entry: %@", hazmatDescription);
+    
+    //find a key that works
+    NSArray *keyArray = [self.hazmatDB allKeys];
+    int count = [keyArray count];
+    bool found = NO;
+    for (int i=0; i < count; i++) {
+        NSString *key = [keyArray objectAtIndex:i];
+        
+        if ([key rangeOfString:self.hazmatCode.text].location != NSNotFound) {
+            self.hazmatCodeDescription.text = [self.hazmatDB valueForKey: key];
+            found = YES;
+            break;
+        }
+    }
+    
+    if (! found) {
+        UIAlertView *alertView = [[UIAlertView alloc] initWithTitle:@"Not Found"
+                                                            message:[NSString stringWithFormat:@"Unable to find HazMat with code %@", self.hazmatCode.text]
+                                                           delegate:self cancelButtonTitle:@"Ok" otherButtonTitles:nil];
+        [alertView show];
+    }
+    
+}
+
+- (BOOL)textFieldShouldReturn:(UITextField *)textField {
+    [textField resignFirstResponder];
+    [self findHazmatCode:textField];
+    return YES;
+}
+
+- (void)viewDidUnload {
+    [self setHazmatCode:nil];
+    [self setHazmatCodeDescription:nil];
     [super viewDidUnload];
-    // Release any retained subviews of the main view.
-    // e.g. self.myOutlet = nil;
 }
-
-- (void)viewWillAppear:(BOOL)animated
-{
-    [super viewWillAppear:animated];
-}
-
-- (void)viewDidAppear:(BOOL)animated
-{
-    [super viewDidAppear:animated];
-}
-
-- (void)viewWillDisappear:(BOOL)animated
-{
-	[super viewWillDisappear:animated];
-}
-
-- (void)viewDidDisappear:(BOOL)animated
-{
-	[super viewDidDisappear:animated];
-}
-
-- (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation
-{
-    // Return YES for supported orientations
-    return (interfaceOrientation != UIInterfaceOrientationPortraitUpsideDown);
-}
-
 @end
