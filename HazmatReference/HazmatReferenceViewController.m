@@ -53,6 +53,7 @@
         
         if ([key rangeOfString:self.hazmatCode.text].location != NSNotFound) {
             self.hazmatCodeDescription.text = [self.hazmatDB valueForKey: key];
+            self.hazmatCode.text = key;
             found = YES;
             break;
         }
