@@ -1,0 +1,282 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		88B29AD214F08D30008496B6 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 88B29AD114F08D30008496B6 /* UIKit.framework */; };
+		88B29AD414F08D30008496B6 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 88B29AD314F08D30008496B6 /* Foundation.framework */; };
+		88B29AD614F08D30008496B6 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 88B29AD514F08D30008496B6 /* CoreGraphics.framework */; };
+		88B29ADC14F08D30008496B6 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 88B29ADA14F08D30008496B6 /* InfoPlist.strings */; };
+		88B29ADE14F08D30008496B6 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 88B29ADD14F08D30008496B6 /* main.m */; };
+		88B29AE214F08D30008496B6 /* HazmatReferenceAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 88B29AE114F08D30008496B6 /* HazmatReferenceAppDelegate.m */; };
+		88B29AE514F08D30008496B6 /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 88B29AE314F08D30008496B6 /* MainStoryboard.storyboard */; };
+		88B29AE814F08D30008496B6 /* HazmatReferenceViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 88B29AE714F08D30008496B6 /* HazmatReferenceViewController.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		88B29ACD14F08D30008496B6 /* HazmatReference.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HazmatReference.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		88B29AD114F08D30008496B6 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		88B29AD314F08D30008496B6 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		88B29AD514F08D30008496B6 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		88B29AD914F08D30008496B6 /* HazmatReference-Info.plist */ = {isa = PBXFileReference; path = "HazmatReference-Info.plist"; sourceTree = "<group>"; };
+		88B29ADB14F08D30008496B6 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		88B29ADD14F08D30008496B6 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		88B29ADF14F08D30008496B6 /* HazmatReference-Prefix.pch */ = {isa = PBXFileReference; path = "HazmatReference-Prefix.pch"; sourceTree = "<group>"; };
+		88B29AE014F08D30008496B6 /* HazmatReferenceAppDelegate.h */ = {isa = PBXFileReference; path = HazmatReferenceAppDelegate.h; sourceTree = "<group>"; };
+		88B29AE114F08D30008496B6 /* HazmatReferenceAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HazmatReferenceAppDelegate.m; sourceTree = "<group>"; };
+		88B29AE414F08D30008496B6 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
+		88B29AE614F08D30008496B6 /* HazmatReferenceViewController.h */ = {isa = PBXFileReference; path = HazmatReferenceViewController.h; sourceTree = "<group>"; };
+		88B29AE714F08D30008496B6 /* HazmatReferenceViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HazmatReferenceViewController.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		88B29ACA14F08D30008496B6 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				88B29AD214F08D30008496B6 /* UIKit.framework in Frameworks */,
+				88B29AD414F08D30008496B6 /* Foundation.framework in Frameworks */,
+				88B29AD614F08D30008496B6 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		88B29AC214F08D30008496B6 = {
+			isa = PBXGroup;
+			children = (
+				88B29AD714F08D30008496B6 /* HazmatReference */,
+				88B29AD014F08D30008496B6 /* Frameworks */,
+				88B29ACE14F08D30008496B6 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		88B29ACE14F08D30008496B6 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				88B29ACD14F08D30008496B6 /* HazmatReference.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		88B29AD014F08D30008496B6 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				88B29AD114F08D30008496B6 /* UIKit.framework */,
+				88B29AD314F08D30008496B6 /* Foundation.framework */,
+				88B29AD514F08D30008496B6 /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		88B29AD714F08D30008496B6 /* HazmatReference */ = {
+			isa = PBXGroup;
+			children = (
+				88B29AE014F08D30008496B6 /* HazmatReferenceAppDelegate.h */,
+				88B29AE114F08D30008496B6 /* HazmatReferenceAppDelegate.m */,
+				88B29AE314F08D30008496B6 /* MainStoryboard.storyboard */,
+				88B29AE614F08D30008496B6 /* HazmatReferenceViewController.h */,
+				88B29AE714F08D30008496B6 /* HazmatReferenceViewController.m */,
+				88B29AD814F08D30008496B6 /* Supporting Files */,
+			);
+			path = HazmatReference;
+			sourceTree = "<group>";
+		};
+		88B29AD814F08D30008496B6 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				88B29AD914F08D30008496B6 /* HazmatReference-Info.plist */,
+				88B29ADA14F08D30008496B6 /* InfoPlist.strings */,
+				88B29ADD14F08D30008496B6 /* main.m */,
+				88B29ADF14F08D30008496B6 /* HazmatReference-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		88B29ACC14F08D30008496B6 /* HazmatReference */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 88B29AEB14F08D30008496B6 /* Build configuration list for PBXNativeTarget "HazmatReference" */;
+			buildPhases = (
+				88B29AC914F08D30008496B6 /* Sources */,
+				88B29ACA14F08D30008496B6 /* Frameworks */,
+				88B29ACB14F08D30008496B6 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = HazmatReference;
+			productName = HazmatReference;
+			productReference = 88B29ACD14F08D30008496B6 /* HazmatReference.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		88B29AC414F08D30008496B6 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0420;
+				ORGANIZATIONNAME = "Global Tetrahedron";
+			};
+			buildConfigurationList = 88B29AC714F08D30008496B6 /* Build configuration list for PBXProject "HazmatReference" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 88B29AC214F08D30008496B6;
+			productRefGroup = 88B29ACE14F08D30008496B6 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				88B29ACC14F08D30008496B6 /* HazmatReference */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		88B29ACB14F08D30008496B6 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				88B29ADC14F08D30008496B6 /* InfoPlist.strings in Resources */,
+				88B29AE514F08D30008496B6 /* MainStoryboard.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		88B29AC914F08D30008496B6 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				88B29ADE14F08D30008496B6 /* main.m in Sources */,
+				88B29AE214F08D30008496B6 /* HazmatReferenceAppDelegate.m in Sources */,
+				88B29AE814F08D30008496B6 /* HazmatReferenceViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		88B29ADA14F08D30008496B6 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				88B29ADB14F08D30008496B6 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		88B29AE314F08D30008496B6 /* MainStoryboard.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				88B29AE414F08D30008496B6 /* en */,
+			);
+			name = MainStoryboard.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		88B29AE914F08D30008496B6 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		88B29AEA14F08D30008496B6 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		88B29AEC14F08D30008496B6 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "HazmatReference/HazmatReference-Prefix.pch";
+				INFOPLIST_FILE = "HazmatReference/HazmatReference-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		88B29AED14F08D30008496B6 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "HazmatReference/HazmatReference-Prefix.pch";
+				INFOPLIST_FILE = "HazmatReference/HazmatReference-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		88B29AC714F08D30008496B6 /* Build configuration list for PBXProject "HazmatReference" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				88B29AE914F08D30008496B6 /* Debug */,
+				88B29AEA14F08D30008496B6 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		88B29AEB14F08D30008496B6 /* Build configuration list for PBXNativeTarget "HazmatReference" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				88B29AEC14F08D30008496B6 /* Debug */,
+				88B29AED14F08D30008496B6 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 88B29AC414F08D30008496B6 /* Project object */;
+}
